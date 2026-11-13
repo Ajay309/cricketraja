@@ -13,6 +13,18 @@ if (!process.env.NODE_ENV) {
   process.env.NODE_ENV = "production";
 }
 
-const { startServer } = require("./backend/app");
+const appModule = require("./backend/app");
 
-startServer();
+// Local: `node server.cjs` -> normal listen()
+if (require.main === module) {
+  appModule.startServer();
+}
+
+// Vercel: listen() nahi, sirf request handler export
+let server;
+module.exports = (req, res) => {
+  if (!server) {
+    server = appModule.createAppServer();
+  }
+  server.emit("request", req, res);
+};

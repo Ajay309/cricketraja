@@ -34,6 +34,7 @@ const {
 const { resolveExternalIframeLaunch } = require("./external-iframe-games");
 
 const APP_ROOT_DIR = path.resolve(__dirname, "..");
+const ROOT_DIR = APP_ROOT_DIR;
 const HOME_LEGACY_ICON_DIR = path.join(APP_ROOT_DIR, "casino", "casino-icons", "lc");
 const HOME_REFERENCE_IMAGE_PATTERN = /^ref-(\d+)\.(png|jpe?g|gif|webp|svg)$/i;
 const HOME_REFERENCE_IMAGE_ORDER = (() => {
