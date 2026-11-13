@@ -15,6 +15,18 @@ if (!process.env.NODE_ENV) {
 
 const appModule = require("./backend/app");
 
+module.exports = (req, res) => {
+  res.statusCode = 200;
+  res.setHeader("content-type", "application/json");
+  res.end(JSON.stringify({
+    resolved: require.resolve("./backend/app"),
+    type: typeof appModule,
+    keys: Object.keys(appModule || {}),
+    cwd: process.cwd(),
+    node: process.version
+  }, null, 2));
+};
+
 // Local: `node server.cjs` -> normal listen()
 if (require.main === module) {
   appModule.startServer();
