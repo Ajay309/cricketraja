@@ -1,0 +1,106 @@
+{
+  "clicked": false,
+  "placed": false,
+  "bodyInfo": {
+    "url": "http://127.0.0.1:3000/home",
+    "bodyTextLen": 7283,
+    "bodyChildren": 13,
+    "bodyBg": "rgb(255, 255, 255)",
+    "htmlBg": "rgba(0, 0, 0, 0)",
+    "hasUserDetails": true,
+    "placeBtnPresent": true
+  },
+  "logs": {
+    "pageErrors": [],
+    "console": [],
+    "responses": [
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": ""
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX1/mT5NNGwkEfHR1Xkf34+cPO5wSJSqU001f7jBs8okVmOAveaRM3I7/9VudBfqR5GMGF44UQX3+O2qq7v1iJLqEoGt+1C6fcqzLvf9PeJgiX7NQoBE8UZh1\"}"
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX180Mr57ka+SXGgNN1TBkAJ4Z1+OG/9c/MPkKGq+wgwI+VmC1fanmhiEIfzochQffOWLk+rUt5VdvcMA2None56+uQZV6ZGLVsdxJWi03Hki9X+fSBpDuBZ7\"}"
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX1+oon2K2c0f0KPdxIXbSNHJwoG3jU41WxKOMlvm3qIFajiikwQQOQJwxuVZIFLO/USPaZ9xXmehaqHpn869uYDXuW1Fy4iKq4srG4gRGaHeEzqb2mQr2XdX\"}"
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX1/tj4Rki0D4WylQ6JeusIcWu/uMuqUmOF3m3PxcdobBGgWBRFsiSWEG4DJDYhr8aPLeA1CCnPThg/fDFF9yGZnccy2NtNPWseBB+Nj4Dhn5BsBDED456dzP\"}"
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX18YaanajDHcC8CtyJkTrobpM2hWcBrN1nILocd0+Y3iTUGqV/GTZ5s15T4b9SxIWdz/+6wocmYStRsXq+BYgG6yX0x2CUoO5gC7MMPGyBMpuxSs1IIIfwxd\"}"
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX1+WpAR43SHFCczxul7rCjb7VLMYBt07Jlt1M5RPNGnbFhfeE/Y/S5BNIpAtijW1kIbHufEMlpmmsllrycvFo02MQBIV5gNRuqyFGDAG2zIVViRpA7lZRIjf\"}"
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX191GdvgiI8DiNguA4JCX/0tUpoOWiHyKQTIhDKVN1odcNF/TY8pDZcdUm+iMUUvTLyFmdkCAQB7mNk8bm7SoYDG0c1Gwj0h4UwVkXDZYJqjdc9RmzBb5FLV\"}"
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX1/gB6M+jTxCt8xyL1Wcjn6Xzm/S14g5GpBJc971X3JzILvAEcbsnahxR4mxeYv2yK4ciaWcF1YMmEMpYHgYZEz8FulhIEMiq/THtj7DEd0yY1z58kzN+nEo\"}"
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX1+oAm+l10gKj/FDLCIc+oRnuJzB12CloLVjlQfQzFv+i5nlKwUa+HFs4IQ+OeSecuiloSyEQNKI2JTPSihNSSxj/BXQ0jp8U61ebWsvcj1eU7Qnl4dZFcPC\"}"
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX19PA2wMM9jMdA78spofejvkTeYVusSm09NhkyxTIY71Ct2X6HYF+HUabpHSqrp9+6h1F+x/SHXkcRtL0ZtvDBw4k/M4ZjFfSVf0RHOv1mwMBsCeDfQQNMRY\"}"
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX1/CSBtkOpxE2SbSerhnk54APZ6v5ciq99tnATI4G7ViNGUWGIw5N42nRvucVA3CaJ3S+PrEfkR+C5rwHUvtmIIA69edEN2B36qeq8QwMet/7yfDXZeshLa8\"}"
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX1/p7krP/2yxuswQ5QPZ6xYqdWpR5POxNlwseGoCGIZAGn/Aj9PCve00+Fb/exRgmkTKy/jSQzbM9aNdjiLzvvRUrxyT26aVF5QQ8lrCM7VVqVOpOoDJp/g1\"}"
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX1+Y0W9ETvRUadnQ9HsK0Zjv1FfDz78DeKuZcNqJWzn39DuFRsppJtTf0xjP+WkZrx/V8FNAblkq6i3cLMlOGKMfASmMWMrjihCiM3LbGanyasBU6PXt6cGB\"}"
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX18t1N+fAE1p37yFZPTAjp1GDWCWPl3fLsagTJjhRGq/az4dATkC8xi425bmOTBL4fP/Numpb0i38xXNIW4LQlGYKfhucHIoQ8LZ6Zt2wCRj0h+vNE5CJSJQ\"}"
+      },
+      {
+        "status": 200,
+        "url": "http://127.0.0.1:3000/api/front/userdata",
+        "body": "{\"data\":\"U2FsdGVkX1+gv1hJSg6m/Vzbk6AL4wh9Qhl/jywQEyF2Zc2GW3Pdu/yN7OWwJ4m80nOVnH60q7oikYcxVh7jdzmXyFRFDRwH7/09IPsvuZJi2bS1mRXGf3U2Fitpo6K2\"}"
+      }
+    ],
+    "urlTrail": [
+      "http://127.0.0.1:3000/home",
+      "http://127.0.0.1:3000/home",
+      "http://127.0.0.1:3000/",
+      "http://127.0.0.1:3000/home",
+      "http://127.0.0.1:3000/home"
+    ]
+  }
+}

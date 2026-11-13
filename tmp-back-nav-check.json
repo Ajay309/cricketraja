@@ -1,0 +1,44 @@
+[
+  {
+    "t": "nav",
+    "u": "http://127.0.0.1:4400/home"
+  },
+  {
+    "t": "nav",
+    "u": "http://127.0.0.1:4400/home"
+  },
+  {
+    "t": "nav",
+    "u": "http://127.0.0.1:4400/"
+  },
+  {
+    "t": "state",
+    "step": "start",
+    "url": "http://127.0.0.1:4400/",
+    "hlen": 3
+  },
+  {
+    "t": "state",
+    "step": "after-push",
+    "url": "http://127.0.0.1:4400/",
+    "hlen": null
+  },
+  {
+    "t": "nav",
+    "u": "http://127.0.0.1:4400/provider-game?gid=mock_provider_game_123"
+  },
+  {
+    "t": "nav",
+    "u": "http://127.0.0.1:4400/home"
+  },
+  {
+    "t": "nav",
+    "u": "http://127.0.0.1:4400/"
+  },
+  {
+    "t": "state",
+    "step": "after-back",
+    "url": "http://127.0.0.1:4400/",
+    "hlen": 3
+  }
+]

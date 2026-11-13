@@ -1,0 +1,109 @@
+{
+  "found": true,
+  "chain": [
+    {
+      "tag": "BUTTON",
+      "cls": "btn btn-success",
+      "id": "",
+      "style": "",
+      "display": "inline-block",
+      "visibility": "hidden",
+      "opacity": "1",
+      "position": "static",
+      "width": "auto",
+      "height": "auto",
+      "text": "Accept"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "id": "",
+      "style": "",
+      "display": "block",
+      "visibility": "hidden",
+      "opacity": "1",
+      "position": "static",
+      "width": "auto",
+      "height": "auto",
+      "text": "AcceptCancel"
+    },
+    {
+      "tag": "DIV",
+      "cls": "modal-footer",
+      "id": "",
+      "style": "",
+      "display": "flex",
+      "visibility": "hidden",
+      "opacity": "1",
+      "position": "static",
+      "width": "auto",
+      "height": "auto",
+      "text": "I agree all rulesAcceptCancel"
+    },
+    {
+      "tag": "DIV",
+      "cls": "modal-content",
+      "id": "",
+      "style": "",
+      "display": "flex",
+      "visibility": "hidden",
+      "opacity": "1",
+      "position": "relative",
+      "width": "100%",
+      "height": "auto",
+      "text": "RulesI agree all rulesAcceptCancel"
+    },
+    {
+      "tag": "DIV",
+      "cls": "modal-dialog modal-xl",
+      "id": "",
+      "style": "",
+      "display": "block",
+      "visibility": "hidden",
+      "opacity": "1",
+      "position": "relative",
+      "width": "auto",
+      "height": "auto",
+      "text": "RulesI agree all rulesAcceptCancel"
+    },
+    {
+      "tag": "DIV",
+      "cls": "fade rules-modal modal show",
+      "id": "",
+      "style": "display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;",
+      "display": "none",
+      "visibility": "hidden",
+      "opacity": "0",
+      "position": "fixed",
+      "width": "100%",
+      "height": "100%",
+      "text": "RulesI agree all rulesAcceptCancel"
+    },
+    {
+      "tag": "BODY",
+      "cls": "",
+      "id": "",
+      "style": "overflow: auto;",
+      "display": "block",
+      "visibility": "visible",
+      "opacity": "1",
+      "position": "static",
+      "width": "1366px",
+      "height": "1928.5px",
+      "text": "RulesDownload Apk Balance: 9,970Exposure: 0jaxNewly Launched Matka Market In Our ExchangeHomeLottery"
+    },
+    {
+      "tag": "HTML",
+      "cls": "",
+      "id": "",
+      "style": "--app-height: 900px; overflow: auto;",
+      "display": "block",
+      "visibility": "visible",
+      "opacity": "1",
+      "position": "static",
+      "width": "1366px",
+      "height": "1928.5px",
+      "text": "DHONIEXCH\n  \n  \n  \n  \n  \n  \n  \n\n  \n  \n  \n  \n  \n  \n  \n\n  .rules-modal{display:none !important;visib"
+    }
+  ]
+}

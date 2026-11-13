@@ -1,0 +1,215 @@
+<!DOCTYPE html><html lang="en" data-critters-container class="is-mobile s-dark canvas webgl supports csstransforms csstransforms3d avif apng webp no-jpeg2000 webp-alpha webp-animation webp-lossless" style="font-size: 3.75px;" dir data-beasties-container><head><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta charset="utf-8">
+  <title></title>
+  <base href="/">
+  <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <link id="app-style" rel="stylesheet" href>
+    <style>@font-face{font-family:'Jost';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oDd4iYl.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Jost';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73ord4iYl.woff2) format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Jost';font-style:normal;font-weight:300;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face{font-family:'Jost';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oDd4iYl.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Jost';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73ord4iYl.woff2) format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Jost';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face{font-family:'Jost';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oDd4iYl.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Jost';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73ord4iYl.woff2) format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Jost';font-style:normal;font-weight:500;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face{font-family:'Jost';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oDd4iYl.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Jost';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73ord4iYl.woff2) format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Jost';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face{font-family:'Jost';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oDd4iYl.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Jost';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73ord4iYl.woff2) format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Jost';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}@font-face{font-family:'Jost';font-style:normal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oDd4iYl.woff2) format('woff2');unicode-range:U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;}@font-face{font-family:'Jost';font-style:normal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73ord4iYl.woff2) format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;}@font-face{font-family:'Jost';font-style:normal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/jost/v20/92zatBhPNqw73oTd4g.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}</style>
+
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <style>header[_ngcontent-serverApp-c397162420]{z-index:60}.pop-bg[_ngcontent-serverApp-c397162420]{z-index:120}.pop-wrap[_ngcontent-serverApp-c397162420]{z-index:129}.menu-mask[_ngcontent-serverApp-c397162420]{z-index:115}.gotop[_ngcontent-serverApp-c397162420]{z-index:84}.float-banner[_ngcontent-serverApp-c397162420], .searchpage[_ngcontent-serverApp-c397162420]{z-index:80}.launch-game-content[_ngcontent-serverApp-c397162420]{z-index:115}.tips-display[_ngcontent-serverApp-c397162420]{z-index:116}.loader-box[_ngcontent-serverApp-c397162420]{z-index:9002}.loading-mask[_ngcontent-serverApp-c397162420]{z-index:9001}.rotating-pop[_ngcontent-serverApp-c397162420]{z-index:130}#chat-widget-container[_ngcontent-serverApp-c397162420]{z-index:120!important}.tag-rebate-money[_ngcontent-serverApp-c397162420]{font-family:Bebas Neue,Helvetica,Tahoma,sans-serif}[_nghost-serverApp-c397162420]{display:contents}.tag-rebate-money[_ngcontent-serverApp-c397162420]{position:absolute;z-index:3;top:2.1333333333vw;right:-1.0666666667vw;padding:0 .8vw;animation:_ngcontent-serverApp-c397162420_tagRebateBoney 1s .3s forwards;border-radius:0 .8vw .8vw 0;opacity:0;background: var(--wallet-bouns-tag-bg);box-shadow: 0 0 2px #0000004d;color: var(--wallet-bouns-tag-txt);line-height:0;pointer-events:none}.tag-rebate-money[_ngcontent-serverApp-c397162420]:before, .tag-rebate-money[_ngcontent-serverApp-c397162420]:after{content:"";position:absolute;left:-6px;width:0;height:0;border-style:solid;background: transparent}.tag-rebate-money[_ngcontent-serverApp-c397162420]:before{top:0;border-width:0 6px 10px 0;border-color: transparent var(--wallet-bouns-tag-bg) transparent transparent}.tag-rebate-money[_ngcontent-serverApp-c397162420]:after{bottom:0;border-width:0 0 10px 6px;border-color: transparent transparent var(--wallet-bouns-tag-bg)}.tag-rebate-money[_ngcontent-serverApp-c397162420]   p[_ngcontent-serverApp-c397162420], .tag-rebate-money[_ngcontent-serverApp-c397162420]   span[_ngcontent-serverApp-c397162420]{display:inline-block;vertical-align:text-bottom}.tag-rebate-money[_ngcontent-serverApp-c397162420]   span[_ngcontent-serverApp-c397162420]{width:auto!important;font-size:3.4666666667vw;letter-spacing:0;line-height:1.5}.tag-rebate-money[_ngcontent-serverApp-c397162420]   p[_ngcontent-serverApp-c397162420]{font-size:4.2666666667vw;letter-spacing:-1px;line-height:5.3333333333vw;height:4.8vw}@keyframes _ngcontent-serverApp-c397162420_tagRebateBoney{0%{right:-4.2666666667vw;opacity:0}60%{opacity:1}to{right:-1.0666666667vw;opacity:1}}html.is-desktop[_nghost-serverApp-c397162420]   .tag-rebate-money[_ngcontent-serverApp-c397162420], html.is-desktop   [_nghost-serverApp-c397162420]   .tag-rebate-money[_ngcontent-serverApp-c397162420]{top:8px;right:-4px;border-radius:0 3px 3px 0;padding:3px}html.is-desktop[_nghost-serverApp-c397162420]   .tag-rebate-money[_ngcontent-serverApp-c397162420]   p[_ngcontent-serverApp-c397162420], html.is-desktop   [_nghost-serverApp-c397162420]   .tag-rebate-money[_ngcontent-serverApp-c397162420]   p[_ngcontent-serverApp-c397162420]{font-size:16px;letter-spacing:-1px;line-height:18px;height:16px}@keyframes _ngcontent-serverApp-c397162420_tagRebateBoney{0%{right:-16px;opacity:0}60%{opacity:1}to{right:-4px;opacity:1}}</style>
+<style>
+    header[_ngcontent-serverApp-c397162420] {
+        z-index: 60;
+    }
+    .pop-bg[_ngcontent-serverApp-c397162420] {
+        z-index: 120;
+    }
+    .pop-wrap[_ngcontent-serverApp-c397162420] {
+        z-index: 129;
+    }
+    .menu-mask[_ngcontent-serverApp-c397162420] {
+        z-index: 115;
+    }
+    .gotop[_ngcontent-serverApp-c397162420] {
+        z-index: 84;
+    }
+    .float-banner[_ngcontent-serverApp-c397162420],
+    .searchpage[_ngcontent-serverApp-c397162420] {
+        z-index: 80;
+    }
+    .launch-game-content[_ngcontent-serverApp-c397162420] {
+        z-index: 115;
+    }
+    .tips-display[_ngcontent-serverApp-c397162420] {
+        z-index: 116;
+    }
+    .loader-box[_ngcontent-serverApp-c397162420] {
+        z-index: 9002;
+    }
+    .loading-mask[_ngcontent-serverApp-c397162420] {
+        z-index: 9001;
+    }
+    .rotating-pop[_ngcontent-serverApp-c397162420] {
+        z-index: 130;
+    }
+    #chat-widget-container[_ngcontent-serverApp-c397162420] {
+        z-index: 120 !important;
+    }
+    .tag-rebate-money[_ngcontent-serverApp-c397162420] {
+        font-family: Bebas Neue, Helvetica, Tahoma, sans-serif;
+    }
+    app-game-page{
+    width: 100% !important;
+}
+
+.layout-desktop__main .searchpage {
+    z-index: 129;
+    display: flex
+;
+    flex-direction: column;
+    top: 0;
+    bottom: 0;
+    width: 375px;border: .32rem solid var(--desktop-searchpage-border);
+    border-radius: 1.0666666667rem;
+}
+.layout-desktop__main .searchpage-bar {
+    position: absolute;
+    right: auto;
+    top: auto;
+    transform: translate(0);
+}
+.searchpage.active {
+    right: 0;
+    opacity: 1;
+    transition: right .3s, opacity 0s 0s;
+}
+.searchpage.active {
+    right: 0;
+    opacity: 1;
+    transition: right .3s, opacity 0s 0s;
+}
+    [_nghost-serverApp-c397162420] {
+        display: contents;
+    }
+    .tag-rebate-money[_ngcontent-serverApp-c397162420] {
+        position: absolute;
+        z-index: 3;
+        top: 10px;
+        right: -1.0666666667vw;
+        padding: 0 0 0;
+        animation: _ngcontent-serverApp-c397162420_tagRebateBoney 1s 0.3s forwards;
+        border-radius: 0 10px 10px 0;
+        opacity: 0;background: var(--wallet-bouns-tag-bg);box-shadow: 0 0 2px #0000004d;color: var(--wallet-bouns-tag-txt);
+        line-height: 0;
+        pointer-events: none;
+    }
+    .tag-rebate-money[_ngcontent-serverApp-c397162420]:before,
+    .tag-rebate-money[_ngcontent-serverApp-c397162420]:after {
+        content: "";
+        position: absolute;
+        left: -6px;
+        width: 0;
+        height: 0;
+        border-style: solid;background: transparent;
+    }
+    .tag-rebate-money[_ngcontent-serverApp-c397162420]:before {
+        top: 0;
+        border-width: 0 6px 10px 0;border-color: transparent var(--wallet-bouns-tag-bg) transparent transparent;
+    }
+    .tag-rebate-money[_ngcontent-serverApp-c397162420]:after {
+        bottom: 0;
+        border-width: 0 0 10px 6px;border-color: transparent transparent var(--wallet-bouns-tag-bg);
+    }
+    .tag-rebate-money[_ngcontent-serverApp-c397162420] p[_ngcontent-serverApp-c397162420],
+    .tag-rebate-money[_ngcontent-serverApp-c397162420] span[_ngcontent-serverApp-c397162420] {
+        display: inline-block;
+        vertical-align: text-bottom;
+    }
+    .tag-rebate-money[_ngcontent-serverApp-c397162420] span[_ngcontent-serverApp-c397162420] {
+        width: auto !important;
+        font-size: 3.4666666667vw;
+        letter-spacing: 0;
+        line-height: 1.5;
+    }
+    .tag-rebate-money[_ngcontent-serverApp-c397162420] p[_ngcontent-serverApp-c397162420] {
+        font-size: 18px;
+        letter-spacing: -1px;
+        line-height:18px;
+        height: 20px;
+    }
+    
+    @keyframes _ngcontent-serverApp-c397162420_tagRebateBoney {
+        0% {
+            right: -4.2666666667vw;
+            opacity: 0;
+        }
+        60% {
+            opacity: 1;
+        }
+        to {
+            right: -1.0666666667vw;
+            opacity: 1;
+        }
+    }
+    html.is-desktop[_nghost-serverApp-c397162420] .tag-rebate-money[_ngcontent-serverApp-c397162420],
+    html.is-desktop [_nghost-serverApp-c397162420] .tag-rebate-money[_ngcontent-serverApp-c397162420] {
+        top: 8px;
+        right: -4px;
+        border-radius: 0 3px 3px 0;
+        padding: 3px;
+    }
+    html.is-desktop[_nghost-serverApp-c397162420] .tag-rebate-money[_ngcontent-serverApp-c397162420] p[_ngcontent-serverApp-c397162420],
+    html.is-desktop [_nghost-serverApp-c397162420] .tag-rebate-money[_ngcontent-serverApp-c397162420] p[_ngcontent-serverApp-c397162420] {
+        font-size: 16px;
+        letter-spacing: -1px;
+        line-height: 18px;
+        height: 16px;
+    }
+    @keyframes _ngcontent-serverApp-c397162420_tagRebateBoney {
+        0% {
+            right: -16px;
+            opacity: 0;
+        }
+        60% {
+            opacity: 1;
+        }
+        to {
+            right: -4px;
+            opacity: 1;
+        }
+    }
+</style>
+
+<style>
+      .intercom-lightweight-app-launcher,
+      .intercom-launcher-frame,
+      .intercom-dfosxs {
+        bottom: 7% !important;
+      }
+
+      .intercom-lightweight-app,
+      .intercom-lightweight-app-launcher,
+      .intercom-launcher-frame,
+      .intercom-dfosxs {
+        display: none !important;
+        opacity: 0 !important;
+      }
+    </style>
+    <style>[_nghost-serverApp-c391764287]{display:contents}</style>
+    <style ng-app-id="serverApp">.wrap-inner[_ngcontent-serverApp-c3194587250]{display:flex;min-height:100vh;flex-direction:column}[_nghost-serverApp-c3194587250]{display:contents}</style>
+    <style>.object-container[_ngcontent-serverApp-c357771626]{position:relative;width:100%;height:100%}</style>
+    <style ng-app-id="serverApp">[_nghost-serverApp-c1510284603]{display:contents}</style>
+    <style>header[_ngcontent-serverApp-c1758678389]{z-index:6000}.menu[_ngcontent-serverApp-c1758678389]{z-index:9000}.pop-bg[_ngcontent-serverApp-c1758678389]{z-index:8000}.pop-wrap[_ngcontent-serverApp-c1758678389], .member-menu[_ngcontent-serverApp-c1758678389], .searchpage[_ngcontent-serverApp-c1758678389]{z-index:9000}.menu-mask[_ngcontent-serverApp-c1758678389], .modal[_ngcontent-serverApp-c1758678389]{z-index:8000}.modal-backdrop[_ngcontent-serverApp-c1758678389]{z-index:7000}.launch-game-content[_ngcontent-serverApp-c1758678389]{z-index:8500}.tips-display[_ngcontent-serverApp-c1758678389]{z-index:8501}.loading-mask[_ngcontent-serverApp-c1758678389]{z-index:9003}.loader-box[_ngcontent-serverApp-c1758678389]{z-index:9004!important}.rotating-pop[_ngcontent-serverApp-c1758678389]{z-index:9002}.game-type-menu[_ngcontent-serverApp-c1758678389]{z-index:8000}#chat-widget-container[_ngcontent-serverApp-c1758678389]{z-index:9001!important}[_nghost-serverApp-c1758678389]{display:block;width:100%}.carousel-frame-alpha[_ngcontent-serverApp-c1758678389], .carousel-frame-alpha__shell[_ngcontent-serverApp-c1758678389]{position:relative}.carousel-frame-alpha__track[_ngcontent-serverApp-c1758678389]{display:flex;align-items:flex-start}.carousel-frame-alpha__unit[_ngcontent-serverApp-c1758678389]{flex-basis:auto;flex-grow:0;flex-shrink:0;display:block;color: #fff}.carousel-frame-alpha__navigation[_ngcontent-serverApp-c1758678389]{position:absolute;top:50%;transform:translateY(-50%);width:100%;height:24px;box-sizing:border-box}.carousel-frame-alpha--dragging[_ngcontent-serverApp-c1758678389]{position:relative}.carousel-frame-alpha--dragging[_ngcontent-serverApp-c1758678389]:after{content:"";display:block;position:absolute;width:100%;height:100%;left:0;top:0}.navigation[_ngcontent-serverApp-c1758678389]{display:flex;justify-content:space-between;padding:0 12px;pointer-events:none;-webkit-user-select:none;user-select:none}.navigation__prev[_ngcontent-serverApp-c1758678389], .navigation__next[_ngcontent-serverApp-c1758678389]{width:24px;height:24px;pointer-events:auto}.prev__img[_ngcontent-serverApp-c1758678389], .next__img[_ngcontent-serverApp-c1758678389]{height:100%}.pagination[_ngcontent-serverApp-c1758678389]{position:absolute;display:flex;align-items:center;justify-content:center;left:50%;bottom:12px;transform:translate(-50%)}.pagination__bullet[_ngcontent-serverApp-c1758678389]{width:8px;height:8px;margin:0 4px;background: var(--carousel-pagination-bullet, white);border-radius:50%}.pagination__bullet--active[_ngcontent-serverApp-c1758678389]{background: var(--carousel-pagination-bullet-active, var(--primary))}</style>
+    <style>header[_ngcontent-serverApp-c3954350144]{z-index:60}.pop-bg[_ngcontent-serverApp-c3954350144]{z-index:120}.pop-wrap[_ngcontent-serverApp-c3954350144]{z-index:129}.menu-mask[_ngcontent-serverApp-c3954350144]{z-index:115}.gotop[_ngcontent-serverApp-c3954350144]{z-index:84}.float-banner[_ngcontent-serverApp-c3954350144], .searchpage[_ngcontent-serverApp-c3954350144]{z-index:80}.launch-game-content[_ngcontent-serverApp-c3954350144]{z-index:115}.tips-display[_ngcontent-serverApp-c3954350144]{z-index:116}.loader-box[_ngcontent-serverApp-c3954350144]{z-index:9002}.loading-mask[_ngcontent-serverApp-c3954350144]{z-index:9001}.rotating-pop[_ngcontent-serverApp-c3954350144]{z-index:130}#chat-widget-container[_ngcontent-serverApp-c3954350144]{z-index:120!important}@keyframes _ngcontent-serverApp-c3954350144_fadeIn{0%{opacity:0}to{opacity:1}}.float-widget[_ngcontent-serverApp-c3954350144]{display:block;position:fixed;inset:0;pointer-events:none;z-index:122}.float-widget__boundary[_ngcontent-serverApp-c3954350144]{display:block;position:fixed;inset:-22px}.float-widget__boundary--no-bottom[_ngcontent-serverApp-c3954350144]{bottom:0}.float-widget__boundary--no-top[_ngcontent-serverApp-c3954350144]{top:0}.float-widget__backdrop[_ngcontent-serverApp-c3954350144]{pointer-events:auto;position:absolute;width:100%;height:100%;animation:_ngcontent-serverApp-c3954350144_blackBlurIn 1s forwards}@keyframes _ngcontent-serverApp-c3954350144_blackBlurIn{0%{background-color: #0000;-webkit-backdrop-filter:blur(0px);backdrop-filter:blur(0px)}to{background-color: #00000080;-webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px)}}.float-widget__draggable[_ngcontent-serverApp-c3954350144]{display:block;position:absolute;top:0;left:0;width:var(--widget-btn-size, 44px);height:var(--widget-btn-size, 44px);pointer-events:none;transition:transform .3s cubic-bezier(.03,.98,.52,.99) width .3s cubic-bezier(.03,.98,.52,.99) height .3s cubic-bezier(.03,.98,.52,.99) opacity .5s;overscroll-behavior:auto;opacity:0}.float-widget__draggable--ready[_ngcontent-serverApp-c3954350144]{opacity:1;pointer-events:auto}.float-widget__draggable--end[_ngcontent-serverApp-c3954350144]{transition:all .3s cubic-bezier(.03,.98,.52,.99);overscroll-behavior:auto}.float-widget__draggable--moving[_ngcontent-serverApp-c3954350144]   .float-widget__float-wrap[_ngcontent-serverApp-c3954350144]{transform:scale(1.3);filter:drop-shadow(0px) 0vw 2.1333333333vw rgba(80,98,101,.3)}.float-widget__undraggable[_ngcontent-serverApp-c3954350144]{display:flex;flex-direction:column;align-items:center;position:absolute;pointer-events:none;left:0;top:0;width:var(--widget-btn-size, 44px);height:auto;transition:transform .5s;opacity:0;transition:opacity .5s}.float-widget__undraggable--ready[_ngcontent-serverApp-c3954350144]{opacity:1;pointer-events:auto}.float-widget__undraggable[_ngcontent-serverApp-c3954350144] > *[_ngcontent-serverApp-c3954350144]{flex:none}.float-wrap[_ngcontent-serverApp-c3954350144]{display:flex;justify-content:center;align-items:center;width:100%;height:100%;transition:all .3s cubic-bezier(.03,.98,.52,.99)}.float-wrap__btn[_ngcontent-serverApp-c3954350144]{width:100%;height:100%;margin:3px 0}.float-wrap__widget-wrap[_ngcontent-serverApp-c3954350144]{position:absolute;width:100%;margin:3px 0;left:0;right:0}.float-wrap-btn[_ngcontent-serverApp-c3954350144]{transition:all .3s cubic-bezier(.03,.98,.52,.99);filter:drop-shadow(0px) 0vw .8vw rgba(245, 230, 211, 0.7);border-radius:50%;cursor:pointer}[_ngcontent-serverApp-c3954350144]{width:100%;height:100%;border-radius:50%;background: var(--widget-btn-bg, #333);transition:none;display:flex;justify-content:center;align-items:center}.float-wrap-btn__inner--stick-top[_ngcontent-serverApp-c3954350144]{transition:transform .5s .3s;transform:translateY(65%);background: var(--widget-btn-stick-bg, #333)}.float-wrap-btn__inner--stick-bottom[_ngcontent-serverApp-c3954350144]{transition:transform .5s .3s;transform:translateY(-65%);background: var(--widget-btn-stick-bg, #333)}.float-wrap-btn__stick[_ngcontent-serverApp-c3954350144]{pointer-events:none;display:flex;justify-content:center;align-items:center;position:absolute;top:50%;left:50%;width:100%;height:100%;transform:translate(-50%,-50%);border-radius:50%;opacity:0}.float-wrap-btn__img[_ngcontent-serverApp-c3954350144]{display:block;position:relative;width:70%;height:70%;transform-origin:50% 50%;pointer-events:none}.float-wrap-btn__img--stick[_ngcontent-serverApp-c3954350144]{width:30%;height:30%;opacity:.9}.float-wrap-btn__img--stick-top[_ngcontent-serverApp-c3954350144]{transform:translateY(40%)}.float-wrap-btn__img--stick-bottom[_ngcontent-serverApp-c3954350144]{transform:rotate(180deg) translateY(40%)}.float-wrap-btn__img--close[_ngcontent-serverApp-c3954350144]{width:40%;height:40%}.logo[_ngcontent-serverApp-c3954350144]{display:block;width:100%;height:100%;background-size:80% auto;background-repeat:no-repeat;background-position:center}.widget-wrap[_ngcontent-serverApp-c3954350144]{height:auto}@keyframes _ngcontent-serverApp-c3954350144_bubbleItemUp{0%{opacity:0;transform:scale(0) translateY(100%)}to{opacity:1;transform:scale(1) translateY(0)}}@keyframes _ngcontent-serverApp-c3954350144_bubbleItemDown{0%{opacity:0;transform:scale(0) translateY(-100%)}to{opacity:1;transform:scale(1) translateY(0)}}.widget-wrap__content[_ngcontent-serverApp-c3954350144]{flex-direction:column;width:100%;max-height:100%;height:auto;display:none;overflow:visible}.widget-wrap__content--open[_ngcontent-serverApp-c3954350144]{display:flex}.widget-wrap__content--top[_ngcontent-serverApp-c3954350144]{top:0;transform:translateY(-100%) translateY(-6px)}.widget-wrap__content--bottom[_ngcontent-serverApp-c3954350144]{bottom:0;flex-direction:column-reverse;transform:translateY(100%) translateY(6px)}.widget-wrap__content--top[_ngcontent-serverApp-c3954350144]   .widget-wrap__item[_ngcontent-serverApp-c3954350144]{opacity:0;animation:_ngcontent-serverApp-c3954350144_bubbleItemUp .5s forwards}.widget-wrap__content--bottom[_ngcontent-serverApp-c3954350144]   .widget-wrap__item[_ngcontent-serverApp-c3954350144]{opacity:0;animation:_ngcontent-serverApp-c3954350144_bubbleItemDown .5s forwards}.widget-wrap__item[_ngcontent-serverApp-c3954350144]{width:var(--widget-btn-size, 44px);height:var(--widget-btn-size, 44px);margin:3px 0}.widget-wrap-item__btn[_ngcontent-serverApp-c3954350144]{cursor:pointer;display:block;width:100%;height:100%}.widget-wrap-item-btn[_ngcontent-serverApp-c3954350144]{background: var(--widget-btn-item-bg, #333);filter:drop-shadow(0px) 0vw .8vw var(--widget-btn-item-shadow);border-radius:50%}.widget-wrap-item-btn__pic[_ngcontent-serverApp-c3954350144]{display:block;width:100%;height:100%;background-size:70% auto;background-repeat:no-repeat;background-position:center}.undraggable-group[_ngcontent-serverApp-c3954350144]{display:flex;flex-direction:column;align-items:center;cursor:pointer}.undraggable-group__item[_ngcontent-serverApp-c3954350144]{flex:none}.undraggable-group__item[_ngcontent-serverApp-c3954350144] + .undraggable-group__item[_ngcontent-serverApp-c3954350144]{margin-top:12px}.game-entrance[_ngcontent-serverApp-c3954350144]{position:relative;font-family:Anton,serif;opacity:0;pointer-events:none}.game-entrance__btn[_ngcontent-serverApp-c3954350144]{width:calc(var(--widget-btn-size, 44px) * 1.5);height:calc(var(--widget-btn-size, 44px) * 1.5);border-radius:50%;display:flex;align-items:center;justify-content:center;position:relative}.game-entrance__btn[_ngcontent-serverApp-c3954350144]   .game-entrance__btn-text[_ngcontent-serverApp-c3954350144]{font-size:12px;white-space:nowrap;bottom:0;left:50%;position:absolute;transform:translate(-50%,100%);text-shadow: -1px 0 rgb(248,215,72),0 1px rgb(248,215,72),1px 0 rgb(248,215,72),0 -1px rgb(248,215,72)}.game-entrance__btn[_ngcontent-serverApp-c3954350144]   .game-entrance__btn-img[_ngcontent-serverApp-c3954350144]{flex:none;opacity:0;animation:_ngcontent-serverApp-c3954350144_fadeIn .5s forwards}.game-entrance__btn-img--open[_ngcontent-serverApp-c3954350144]{width:100%;height:100%}.game-entrance__btn-img--close[_ngcontent-serverApp-c3954350144]{width:75%;height:75%}.game-entrance__menu[_ngcontent-serverApp-c3954350144]{mask-image:linear-gradient(0deg,#fff0,#000 30px calc(100% - 30px),#fff0);mask-repeat:no-repeat;-webkit-mask-image:linear-gradient(0deg,rgba(255,255,255,0) 0px,rgb(0,0,0) 30px,rgb(0,0,0) calc(100% - 30px),rgba(255,255,255,0) 100%);-webkit-mask-repeat:no-repeat;top:0;margin:0 auto;transform:translateY(-100%) translateY(-12px);width:100vw;max-height:calc(100vh - var(--widget-btn-size, 44px) * 1.5 * 2);overflow:auto;position:fixed;left:calc(-100vw + .2 * var(--widget-btn-size, 44px) * 1.5 + 100%);display:flex;flex-direction:column;align-items:flex-end}.game-entrance__menu[_ngcontent-serverApp-c3954350144]:before, .game-entrance__menu[_ngcontent-serverApp-c3954350144]:after{content:"";display:block;height:30px;flex:none}.game-entrance__item[_ngcontent-serverApp-c3954350144]{width:calc(var(--widget-btn-size, 44px) * 1.5);height:calc(var(--widget-btn-size, 44px) * 1.5);opacity:0;animation:_ngcontent-serverApp-c3954350144_bubbleItemUp .5s forwards;list-style:none}.game-entrance__item[_ngcontent-serverApp-c3954350144] + .game-entrance__item[_ngcontent-serverApp-c3954350144]{margin-top:12px}.game-entrance--ready[_ngcontent-serverApp-c3954350144]{opacity:1;pointer-events:auto}.game-entrance-item[_ngcontent-serverApp-c3954350144]{cursor:pointer;position:relative}.game-entrance-item__img[_ngcontent-serverApp-c3954350144]{width:100%}.game-entrance-item__title[_ngcontent-serverApp-c3954350144]{position:absolute;left:0;top:50%;width:48px;text-align:center;transform:translate(-100%,-50%);color: #f8d748;line-height:1.1}.intercom-notification[_ngcontent-serverApp-c3954350144]{position:absolute;top:0;right:0;border-radius:50%;width:17px;height:17px;background-color: #ff4c4c;color: #fff;display:flex;align-items:center;justify-content:center;font-size:12px;line-height:13px;pointer-events:none}</style>
+    <style>header[_ngcontent-serverApp-c2094848920]{z-index:60}.pop-bg[_ngcontent-serverApp-c2094848920]{z-index:120}.pop-wrap[_ngcontent-serverApp-c2094848920]{z-index:129}.menu-mask[_ngcontent-serverApp-c2094848920]{z-index:115}.gotop[_ngcontent-serverApp-c2094848920]{z-index:84}.float-banner[_ngcontent-serverApp-c2094848920], .searchpage[_ngcontent-serverApp-c2094848920]{z-index:80}.launch-game-content[_ngcontent-serverApp-c2094848920]{z-index:115}.tips-display[_ngcontent-serverApp-c2094848920]{z-index:116}.loader-box[_ngcontent-serverApp-c2094848920]{z-index:9002}.loading-mask[_ngcontent-serverApp-c2094848920]{z-index:9001}.rotating-pop[_ngcontent-serverApp-c2094848920]{z-index:130}#chat-widget-container[_ngcontent-serverApp-c2094848920]{z-index:120!important}[_nghost-serverApp-c2094848920]{display:contents}.layout-desktop[_ngcontent-serverApp-c2094848920]{display:contents;overflow-y:hidden;overflow-x:auto}.layout-desktop__inner[_ngcontent-serverApp-c2094848920]{display:flex;flex-direction:row-reverse;height:100%}.layout-desktop__inner[_ngcontent-serverApp-c2094848920]   .layout-desktop__menu[_ngcontent-serverApp-c2094848920]{flex:none;height:100%;position:relative}@media screen and (max-width: var(--desktop-menu-style-change-point)){.layout-desktop__inner[_ngcontent-serverApp-c2094848920]   .layout-desktop__menu[_ngcontent-serverApp-c2094848920]{position:fixed;left:0;top:0;z-index:66}}.layout-desktop__inner[_ngcontent-serverApp-c2094848920]   .layout-desktop__main[_ngcontent-serverApp-c2094848920]{flex:1;position:relative;width:150%;height:150%;flex-direction:column;display:flex;align-items:center;overflow:auto}.layout-desktop__main[_ngcontent-serverApp-c2094848920]:after{content:"";display:block;position:absolute;width:100%;height:100%;top:0;left:0;z-index:3;opacity:0;transition:opacity 1s,-webkit-backdrop-filter 1s;transition:opacity 1s,backdrop-filter 1s;transition:opacity 1s,backdrop-filter 1s,-webkit-backdrop-filter 1s;pointer-events:none;background-color: var(--layout-desktop-mask-color, rgba(0, 0, 0, .6));-webkit-backdrop-filter:blur(0px);backdrop-filter:blur(0px)}@media screen and (max-width: var(--desktop-menu-style-change-point)){.layout-desktop--menu-open[_ngcontent-serverApp-c2094848920]   .layout-desktop__main[_ngcontent-serverApp-c2094848920]:after{opacity:1;pointer-events:auto;-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px)}}.layout-desktop__main[_ngcontent-serverApp-c2094848920]   .layout-desktop__header-inner[_ngcontent-serverApp-c2094848920]{flex:none;width:100%}.layout-desktop__header-inner[_ngcontent-serverApp-c2094848920]{transition:box-shadow 1s}.layout-desktop__header-inner--shaded[_ngcontent-serverApp-c2094848920]{box-shadow: 0 3.3px 5px #0000004d,0 9.1px 13.8px #00000032,0 22px 33.2px #00000026,0 73px 110px #0000001b}.layout-desktop__main[_ngcontent-serverApp-c2094848920]   .layout-desktop__body[_ngcontent-serverApp-c2094848920]{flex:1;width:100%;overflow:auto}.layout-desktop__main[_ngcontent-serverApp-c2094848920]   .layout-desktop__body-inner[_ngcontent-serverApp-c2094848920]{display:flex;flex-direction:column;min-height:-webkit-fill-available;min-width:var(--desktop-min-width)}.layout-desktop__body[_ngcontent-serverApp-c2094848920]   .layout-desktop__content[_ngcontent-serverApp-c2094848920]{transition:width 1s;position:relative;left:0;right:0}.layout-desktop__body[_ngcontent-serverApp-c2094848920]{display:flex;flex-direction:column}.layout-desktop__content[_ngcontent-serverApp-c2094848920]{flex:1}.layout-desktop--menu-open[_ngcontent-serverApp-c2094848920]   .layout-desktop__body[_ngcontent-serverApp-c2094848920]   .layout-desktop__content[_ngcontent-serverApp-c2094848920]{width:var(--layout-desktop-content-limit-when-menu-open)}.main-wrapper[_ngcontent-serverApp-c2094848920]{max-width:var(--desktop-layout-content-max-width);width:var(--desktop-layout-content-limit);transition:width 1s;position:relative;left:0;right:0;margin:0 auto}</style>
+    <style>[_nghost-serverApp-c575922473]{display:contents}</style>
+    <style>[_nghost-serverApp-c1537242602]{display:contents}</style>
+    <style>[_nghost-serverApp-c3419815403]{display:contents}</style>
+        <!-- Removed hard-coded hide for chat launcher; this was preventing iOS chat from showing -->
+        <!--
+        <style>
+            #anw2-launcher-oF_U2s4gwD6ERAQ0HVOMlQ { opacity: 0 !important; }
+        </style>
+        -->
+
+
+    
+<style ng-app-id="ng">#anw2-launcher-oF_U2s4gwD6ERAQ0HVOMlQ[_ngcontent-ng-c2204540226]{opacity:0!important}body[_ngcontent-ng-c2204540226]{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-touch-callout:none}</style><style ng-app-id="ng">.loading-mask[_ngcontent-ng-c3664673344]{position:fixed;display:flex;inset:0;background-color: var(--content-bg);justify-content:center;align-items:center;z-index:9001}.loader-box[_ngcontent-ng-c3664673344]{z-index:9002;position:fixed;top:50%;left:50%;transform:translate(-50%,-50%)}.loader-box[_ngcontent-ng-c3664673344]   video[_ngcontent-ng-c3664673344]{width:80px}</style></head>
+
+<body style="background-color: rgb(107, 62, 30); height: auto; overflow: visible;  font-size: 16px;" class="mcw-theme-dark"><!--nghm-->
+  <app-root _nghost-serverapp-c391764287 class="ng-tns-c391764287-0" ng-version="19.2.14" _nghost-ng-c2204540226 ngh="1" ng-server-context="ssg"><app-splash _ngcontent-ng-c2204540226 _nghost-ng-c3664673344 ngh="0"><div _ngcontent-ng-c3664673344 _ngcontent-serverapp-c4284446931 class="loading-mask ng-tns-c4284446931-1 ng-trigger ng-trigger-fastFadeInOut ng-star-inserted"></div><div _ngcontent-ng-c3664673344 _ngcontent-serverapp-c4284446931 class="loader-box ng-tns-c4284446931-1 ng-star-inserted"><div _ngcontent-ng-c3664673344 _ngcontent-serverapp-c4284446931 class="movie-box ng-tns-c4284446931-1"><video _ngcontent-ng-c3664673344 _ngcontent-serverapp-c4284446931 mcdvideo width="100%" height="100%" autoplay muted loop playsinline class="ng-tns-c4284446931-1 ng-star-inserted" poster><source _ngcontent-ng-c3664673344 _ngcontent-serverapp-c4284446931 type="video/quicktime" class="ng-tns-c4284446931-1" src="/splash/.mov"><source _ngcontent-ng-c3664673344 _ngcontent-serverapp-c4284446931 type="video/webm" class="ng-tns-c4284446931-1" src="/splash/.webm"></video></div><div _ngcontent-ng-c3664673344 _ngcontent-serverapp-c4284446931 id="loader-detect" class="ng-tns-c4284446931-1"></div></div></app-splash><!----><!----><!----></app-root>
+<script src="polyfills-B6TNHZQ6.js" type="module"></script><script src="main-6GSHFVGB.js" type="module"></script>
+
+<script id="ng-state" type="application/json">{"__nghData__":[{},{"t":{"0":"t0","1":"t1","2":"t2"},"c":{"0":[{"i":"t0","r":1}],"1":[],"2":[]}}]}</script></body></html>

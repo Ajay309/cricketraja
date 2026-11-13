@@ -1,0 +1,21 @@
+{
+  "info": {
+    "url": "http://127.0.0.1:3000/home",
+    "bodyChildren": 14,
+    "bodyTextPreview": "",
+    "hasRoot": true,
+    "htmlLen": 55925,
+    "title": "DIAMONDEXCH"
+  },
+  "logs": [
+    {
+      "type": "pageerror",
+      "text": "Invalid or unexpected token"
+    },
+    {
+      "type": "pageerror",
+      "text": "Invalid or unexpected token"
+    }
+  ],
+  "failed": []
+}

@@ -1,0 +1,17 @@
+{
+    "cookies":  [
+                    {
+                        "expires":  1772909329,
+                        "sameSite":  "Lax",
+                        "secure":  false,
+                        "name":  "admin_session",
+                        "value":  "tk_235f6bd0-57e8-476c-91f2-d3d3d5283b15",
+                        "path":  "/",
+                        "httpOnly":  true,
+                        "domain":  "127.0.0.1"
+                    }
+                ],
+    "origins":  [
+
+                ]
+}

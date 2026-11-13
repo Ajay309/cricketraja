@@ -1,0 +1,15 @@
+{
+  "before": {
+    "url": "http://127.0.0.1:3000/home",
+    "firstHref": "/casino/superover2?gid=de4e1fa640b137dc2af129738b30e4a9&member=demo_user",
+    "firstBg": "url(\"/sitethemedata.com/casino_icons/live22-de4e1fa640b137dc2af129738b30e4a9.png\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+  },
+  "afterClick": {
+    "url": "http://127.0.0.1:3000/casino/superover2?gid=de4e1fa640b137dc2af129738b30e4a9&local_fallback=1"
+  },
+  "afterBack": {
+    "url": "http://127.0.0.1:3000/home",
+    "cards": 261,
+    "bgMissing": 0
+  }
+}

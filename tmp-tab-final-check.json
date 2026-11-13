@@ -1,0 +1,36 @@
+{
+  "fromHome": [
+    {
+      "label": "Our Casino",
+      "url": "http://127.0.0.1:3000/home",
+      "cards": 35
+    },
+    {
+      "label": "Live Casino",
+      "url": "http://127.0.0.1:3000/home",
+      "cards": 261
+    },
+    {
+      "label": "Slots",
+      "url": "http://127.0.0.1:3000/home",
+      "cards": 522
+    }
+  ],
+  "fromRoot": [
+    {
+      "label": "Our Casino",
+      "url": "http://127.0.0.1:3000/home",
+      "cards": 35
+    },
+    {
+      "label": "Live Casino",
+      "url": "http://127.0.0.1:3000/home",
+      "cards": 261
+    },
+    {
+      "label": "Slots",
+      "url": "http://127.0.0.1:3000/home",
+      "cards": 522
+    }
+  ]
+}

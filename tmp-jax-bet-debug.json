@@ -1,0 +1,151 @@
+{
+  "state": {
+    "url": "http://127.0.0.1:4400/home",
+    "title": "DHONIEXCH",
+    "bodyLen": 7308,
+    "bodyPreview": "Rules\nDownload Apk \nBalance: 9,970\nExposure: 0\njax\nHOME\nLOTTERY\nCRICKET\nTENNIS\nFOOTBALL\nTABLE TENNIS\nBACCARAT\n32 CARDS\nTEENPATTI\nPOKER\nLUCKY 7\nCRASH\nRacing Sports\nHorse Racing\nGreyhound Racing\nOthers\nLive Casino\nVirtual Casino\nLive Casino\nSlot Game\nFantasy Game\nAll Sports\nPolitics\nCricket\nFootball\nTennis\nTable Tennis\nBadminton\nEsoccer\nBasketball\nVolleyball\nSnooker\nIce Hockey\nE Games\nFutsal\nHandball\nKabaddi\nGolf\nRugby League\nBoxing\nBeach Volleyball\nMixed Martial Arts\nMotoGP\nChess\nCycling\nMotorbik",
+    "hasUser": true,
+    "userText": "RulesDownload Apk Balance: 9,970Exposure: 0jax",
+    "btnCount": 13
+  },
+  "btns": [
+    {
+      "tag": "BUTTON",
+      "cls": "accordion-button",
+      "txt": "Racing Sports"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "accordion-button",
+      "txt": "Others"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "accordion-button",
+      "txt": "All Sports"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "btn p-0",
+      "txt": ""
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "active",
+      "txt": "All"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "",
+      "txt": "Casino 261"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "",
+      "txt": "Virtual 49"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "",
+      "txt": "Slot 522"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "",
+      "txt": "Crash 168"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "",
+      "txt": "Fishing 19"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "btn-close",
+      "txt": ""
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "btn btn-success",
+      "txt": "Accept"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "btn btn-danger ms-1",
+      "txt": "Cancel"
+    }
+  ],
+  "inps": [
+    {
+      "type": "search",
+      "name": "",
+      "cls": "form-control",
+      "ph": "Search here",
+      "val": ""
+    },
+    {
+      "type": "search",
+      "name": "",
+      "cls": "form-control",
+      "ph": "Search here",
+      "val": ""
+    },
+    {
+      "type": "search",
+      "name": "",
+      "cls": "form-control",
+      "ph": "Search here",
+      "val": ""
+    }
+  ],
+  "logs": [
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX1/4twFI1TuHF6bv8FhjP4jOVpq4oPFG2JxTPmE+AEGzfFfwU2NMCMYt820Iyr+d3WLw9l9+5ZL4yGO5ivrx1Oe8lcC3iR5w+VTllcaaJArlWSUjy9qq4D36\"}"
+    },
+    {
+      "t": "action",
+      "m": "clicked login"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX1+/Khol77gZj6jcnqCZG3nyvAG8+J9SacV86Tf+joFmmSfsVdEfmQ0Da7HxIgPr934Uj0RgbrtKSPLZk24D9WB2O69TAPjXN9ayb5lRmsZAqU+aj0SvAXCK\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX18d4TtRnEh7Kgiiz1CKwxr1yKv/Osvs8RM9hze9WXskfdyNos7ccV19GaLTQV9hmutmLupjnBUcX9p2iZTc5QMZvIiLEabCz0iohwyEUOMrZxglGeVJ8XPi\"}"
+    },
+    {
+      "t": "action",
+      "m": "clicked first back odd"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX18Fl280XKcwdRT5EYykUEeySa0gx/a4lIU4H4q4s/V2bfj1EBR5AQ0StBNCpzYkp9sCjh2Tj6vjj0EwMD2rNV07YJQendk5o3aix+TLoNp6hRgV8S0sWjQm\"}"
+    },
+    {
+      "t": "action",
+      "m": "place btn not found"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX19s4fAd/h0m1744lWB+x3zmSqYw6Ld7pwxAtlNIhvIK6GdQRzB8nolYv/9V6DweQDDI/DThf2vLFOy3xrlIQcLekjhzDiAEIv9dqeLoLyQftSivVPG1XV1s\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX1+pVMQBw8DxQKDoW2+eoxNsFe555WF4V3wiAQIviMuEKOTRJXRHPOswvrf4RWrSg8gTa50gnssMImKH19qsCYBvDL/McWVmkWDUfLeokMrK6xHkQ/3EvFI/\"}"
+    }
+  ]
+}

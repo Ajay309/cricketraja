@@ -1,0 +1,522 @@
+[
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "post": "{\"uname\":\"\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/userdata",
+    "post": "{\"uname\":\"\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19RBCqNeOl3GYlHuLX+80GCOM2PmMoSFI455vGAv4rw28LZdzxFbqE/lA+a6pd2bfQV9KDMxj0UXBx3DkKIbMS7c+RsC8cJE7hkipXSUfcSnZ2Z7q5z9Uko\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/local-login",
+    "post": "{\"username\":\"jax\",\"password\":\"jaxx\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/local-login",
+    "body": "{\"status\":200,\"msg\":\"success\",\"data\":{\"token\":\"tk_71119462-637e-419b-b36b-abc7348351d0\",\"uname\":\"jax\",\"user_name\":\"jax\",\"username\":\"jax\",\"bal\":9370,\"exp\":9370,\"exposure\":9370,\"avai"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "post": "{\"uname\":\"jax\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": ""
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "post": "{\"uname\":\"jax\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":true,\"msg\":\"success\",\"status\":200,\"data\":{\"bal\":9370,\"bcode\":\"49174326870\",\"exp\":9370,\"exposure\":9370,\"available_balance\":9370,\"availableBalance\":9370,\"exposure_limit\":1"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/treedata",
+    "post": "{\"data\":\"U2FsdGVkX19THnT9ogRfJdVrWeZ4v3qYsrCQSZlqhes=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/userdata",
+    "post": "{\"data\":\"U2FsdGVkX19FQwG2v7d0oopdnklYQuIRMz07Zm12nQU=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/getdata",
+    "post": "{\"data\":\"U2FsdGVkX1+31TIbZRqepS3fDCOPEgrsjToe5FBvB/g=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/rules",
+    "post": "{\"data\":\"U2FsdGVkX18B0WYDnA9XckDC9dDBomPsIHkEJT+CWcY=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/casino/alllist",
+    "post": "{\"data\":\"U2FsdGVkX1+1R7NaalUCgjpowGHovbu1xuHlKG3uRDs=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/tablist",
+    "post": "{\"data\":\"U2FsdGVkX1+a3t5Moqn07LL4Dbn9aO0kxYG9VISx5mM=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/casino/tablelist",
+    "post": "{\"data\":\"U2FsdGVkX1+swY7uLtCMkwfNvtbebEmQb858Y3ZtdOHqAbunesGCpzm7Nveiic89\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/get_latest_events",
+    "post": "{\"data\":\"U2FsdGVkX19yRonWoMapezUyB0rWm6ssUhvmXG3gJRc=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/get_latest_events",
+    "post": "{\"data\":\"U2FsdGVkX1/aK6VDgNu7TEadpuJ3opYhT6d3H3xzmxs=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/buttonlist",
+    "post": "{\"data\":\"U2FsdGVkX18/Qj1F5sRgG4sbRad8CRkm5MNs/7TrxOw=\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19V9alLv/syALgYBrtq2NZbluv+fcrnmSMG3vnnA4qdS+0dlPl7iCweiSowGWYU46SdgH6lQnK8E4GJB/+YHSYP5VOf5sTF5Ksu6+bP+BZgbys+i62qSOac\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/getdata",
+    "body": "{\"data\":\"U2FsdGVkX19pZ+Dv4e9VsiOaQJukVgpqhoQ1LZyJEythe3IVqit/635lE6TxF56wEmOg+CdG3osHRN1IsID/7ZJRdyYYqf6zSn/YKu5uOs3T806A0WRR2VsGn+zIO4m+kGgquzzQGLURCurzTv9E10GS9iYw1Gx3OoaCcc/7bJ5"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/casino/alllist",
+    "body": "{\"data\":\"U2FsdGVkX19/0yiorTlV7s6lPu3sWWy8hmXJBfvH/pCK8xqNshARZmzuXy1aWzfiLkSMlE5xG50vTmCZU5i0UwgbYSg4So3i4WbKBWAwqilUF+dyeIwKAGOV64x73Td+DBdcF4jyb2FVmI9b43QusorW9TnjnYFpR3nTkMNQit9"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/casino/tablelist",
+    "body": "{\"data\":\"U2FsdGVkX19hX3Oh2zXHIYh2QxRqdAJzcH5NdocXVkFHvn5MiILeS1vRf3bl4aedd46T5xGrlF9JxSkMLHJzcEDmaoF14BSUomf6/eO+grcgNBB3UDnvgfufD5l8RR73rT7cE/gn8Y7QTotTrqu8CF+dKuc2fofBF3JKptGKlN/"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/buttonlist",
+    "body": "{\"data\":\"U2FsdGVkX193OoKlkXYU3vQGvcLcyJaTWed8abbsBl11s/32Xz+sUi8dWIoEbG4A5cO0QQmyXLRvSJKjts92yTt5yc5+Gq2FS13XAXcaEPrff1nqfhpeubnrCbuQtWFeufZHj1PQJkYiHzYnttAdCy4Oo+qQr6OrxKc+WxLxx4f"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/get_latest_events",
+    "body": "{\"data\":\"U2FsdGVkX1+GRe8BDf2cylZ/pDVeZsVrikrWGa5DEPfTfwdDBIqaYocbaueyhZFVMpG1GulFCOKulq/im0C35B4mvHnnxH2zx5spHYeilP6Ol7nq9Cd5nENtlDPwhZZxXx+lXd6gMgGd9gra5U3Dc+MJF+Gea47qPFa1g2mUTV2"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/highlighthomePrivate?etid=4",
+    "post": "{\"data\":\"U2FsdGVkX1+aB2yTBO/4uIkBHD3pizaSpJGvVAC16Ocfop9XoUpTvPFR3P49oEjr\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/tablist",
+    "body": "{\"data\":\"U2FsdGVkX1/LTeg7AW2YthScRyHDGMumJKJb8PcknfoXRNZCO8lZ310eAwiTNX8ZWFhCcn8ezK2eQbSCz0yOKVwSjCmrR9qBHKb1dR0Jde79SNOjrJBWirjm3qbacVmN1hd/Xc0OwnynfENf+DB1eTYNVdhb9J10BzwEQEAvs4K"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/highlighthomePrivate?etid=4",
+    "post": "{\"data\":\"U2FsdGVkX18TdxqyUGb0rJLk03rNyypY2RP5WQx/f0VdGLi5lOYqyuif0CmErrCM\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/get_latest_events",
+    "body": "{\"data\":\"U2FsdGVkX19wW3ctiMB/vHAalAIcZFZDvdek++bdSdDuEhfROMt9iBNTt4l8qqOKz3tP4SwnP9EpyaERQmb6+gE4uPsrRILDhQ3Geee/f9Tj1vlym0Ofr0FtCFgcbaF7PGMCzYC9IrJaxfsytNmdvHyu2p2wuHV0gF9kHumgdxw"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/treedata",
+    "body": "{\"data\":\"U2FsdGVkX18zzwdPj9zgHq6BLmfVS9kBRLcLdtU40S+uVBK0eoXCqpKBxRaYoAOcD7NdqdJmjvTaNQMT5hP9LqJWNO4AS1Y2/9yYIAQVubNLrje9iwX6Tc2tg4RefqZBhS+Mkkugkdk6PGmk7V+WcUN9X2vsx5oHzg+FscnY2GW"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "post": "{\"uname\":\"jax\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/acceptrules",
+    "post": "{\"data\":\"U2FsdGVkX19hGlllzTbP5eCQ956VGzkQKwBm8zC6mng=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/userdata",
+    "post": "{\"data\":\"U2FsdGVkX1+OTysKbi2J1znJrhhZO2t6qHA3kvwXOts=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "post": "{\"uname\":\"jax\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "post": "{\"uname\":\"jax\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/userdata",
+    "post": "{\"data\":\"U2FsdGVkX1/VOBeAEslbzc0lRi9KleNxVgfXYJ4mCnY=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "post": "{\"uname\":\"jax\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/userdata",
+    "post": "{\"data\":\"U2FsdGVkX1/dJriFRmUPwyuEEyqZ4bKkSd4tykG3Ul4=\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/highlighthomePrivate?etid=4",
+    "body": ""
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/highlighthomePrivate?etid=4",
+    "body": ""
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/rules",
+    "body": ""
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": ""
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/acceptrules",
+    "body": ""
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/userdata",
+    "body": ""
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": ""
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": ""
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/userdata",
+    "body": ""
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": ""
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/userdata",
+    "body": ""
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "post": "{\"uname\":\"jax\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":true,\"msg\":\"success\",\"status\":200,\"data\":{\"bal\":9370,\"bcode\":\"49174326870\",\"exp\":9370,\"exposure\":9370,\"available_balance\":9370,\"availableBalance\":9370,\"exposure_limit\":1"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/treedata",
+    "post": "{\"data\":\"U2FsdGVkX18FJ7bIxf4/Sy3Btare8v4bnl/buHT47qE=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/userdata",
+    "post": "{\"data\":\"U2FsdGVkX1/ZIhXTMhtDThQIs+CleN8Wn0I7SewgjvU=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/getdata",
+    "post": "{\"data\":\"U2FsdGVkX1/+RbvMtkb7NcbLhJGJECiA7AZSz+rtAxA=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/rules",
+    "post": "{\"data\":\"U2FsdGVkX1/EjXXLJUbGOEGCBZXnI4Nz5VI64+KenI0=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/casino/alllist",
+    "post": "{\"data\":\"U2FsdGVkX1+m8R7XJXuPJaHkxOjlOPsqMB0vybvnW1A=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/gamedetailPrivate",
+    "post": "{\"data\":\"U2FsdGVkX1+aeZkOyFL+JGX5UkmW65sL9hg2K2EQhwoiYthEf/Ajd5BKb+DYd1pS\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/buttonlist",
+    "post": "{\"data\":\"U2FsdGVkX19JSZMM74CQ3eXTKWnpqTxxRGzOxmYyOXA=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/userbook",
+    "post": "{\"data\":\"U2FsdGVkX1+sMlpHHU5NjFh3W6i4Ooof/9BgYcm4lEYOgOqauAuTGG4o3tfm05+Y\",\"uname\":\"jax\",\"username\":\"jax\",\"user_name\":\"jax\",\"token\":\"tk_71119462-637e-419b-b36b-abc7348351d0\",\"auth\""
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/highlightproduct",
+    "post": "{\"data\":\"U2FsdGVkX1/z4GtV9x6GZRNfbhwzgzC4CQEW+kjSL1w=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/get_latest_events",
+    "post": "{\"data\":\"U2FsdGVkX1/NbVXw8a194Xmi169lyCZY8GIplTKf/ZQ=\"}"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/buttonlist",
+    "post": "{\"data\":\"U2FsdGVkX187lnhFsaMOhw7DqB9JDcRTpYNOyA3G97M=\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX180rgaMxvw/C1k6vz+MERNFdnGEtx5yfy/jS9V69WJRcde15Ct2lYKt/TJ7cYLc4fIzN7CgEaEsPa0nQ1n/g+kwYzhbh1WFZjPMieEtQmOczezmwrjMFXmB\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/getdata",
+    "body": "{\"data\":\"U2FsdGVkX18KUsARY+X/0htB6T26g0TIf4ajPckou+SM21pq8eJPzNIEgfYE2GmTkcngD2k4Ovfz4ukUREXwMf5UY85JHhM0ZXP2AFpWMNvUuzvYF8lO0R7z0XrgJBU7JNRuKT8giUzmUPG4RhrhY2Vq8+27qoOtNPWinbJM0ez"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/casino/alllist",
+    "body": "{\"data\":\"U2FsdGVkX19/0yiorTlV7s6lPu3sWWy8hmXJBfvH/pCK8xqNshARZmzuXy1aWzfiLkSMlE5xG50vTmCZU5i0UwgbYSg4So3i4WbKBWAwqilUF+dyeIwKAGOV64x73Td+DBdcF4jyb2FVmI9b43QusorW9TnjnYFpR3nTkMNQit9"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/buttonlist",
+    "body": "{\"data\":\"U2FsdGVkX1+vAwWcMPymVZinarLPLyak/mpT70KUsZqC1tWcjYBLkK3Ra0nMfIfVTOZ6/Fa2DIS6PoAzN5WVdpUmuyNXgxN5zKB7z53KBI2wuCNeqQuH0M3MWQGBCEQG/EKn7MJo8LOoMmr0M2N9HGKCWUjFYwr64Zdq8y+h66O"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/userbook",
+    "body": "{\"data\":\"U2FsdGVkX1/4Tq6srNeQ6B2jsgpJD7HKt10U3HIXpA84ifX0yUKZTyXl6o6i1yrfrqrkkGUw6BYImNyYI2+iff608oP9/e4F2xU/HI8dBZEPM+Sq9GQu5/MWoMbEg8hDt6icRbyB/ZZppAf0mHek/upeTODPDaGCnqpVnOYz8Q2"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/buttonlist",
+    "body": "{\"data\":\"U2FsdGVkX1/9J5yEZ4Z3HAvLjV3dIS1z1q2G5KaJ0AtiOxTFE9RfyPNsqTHFDakkPw4zdrR9EdoS0N0FaYguckzhoeQITTi8E59PrtG0UwryJfVsYotHn63b7kygtJM9LDd9wRaaK31GNoAPg7pjGXKxespxDALT1+cEmtSpgOz"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/treedata",
+    "body": "{\"data\":\"U2FsdGVkX1+32LW+QnshLesYXvfOwpCsRyHLsudBG8TGRg/Hbn4a4lx19c3ILTTRs4+syFLuM5Ec7PYvyKqijppWB+aTOjlgHkAvCNq+rhyUYutWl4vOxnONu/j7pT0cJJy0pRmtc8LN760OpTs7WlaRhSYuvTU1vcppWHXJPcz"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/userbook",
+    "post": "{\"data\":\"U2FsdGVkX1/ujjeP5gGB4qjqMjUSSd2X64PSdnUZgEtH/th1c/Icuf6Kr9Ka2/bH\",\"uname\":\"jax\",\"username\":\"jax\",\"user_name\":\"jax\",\"token\":\"tk_71119462-637e-419b-b36b-abc7348351d0\",\"auth\""
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=4&gmid=469420269",
+    "post": "{\"data\":\"U2FsdGVkX1+F0gQBCMxvuqwc5aFrKUruYcfoL1SMcblSze+i6qFojr5U1JoNL5mU\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/highlightproduct",
+    "body": "{\"data\":\"U2FsdGVkX1+qZhOaYfALgk93iq3SedMNIQm98vu7VUOPo+7tO90nHGVt3jlvZIisJUlpb6t+hafP6xH5Ogy398vErFszMfDz9OhcHH/A1yIUiKr4hwEYCwRxBGy1d1tv7EBlmb1VaRJBgKgdAsocV00QE5gcr2urc7Sjnfu91f6"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/gamedetailPrivate",
+    "body": "{\"data\":\"U2FsdGVkX19c3Kl3LUl+YvD4mKbm/uSxWyQdQP7xcPxVjO3Q1H86qvejh6XOMRQpK/36HMekpt4/4LHuZSov+C9/AnGAgNo3wlTFyYl7cenpB9zzAwrcixKCT8RrZkeMRWgBb4xvFL1cxGy3j8jL0DmBcb1bFBjbRtjA+6my8KX"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/get_latest_events",
+    "body": "{\"data\":\"U2FsdGVkX1/dnJRXmZH+BWvhkM7ZMleepiwdd19WNNOMINmuMLAczwDMuCL4Yjo2bq3AvzskB+P06dWBy1e9V92dXpA1MHgIr5fFe07wsJBe32p7Gy021Bj5WUSLwlaBrsrUrZlGuycXSS/sv3wQz1myuX78JXb9YgF9TYY5wQm"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/userbook",
+    "body": "{\"data\":\"U2FsdGVkX19NaVM/nl5AOqy3Wj0kpqHt6hHG+weSGULQSfv5T89PchKtmZtUjJDk2K+D/VNPUR18XWxcW9qIzDtMoghOIobH8j3XPfvEtgiF2/iDwMLbbRf1A309D1smJF/wj97M/Jv1OpQUWiGRJHfU27gsMf9T17AVfmIy0mr"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/rules",
+    "body": "{\"data\":\"U2FsdGVkX1+PWuOxk63x6grTPJNptnypRbVI0VK1fm8boapQGPQFBm/xcmB4GA+QQrTswH7QmP81GUe01CW27354cvmdebHRIXD0ecP8k6Q=\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=4&gmid=469420269",
+    "body": "{\"data\":\"U2FsdGVkX18He6lat8eOJaazPvyfaHJmhVm8/JPDO3ccUclKePdsblGKG08gNstrPG0j253SVznwmXpFl1F+3eZZttVq99FdEu3/YPKdRTq6liqL0tazdIY5wpSfkyO6RENwJqSNl8QGSt5X7Pxts+e1++G05/KDCz7uQZ/o/YO"
+  },
+  {
+    "t": "pageerror",
+    "text": "TypeError: Cannot read properties of undefined (reading 'amt')"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "post": "{\"uname\":\"jax\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":true,\"msg\":\"success\",\"status\":200,\"data\":{\"bal\":9370,\"bcode\":\"49174326870\",\"exp\":9370,\"exposure\":9370,\"available_balance\":9370,\"availableBalance\":9370,\"exposure_limit\":1"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "post": "{\"uname\":\"jax\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":true,\"msg\":\"success\",\"status\":200,\"data\":{\"bal\":9370,\"bcode\":\"49174326870\",\"exp\":9370,\"exposure\":9370,\"available_balance\":9370,\"availableBalance\":9370,\"exposure_limit\":1"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "post": "{\"uname\":\"jax\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":true,\"msg\":\"success\",\"status\":200,\"data\":{\"bal\":9370,\"bcode\":\"49174326870\",\"exp\":9370,\"exposure\":9370,\"available_balance\":9370,\"availableBalance\":9370,\"exposure_limit\":1"
+  },
+  {
+    "t": "req",
+    "method": "POST",
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "post": "{\"uname\":\"jax\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "url": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":true,\"msg\":\"success\",\"status\":200,\"data\":{\"bal\":9370,\"bcode\":\"49174326870\",\"exp\":9370,\"exposure\":9370,\"available_balance\":9370,\"availableBalance\":9370,\"exposure_limit\":1"
+  }
+]

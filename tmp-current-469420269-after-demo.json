@@ -1,0 +1,1353 @@
+{
+  "state": {
+    "url": "http://127.0.0.1:4400/game-details/4/469420269",
+    "title": "DHONIEXCH",
+    "bodyLen": 3796,
+    "preview": "Rules\nDownload Apk \nBalance: 1,500\nExposure: 1,500\ndemo_user\nHOME\nLOTTERY\nCRICKET\nTENNIS\nFOOTBALL\nTABLE TENNIS\nBACCARAT\n32 CARDS\nTEENPATTI\nPOKER\nLUCKY 7\nCRASH\nRacing Sports\nHorse Racing\nGreyhound Racing\nOthers\nLive Casino\nVirtual Casino\nLive Casino\nSlot Game\nFantasy Game\nAll Sports\nPolitics\nCricket\nFootball\nTennis\nTable Tennis\nBadminton\nEsoccer\nBasketball\nVolleyball\nSnooker\nIce Hockey\nE Games\nFutsal\nHandball\nKabaddi\nGolf\nRugby League\nBoxing\nBeach Volleyball\nMixed Martial Arts\nMotoGP\nChess\nCycling\nMotorbikes\nAthletics\nBasketball 3X3\nSumo\nVirtual sports\nMotor Sports\nBaseball\nRugby Union\nDarts\nAmerican Football\nSoccer\nEsports\nBoat Racing\nWrestling\nABBOTTABAD REGION V MULTAN REGION\n08/03/2026 16:45:00\nMATCH_ODDS\nCashout\nMax: 1\nBack\nLay\nAbbottabad Region\n1.6\n1.67\n1.61\n1.64\n1.62\n5.84\n2.16\n3.45\n2.18\n3.41\n2.36\n1.56\nMultan Region\n1.74\n1.99\n1.86\n4\n1.87\n3.98\n2.62\n3.61\n2.64\n1\n2.68\n1\nOver By Over\nNo\nYes\nNo\nYes\n1 over two boundaries bhav AR adv\n2\n300\n2\n200\nMin: 100\nMax: 25K\n1 over two boundaries bhav MR adv\n2\n300\n2\n200\nMin: 100\nMax: 25K\nBall By Ball\nNo\nYes\nNo\nYes\n0.1 ball run AR adv\n1\n170\n1\n120\nMin: 100\nMax: 25K\n0.1 ball run MR adv\n1\n170\n1\n120\nMin: 100\nMax: 25K\nfancy1\nBack\nLay\nBack\nLay\nAR Will W",
+    "rootChildren": 2,
+    "rootHtmlLen": 186277,
+    "hasMatch": true
+  },
+  "logs": [
+    {
+      "t": "console",
+      "type": "verbose",
+      "text": "[DOM] Input elements should have autocomplete attributes (suggested: \"current-password\"): (More info: https://goo.gl/9p2vKq) %o"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX1/hLgImDSY/xgkdPh2OPN4pWW2lKeTGJdY5Qyesa6NrX+QlfCrz2CEOu6HHDBfhoI0lHB0HbrbFSWrxzPP2CW38oBJF/ei5KqL+06Ib14pf53UVinbEmOmx\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": ""
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": ""
+    },
+    {
+      "t": "action",
+      "m": "clicked demo login"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX188H0A5eBSammvl9TPOq8OkNoNrOMBV6K2sNxmmAejKKUbu+SXWBFjUntQmHuFWw9bshVo9UbtvsQs0WFOEdAZQ4l1MsCmj77yxCdYWM88nSFiPHyvsPdQt\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX1/iXoF7NlaBGcNXsE92oPF25m6ZC2GGPIytE4vNtsOjeq97LS3tV/zW8TqyD9FYQT0SOuYSbbrRBYEIBDxrBsiuyRu3DmTXbeZaIF0ClICZxvqVWs8yJkI2\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/getdata",
+      "b": "{\"data\":\"U2FsdGVkX18OU+ZIQ0AecANBbtIPS4wYg5DT94Q0DIv5376rYpYLNdU8+yN6ny7C2fxdxc2lbf+xKiN5kMZRIVYQO+tSTkUxIkwGORrXHcAfltlq6DqjODcEnTB4bqBVP3GcfSG59lGn95dLL79wkomqLfXanJ542p3jlnT7pfowG/TtFAeoPSAnwr9OmICA\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/casino/alllist",
+      "b": "{\"data\":\"U2FsdGVkX1+iNwMfKH/YS7PfPhD5OZw/GWmnLUsNQI47oAWFjAN27CH2IiMPU9xdT12r2CyrQOfd47nG0hlm+EZH7jKpxx3WwnIsu1lYxk1pUr+TsvqDG78Qo5AH42WlfjOQxbpStcEtw3CoDFrQ1owJTyRLK+d4MHnmAbsf4dPZGOFoCeUDvTJzPv/776OYojIOPEFFsyBdCXJW0tr"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/casino/tablelist",
+      "b": "{\"data\":\"U2FsdGVkX18yArKtvU52U9A/QzBmwmsoXpVJEXQDCKIU9ItTPZiM/KRlSPtNu5/t2yCKW6+LYbQcY5BU2CrRI0H2ZEIxOV8YIaebXvcAuej6p02pJdBIl+kfWrUpWJbutctBrS9T4DSxSdtZJBCeLylAK/WFJg4EKSCqCI4rzvR0kHCwcCHd2pVcg969OWhsR0XxnkwmG6dIy86RY73"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/buttonlist",
+      "b": "{\"data\":\"U2FsdGVkX1/QlRzmk5+J40AeyFBz0GOgODKWQ8ksbSgQBKqwX6C+ercHYQvaIQ3WECB0rJjtqKD1O+/DCVl/izbHNHR+S4l9UglJ97mGGWyDLHYCiiiEqaMY94KGpLv3mGhCGZ3gZz2ez2dHfYcAu9JRk6Sf22VixIZBvO9webokRRQk9bMUdUTz3Y/ppEsoWlSutYVyURgadHTb8js"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-002.gif",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/tablist",
+      "b": "{\"data\":\"U2FsdGVkX1+gpx4mSZItKDb4svM9/TLf9nHy2EERvP0JNIsyEtLx5+3/sZDLZL9obj7GR2/8ZUaG+caCccAsshwD0zVZsuxdNdXdrKKw5OkCxUgern5+rMvUQ4XcHMNAuXvlrEmLohJViCwFGwXH9FoHWYdW5SphoxwyuLINgyrpb2JSxyc9gqW6PlyqEnp/V/lgG1VScznOtQlegZI"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/get_latest_events",
+      "b": "{\"data\":\"U2FsdGVkX1+4A+qShrsAVz5pUAGEdHSZj9kxDO/hYQ+d1iKKjCO3aUKgC3ncwq+QTXuY8T2hA50ZtSTE5kgKdYFC8gY18TSdRIgHQVrC2E4BYOKHJW0ysM8pFoZbAcbLgpEy4gztayJrFMCohV5ZAENDancSsgI8WwHs1ykHdrdMmtxhtrWQvW5IIrmmOpcyDr1XIm4a/Hp5Xy2vwh5"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/get_latest_events",
+      "b": "{\"data\":\"U2FsdGVkX1/fUHR4SRmb/s1GudLFbPABW85V2TFro8N7hMVmgcirFEoQxWnBFH8WAGavXLlMjQCqICTAbCyukzdVvsAbQGjOthgMb+uGeumor5IQ57eJ/iprfuzAGPAwXvUTw8cNvLUB64+3SmjwWUjxq6Lzw5fyRWVz+BwOQ2ebUyt3FHeDn8hCstFUwr3qYVXndNN5+p9PJDBRV+4"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-001.gif",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-021.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-013.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-029.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-038.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-040.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-028.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-039.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-033.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-037.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-012.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-004.gif",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-026.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-034.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-032.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-023.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-006.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-027.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-019.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-017.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-041.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-005.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-007.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-014.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-009.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-016.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-035.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-025.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-031.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-008.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-010.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-015.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-018.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-003.gif",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-022.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-011.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-036.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-030.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-024.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-056.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-043.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-020.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-061.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-066.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-049.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-055.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-064.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-042.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-051.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-046.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-069.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-047.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-074.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-062.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-063.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-048.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-079.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-067.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-059.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-045.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-050.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-071.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-078.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-065.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-053.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-057.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-072.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-080.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-060.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-075.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-073.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-054.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-058.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-044.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-052.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-076.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-068.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-077.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-070.jpg",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/treedata",
+      "b": "{\"data\":\"U2FsdGVkX19Cfq5h3uafv3Er1U2jEPfNq4iqh5dh5v2HsE0px9avAHmopMBLWy58gvOHKFMXkZaAuru44DtKZkQ29fcnd3dS4EhByG6xDOQy3r6RXSDyApKe4X+EOPhiOTw5ipS3bHV+G5Kt/wo0HHarSGLqMbVYfQ74KAnhauzq9IqZyViyCIR8FdOAmiCTFzpANgbheJuJ618hYxN"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-021.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-019.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-017.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-015.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-013.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-012.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-011.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-010.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-009.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-008.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-007.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-006.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-080.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-079.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-078.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-077.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-076.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-075.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-074.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-073.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-072.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-071.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-070.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-069.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-068.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-067.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-066.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-065.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-064.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-063.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-062.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-061.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-060.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-059.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-058.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-057.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-056.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-055.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-054.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-053.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-052.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-051.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-050.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-049.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-048.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-047.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-046.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-045.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-044.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-043.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-042.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-041.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-040.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-039.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-038.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-035.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-034.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-033.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-032.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-031.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-030.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-028.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-027.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-026.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-025.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-024.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-023.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "reqfail",
+      "url": "http://127.0.0.1:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-022.jpg",
+      "method": "GET",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/rules",
+      "b": "{\"data\":\"U2FsdGVkX1844e3mr4KiOQ4DhRsa1hmE4jqVOyjgIJS2UekWXh/hrrVqYDYwW1tsHr8TyAev5JpRbz8GcfgdGSH5TpjApRSs+BEvIXuoib0=\"}"
+    },
+    {
+      "t": "reqfail",
+      "url": "https://dataobj.ecoassetsservice.com/casino-icons/lc//ref-002.gif",
+      "method": "GET",
+      "err": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX1/9bkU7IpCiMmEsHxFgdBGAsaZepg1eMCO8OYCHFzsrAc3/c/Q/wlOESTCJK49YQuFk43Uta+ugs+7O/xbLAGW/3w2ra3TuBDPT3vdlkdvKu7FlQZLo7k9U\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/acceptrules",
+      "b": "{\"data\":\"U2FsdGVkX19M1Ee+Mr/dgzu7rU0qqMJ4mBSPz7W7MURYZAQTf4rOHxS9tuFxjbpmFNciQWEjAIC14gTunb1sB0wXQAbVHzxu8SiCiyFIH+k=\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/highlighthomePrivate?etid=4",
+      "b": "{\"data\":\"U2FsdGVkX1+qYN52skoS1eHnM4PxwpqDSVwze1aZsIzvlduS/GE0nWClF9/xpButN+MbH8PirfWXWUJRCFfin+SmYbRXOQvn+rdOqmU4o1vNgTxpVt1MF7EM9EBWFSoMGHjkeyyVy93BXhY1kPPfUvJ08yrdPBYdJ+ZyxbiCxwXR15nEfTrxWqUiOxNSB60ONU4B+kp5OTQxhkbGDOG"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/highlighthomePrivate?etid=4",
+      "b": "{\"data\":\"U2FsdGVkX183V20g9ib5kkPR3xhf9uCVlRbswZb6wdaOALKSpRibIPYCZM9VLKxH9v+2Z8lR4q0N9f4gVVjIa3wUFaWljjV8DYBX4KYDAuYl3hBDzHgHFCzkL0CGNkFhrnSCwszqwiow+zMqRzBBqlNj3BFXaXXjws+7C7ys4Soseydf28uLya1PjudB0GjjOS2hZrMUTV8UPWu0EUy"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX18306dahJHxTCt5gMS+SIvWUi5+VGTQ3etA8US0fX2DfcGzbJ07DFnO2EIwgdsGjdBLQy+3FBYlrEKqtDdRlC5JTXJCpp4inGEE6qHdpf/g2erfyD8aCzK/\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX1+bvQURaqk97Jnk3lhkC7nmeijoa7syAaseDSd1fnx0NY/+MYpnt1k/8objHm7rgSMLAJDGKcpnptZIW6HzUBQfbydIPpX5oE2JvK9lUkndrYdTI5SBtzga\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": ""
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": ""
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": ""
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": ""
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": ""
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": ""
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": ""
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": ""
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": ""
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": ""
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": ""
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": ""
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX1/RZqThPqlvPvEAbgB1Cp8joq49u/0S7joEa3QM4xBP+oz9bINxJ5dEMBzwtsOvNnZIsipIzbgAR44e1oGKlI/a2X9z1CeU/ojQj+Pq9/HoC4uVD1QyjUHJ\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX1+NiI1n6XXc6muSheHjz+xk6VZ3FuE70vcbeAQAQ1fCLO80VtV2cWtSXhgVrXSoBNxOZOx5HZrV58M8UGz5CX3wsaTq3RYh7vD8g0zscbNdWY7PAMRo6v9C\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/getdata",
+      "b": "{\"data\":\"U2FsdGVkX18Ed1D6HYNmhiDTE0cunodaF3JXPfZodB2zFVCx5X45M92JzSuyMtTLrJYkjk0RodbHkPSDVth8O3/hKA0Iun3+8GmnpjAmz8VTgmGB74rNt2bVMtOSp/io2C8o2RXoxWFhPhPvaA72MTVcGRYe+1wfGYysAlrF9SerH56n4SoPRY71e1APZBcN\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/casino/alllist",
+      "b": "{\"data\":\"U2FsdGVkX1/gNGsfBPdmL8NsEhcSNovQMbtgfG+ur3jw0TuQwXox/m54DQBUNEuSMogLlGLTJW65fmJ09M7hzryfdAxTQf20L/zm6im605rE0o/f8fEzd20oJafBhZaK8XI/rB14iqImyLbakIS+c5lC8vk6kR0nxZz4IOWSFyU3leSqAucQ+QvCqkiwILDWYwteA36FQEqa27PKD7m"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/buttonlist",
+      "b": "{\"data\":\"U2FsdGVkX1/6A2ynI4p0LqbMMqjkrKBfyQfHxukoXmVRBc6bOCGV7nEz2uPUWyBgRriQEeUO1zvVBuLgJjC+NUQ7QbFQmW7rkxDH33u69RJrFD5B24UoEJzupjuoD7q7X9nOxV3slWiZhsrXiORIV4i/G7W9LrrXnqpI3s3vpmJpZeV0RPjWgN07NL0I18HdsOmslCWdmE65iZ9SRuZ"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userbook",
+      "b": "{\"data\":\"U2FsdGVkX18LubenQZjzLeBCnHTfB3+grTXf3K4iOmEs1kvMZXlV6OcYV48bQt3vx5mYHmB/DsjEF246c+FCmle38MQFAtgwg3KXcEXJVxDiRdncrOquo2xESOFx7+3QcEEVV2edMs3MmoABUmmd02BFQDEAGnW+6BH2w1RIQJo=\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/buttonlist",
+      "b": "{\"data\":\"U2FsdGVkX1955otY46F+CgGdBEWyMRO6HEl3xy/LHse5/6lt0ve1Pd+PEhhRFgmeLyv4W52LWmxOyOHEht+Fd9IusPPnQDRUE0AuGArM9ZvQlazL5CF8o4Yb+tz0Jer2LCd9biDf+/xGEL1xQnfh0cK7LkGNFLmrjofntGtDGFsX4ugAwAiZLcdYZMYrtjIoLapvCl5QvlnTX+b4/tN"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/highlightproduct",
+      "b": "{\"data\":\"U2FsdGVkX1+/tpSpXLHkKunVMLYDA/8a93i2o5eP+wpW4xWcm4NTibGciF0+GnDd3AzG22cEDGBqPk0QU08ptOQA4fMFDQi8j22UR682ozkUzEd02Dd2FPOTeKMIr07+pITItVUsFp9l/0moZ8zfQ+4NWg07qy+gwOYBcXz5MFwWYA/tjQcIhhE+dgysjf8U\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/get_latest_events",
+      "b": "{\"data\":\"U2FsdGVkX1/aACTkgazsqkh1TSRzs63BghQsAFTE9gT5Rc324+f3mdwnnfPhJ2vQNcoqUmgrdlIuMq/8G1jwZQEnXnXaterKpb+yhG+MfyougFJFu8yqVmVsR7oB5IgUi5BGNlIt/rWII5FinUtu0HDphJlFt+VnbXkU5MpjMgWy68agONXCtr+D4T8pF8gM1f2cmXg4hx56Bq6AKgH"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/gamedetailPrivate",
+      "b": "{\"data\":\"U2FsdGVkX1/HLJoLO5kBQdn2f1IJKNJNOMs3d7n6dhLaEDvO0p4+nF7bwVyZFBAu9kD5Qbopp7O7JJsH2z9ppSno3eeMW2KjJH5BN1D6F8vJVdtycLxEpeegOa+3s/0rK9De1XZ5F296Faqtql3pbojrCXvSiqtudb56pshheDCcl1wHTK7uHFUCHaOnjx3n2CIXKqWVlaItshM+a5T"
+    },
+    {
+      "t": "console",
+      "type": "warning",
+      "text": "WebSocket connection to 'wss://sportsscore24.com/socket.io/?EIO=3&transport=websocket' failed: WebSocket is closed before the connection is established."
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userbook",
+      "b": "{\"data\":\"U2FsdGVkX1+EGHczmy7erOQBYmSEYwA6A0glounrzKFDpogTwXwTjxPjdgCYloMq3vRdI9BbxQv20T0MIit+sbKkGVy2Pq/5TYBW5+RsujGhJft+S6t4sigclVu4Z1aQIIEIpW8yuBxnTmdC/nntMMec3iVcExypFx521Gcj/o8=\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX1+tLKKAMGxk/GlNSGRV1/9F9aCLRgiIYKB45Bx+jKsx6OVd+SvQFcmbL1pPf9iEPifpQX0cxH316oKumdoWnYjBT9bMvQaZSA57DujgmfryLPewyA/ySGDC\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/treedata",
+      "b": "{\"data\":\"U2FsdGVkX19rde/10qaTdk2eJFW5hwwbUj82XSt1I0PciZXzNdRu3XErlfghcSg/IZYvI/eFqpe6mQ61ah6PeFvsXHixO4a7BgL8i+yQjCw/O0ltMUkY0y0TL/JoNZLWXF1HrBO8VlzWmcIEnvMp4JUJj472o+gQ4kNn8ZVBXDQglLe/t9u5ZzchHg3mbW+BFzaoIvYS3PL2lhnEqu8"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/rules",
+      "b": "{\"data\":\"U2FsdGVkX1+cZ2jZVMAMaYs4BSOMNVm3dTpfCG/RnBTCvqALv6wctx8E0rStjvR6AzhPstzFE2ro/pvkCooAQum9lT9qmxP0PzQ5JYr/FUI=\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=4&gmid=469420269",
+      "b": "{\"data\":\"U2FsdGVkX185DMpdo3/CxSeXREAXTEZOty4Dkrx1Yourdf+lK5Mcg9ZBXE+6MX9Ux68qpQY7my0cu1rl8BE22xjGKndU//P0rrvusZUOB2RcDhMv41YbrCMVFNE5ShqZNgjp6F+ObbZmJDE9Z7qVYQgjD7dAecMC7h1moG38D/fQkVddgNF/Cr26PsOlYvcU1GgCI15IMQe28YBfIOS"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/acceptrules",
+      "b": "{\"data\":\"U2FsdGVkX18Phe/2FOzJqN5rjvUbPfZ5g+SKR/GqPUr+JBUnsR+6iW8mruK5+dojLLLX6UPvkTdQoP5VNuLQ3s0ezCI46E9pbguR6Y0i7jg=\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX19M/D+IjIk1HQOzp3D8ACVYOFjYh1C29JneXwFNqJofMLLDezvCqwNJtGzbtnb0CIIiDt6jinkXfKzpsymK010L9thStfwdqvPgctgBtm526wupLY6CwnVu\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX1+GY6xNlNuM0R63PKyZrt9KZ97Pz77uy/TSxmOn5tFlprOrt4lm52gWxjkmHsDNKMTsWedwHkmdpRIfeoVi2laboWuIAmCiTpJ0LfjTNjZPFlFWhPff7UDK\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX1/g8T7jMxP7vqplBwP+9yNoIe9zWIYKvWG1Nr6k8sL4pH1jAEeVlzr5zTpaXYRwuJiuE+K6dTbad84jzvTgz3uiLpZHtJltZXBtB3hTtRFM5L9lnZSrdd9g\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=4&gmid=469420269",
+      "b": "{\"data\":\"U2FsdGVkX1/VfIv2ukt4YuU9EvCY2hQlonmtZnrJJ3c+AkBYlE0Vj7n39GH120vG74n3KuJCkz1jVrnPJV41jOgt0mfemaMoJo1F+9r+C8iElJ0gvEdHi+1jFjSsNdgqBERtWQnv9MD8iriSOcbLO1iKGcAK7+FrGg402bbrN5CsJ5fDQ0KShaOnRDP97PeTUS/NAOQ2o7N5NA8DKHc"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX1+fx6EHs8DOUcnpT8Iy6PWFIY3eEEBLOY3bWFaNbPI5bL85bHqyoOPzl18jef5TVTRJUXuzxbaZOXc3zEOETwvg1nHlqmTYsNRH9g3biLEx9bIuVbkBcaJM\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX18rsVHe9i/f6wL7AwXNe4GZpl4H2xKoXeN82DRdllpm27HGKPxTG1vQ0UEXNhnAkQOcGGXOVpWe9qxfYHpM/qEV8LY5CWjF9tF+YrRcxJ+YLxy1hY4h2Eeu\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX1/GrtHbNUDRlOyGSUa6ttpmLlyoI23ZsLNIQ/FO2rscFgimWw+e3I+vizN93ROq5UTYPNAaTPQYQeJ1TxPUZF5rcWxm29XDNpJYZ5BHxutBd7ISGaYoNM4/\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=4&gmid=469420269",
+      "b": "{\"data\":\"U2FsdGVkX19kJMr6O60MmSiCzYG7VCnoAOpoJ+KzwCt8RuvMMEZ+/1pKMP1UDdxqBc2ksTPAS2SW/A5bPDePLCpFiMlYBWTHuLG6w0hQTQNAuuR6EAhWbvC2VViluc2iRcFYto4dGp1b+xub6FQpodR4PYC2njvLSXhd8kmNbm8z9N+y5pVIFUG8yq1Fy/atn6zKbKthp4DqVxGBXGQ"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX1/fTBkzr+HiMqBwll7iYhKIODxmUToob4KmW8VQlD+Xso2eObgKFGRGAqOa04iW1Kml6eMUw506wuz0bKEShzRqsMNZJxEdd1iFvW8wmwkWX5fHGNhqHBHL\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX1+9gCx2UH/mzanOzL6fqP59n8d99+adAg0nWK8I1tp2Pe9VVVOo7vtsbMc7qlUe/BYZjiKE385/i6PI/UKvUleifvSiHb2USXJLX5g71F9mnV8mUwr+9KVT\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/local-userdata",
+      "b": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "b": "{\"data\":\"U2FsdGVkX19JQ3z9UV/1iQjg5aSvKEqszggmrd8IaU9P/pti5IpGtW1ZUMsGMPabqh9ZbtIH9QGt7TQp0ftakdySAqkW2AkvhkY9ZrDOv/svOuLo1wB2HYuPgPvEdbS5\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=4&gmid=469420269",
+      "b": "{\"data\":\"U2FsdGVkX186yhSdC9kLgCuzx3nqj5mRKZ8oByiZNflDtKUi2voqoJTzbzdd9AsbBDM8irQDCxZgZu7Ax/PIhXtRBBBV7jwYtSJFNUzytgvNSAVwaDHIby3+QoP6lSCIENKnDA4ZZvmtcXLDnreqo01dDUspcLkBK2Bt5VMKVXojswnRuV1B7mw7NWDvA8ykapgG3GAW7silv05RLRf"
+    }
+  ]
+}

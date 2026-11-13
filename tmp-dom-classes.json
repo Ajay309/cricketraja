@@ -1,0 +1,1751 @@
+{
+  "url": "http://127.0.0.1:3000/home",
+  "title": "DHONIEXCH",
+  "topClasses": [
+    [
+      "nav-item",
+      1071
+    ],
+    [
+      "nav-link",
+      1071
+    ],
+    [
+      "dropdown-toggle",
+      1024
+    ],
+    [
+      "dropdown-menu",
+      470
+    ],
+    [
+      "me-1",
+      277
+    ],
+    [
+      "far",
+      273
+    ],
+    [
+      "fa-plus-square",
+      272
+    ],
+    [
+      "casino-list-item",
+      261
+    ],
+    [
+      "casino-list-item-banner",
+      261
+    ],
+    [
+      "casino-list-name",
+      261
+    ],
+    [
+      "bet-nation-odd",
+      84
+    ],
+    [
+      "odd-box",
+      84
+    ],
+    [
+      "bet-odd",
+      84
+    ],
+    [
+      "game-icon",
+      71
+    ],
+    [
+      "d-xl-none",
+      66
+    ],
+    [
+      "back",
+      42
+    ],
+    [
+      "lay",
+      42
+    ],
+    [
+      "dropdown",
+      40
+    ],
+    [
+      "navbar-nav",
+      39
+    ],
+    [
+      "card",
+      35
+    ],
+    [
+      "nm",
+      35
+    ],
+    [
+      "tp",
+      35
+    ],
+    [
+      "play",
+      35
+    ],
+    [
+      "[object",
+      22
+    ],
+    [
+      "SVGAnimatedString]",
+      22
+    ],
+    [
+      "icon",
+      22
+    ],
+    [
+      "d-none",
+      17
+    ],
+    [
+      "bet-nation-name",
+      15
+    ],
+    [
+      "bet-table-row",
+      14
+    ],
+    [
+      "bet-nation-game-name",
+      14
+    ],
+    [
+      "game-icons",
+      14
+    ],
+    [
+      "d-md-inline-block",
+      13
+    ],
+    [
+      "blink_me",
+      12
+    ],
+    [
+      "latest-event-item",
+      10
+    ],
+    [
+      "d-icon",
+      10
+    ],
+    [
+      "active",
+      9
+    ],
+    [
+      "fas",
+      7
+    ],
+    [
+      "ms-1",
+      5
+    ],
+    [
+      "icon-1",
+      5
+    ],
+    [
+      "icon-2",
+      5
+    ],
+    [
+      "show",
+      4
+    ],
+    [
+      "search-box-container",
+      3
+    ],
+    [
+      "d-xl-block",
+      3
+    ],
+    [
+      "search-box",
+      3
+    ],
+    [
+      "form-control",
+      3
+    ],
+    [
+      "accordion",
+      3
+    ],
+    [
+      "accordion-item",
+      3
+    ],
+    [
+      "sidebar-title",
+      3
+    ],
+    [
+      "accordion-header",
+      3
+    ],
+    [
+      "accordion-button",
+      3
+    ],
+    [
+      "accordion-collapse",
+      3
+    ],
+    [
+      "collapse",
+      3
+    ],
+    [
+      "accordion-body",
+      3
+    ],
+    [
+      "icon-52",
+      3
+    ],
+    [
+      "fa-tv",
+      3
+    ],
+    [
+      "icon-tv",
+      3
+    ],
+    [
+      "btn",
+      3
+    ],
+    [
+      "fa-search-plus",
+      2
+    ],
+    [
+      "ms-3",
+      2
+    ],
+    [
+      "navbar",
+      2
+    ],
+    [
+      "latest-event",
+      2
+    ],
+    [
+      "nav",
+      2
+    ],
+    [
+      "wrapper",
+      1
+    ],
+    [
+      "header",
+      1
+    ],
+    [
+      "header-top",
+      1
+    ],
+    [
+      "logo-header",
+      1
+    ],
+    [
+      "fa-bars",
+      1
+    ],
+    [
+      "me-2",
+      1
+    ],
+    [
+      "user-details",
+      1
+    ],
+    [
+      "header-rules",
+      1
+    ],
+    [
+      "rules-link",
+      1
+    ],
+    [
+      "pointer",
+      1
+    ],
+    [
+      "fab",
+      1
+    ],
+    [
+      "fa-android",
+      1
+    ],
+    [
+      "user-balance",
+      1
+    ],
+    [
+      "ms-xl-3",
+      1
+    ],
+    [
+      "user-name",
+      1
+    ],
+    [
+      "fa-chevron-down",
+      1
+    ],
+    [
+      "news",
+      1
+    ],
+    [
+      "depowith",
+      1
+    ]
+  ],
+  "numericEls": [
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "1.021.03"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "1.02"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.02"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "1.02"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "1.03"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.03"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "1.03"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "1.011.02"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "1.01"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.01"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "1.01"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "1.02"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.02"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "1.02"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "1.611.65"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "1.61"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.61"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "1.61"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "1.65"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.65"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "1.65"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "2.482.64"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "2.48"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "2.48"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "2.48"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "2.64"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "2.64"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "2.64"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "1.631.74"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "1.63"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.63"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "1.63"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "1.74"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.74"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "1.74"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "2.362.6"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "2.36"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "2.36"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "2.36"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "2.6"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "2.6"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "2.6"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "1.622.16"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "1.62"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.62"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "1.62"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "2.16"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "2.16"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "2.16"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "1.872.62"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "1.87"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.87"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "1.87"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "2.62"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "2.62"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "2.62"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "1.421.43"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "1.42"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.42"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "1.42"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "1.43"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.43"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "1.43"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "3.33.35"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "3.3"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "3.3"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "3.3"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "3.35"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "3.35"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "3.35"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "1.71.85"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "1.7"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.7"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "1.7"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "1.85"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.85"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "1.85"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "2.162.44"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "2.16"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "2.16"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "2.16"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "2.44"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "2.44"
+    },
+    {
+      "tag": "B",
+      "cls": "",
+      "txt": "2.44"
+    }
+  ],
+  "clickable": [
+    {
+      "tag": "A",
+      "cls": "dropdown-toggle nav-link",
+      "txt": "Horse Racing"
+    },
+    {
+      "tag": "A",
+      "cls": "dropdown-toggle nav-link",
+      "txt": "Greyhound Racing"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-table",
+      "txt": "Game1X2Super Over2------    ICC Mens T20 World Cup / 07/02/2026 11:00:001X2-----"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-table-header",
+      "txt": "Game1X2"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-name",
+      "txt": "Game"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "1"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "X"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "2"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-table-body",
+      "txt": "Super Over2------    ICC Mens T20 World Cup / 07/02/2026 11:00:001X2------Chenna"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-table-row",
+      "txt": "Super Over2------"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-name",
+      "txt": "Super Over2"
+    },
+    {
+      "tag": "A",
+      "cls": "bet-nation-game-name",
+      "txt": "Super Over2"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-table-row",
+      "txt": "ICC Mens T20 World Cup / 07/02/2026 11:00:001X2------"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-name",
+      "txt": "ICC Mens T20 World Cup / 07/02/2026 11:00:00"
+    },
+    {
+      "tag": "A",
+      "cls": "bet-nation-game-name",
+      "txt": "ICC Mens T20 World Cup / 07/02/2026 11:00:00"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "1"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "X"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "2"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-table-row",
+      "txt": "Chennai Super Kings XI v Rajasthan Royals XI / 07/03/2026 23:50:001X2------"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-name",
+      "txt": "Chennai Super Kings XI v Rajasthan Royals XI / 07/03/2026 23:50:00"
+    },
+    {
+      "tag": "A",
+      "cls": "bet-nation-game-name",
+      "txt": "Chennai Super Kings XI v Rajasthan Royals XI / 07/03/2026 23:50:00"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "1"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "X"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "2"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-table-row",
+      "txt": "JT XI v SNP XI / 08/03/2026 00:05:001X2------"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-name",
+      "txt": "JT XI v SNP XI / 08/03/2026 00:05:00"
+    },
+    {
+      "tag": "A",
+      "cls": "bet-nation-game-name",
+      "txt": "JT XI v SNP XI / 08/03/2026 00:05:00"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "1"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "X"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "2"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-table-row",
+      "txt": "Kolkata Knight Riders T10 v Delhi Capitals T10 / 08/03/2026 00:40:001X2------"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-name",
+      "txt": "Kolkata Knight Riders T10 v Delhi Capitals T10 / 08/03/2026 00:40:00"
+    },
+    {
+      "tag": "A",
+      "cls": "bet-nation-game-name",
+      "txt": "Kolkata Knight Riders T10 v Delhi Capitals T10 / 08/03/2026 00:40:00"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "1"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "X"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "2"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-table-row",
+      "txt": "Test A v Test B / 13/02/2026 16:00:001X2------"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-name",
+      "txt": "Test A v Test B / 13/02/2026 16:00:00"
+    },
+    {
+      "tag": "A",
+      "cls": "bet-nation-game-name",
+      "txt": "Test A v Test B / 13/02/2026 16:00:00"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "1"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "X"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "2"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-table-row",
+      "txt": "Australia W v India W / 06/03/2026 10:50:001X21.021.031902204855"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-name",
+      "txt": "Australia W v India W / 06/03/2026 10:50:00"
+    },
+    {
+      "tag": "A",
+      "cls": "bet-nation-game-name",
+      "txt": "Australia W v India W / 06/03/2026 10:50:00"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "1"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "X"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "2"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "1.021.03"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "1.02"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.02"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "1.03"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.03"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "190220"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "190"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "190"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "220"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "220"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "4855"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "48"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "48"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "55"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "55"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-table-row",
+      "txt": "New Zealand T10 v Australia T10 / 08/03/2026 01:50:001X2------"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-name",
+      "txt": "New Zealand T10 v Australia T10 / 08/03/2026 01:50:00"
+    },
+    {
+      "tag": "A",
+      "cls": "bet-nation-game-name",
+      "txt": "New Zealand T10 v Australia T10 / 08/03/2026 01:50:00"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "1"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "X"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "2"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-table-row",
+      "txt": "New Zealand W v Zimbabwe W / 08/03/2026 03:30:001X21.011.02--8590"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-name",
+      "txt": "New Zealand W v Zimbabwe W / 08/03/2026 03:30:00"
+    },
+    {
+      "tag": "A",
+      "cls": "bet-nation-game-name",
+      "txt": "New Zealand W v Zimbabwe W / 08/03/2026 03:30:00"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "1"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "X"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "2"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "1.011.02"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "1.01"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.01"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "1.02"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "1.02"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "--"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd",
+      "txt": "8590"
+    },
+    {
+      "tag": "DIV",
+      "cls": "back odd-box",
+      "txt": "85"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "85"
+    },
+    {
+      "tag": "DIV",
+      "cls": "lay odd-box",
+      "txt": "90"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "bet-odd",
+      "txt": "90"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-table-row",
+      "txt": "Knights v Northern Cape / 08/03/2026 13:30:001X21.611.65--2.482.64"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-name",
+      "txt": "Knights v Northern Cape / 08/03/2026 13:30:00"
+    },
+    {
+      "tag": "A",
+      "cls": "bet-nation-game-name",
+      "txt": "Knights v Northern Cape / 08/03/2026 13:30:00"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "1"
+    },
+    {
+      "tag": "DIV",
+      "cls": "bet-nation-odd d-xl-none",
+      "txt": "X"
+    }
+  ],
+  "bodyText": "Rules\nDownload Apk \nBalance: 1,500\nExposure: 0\ndemo_user\nHOME\nLOTTERY\nCRICKET\nTENNIS\nFOOTBALL\nTABLE TENNIS\nBACCARAT\n32 CARDS\nTEENPATTI\nPOKER\nLUCKY 7\nCRASH\nRacing Sports\nHorse Racing\nGreyhound Racing\nOthers\nLive Casino\nVirtual Casino\nLive Casino\nSlot Game\nFantasy Game\nAll Sports\nPolitics\nCricket\nFootball\nTennis\nTable Tennis\nBadminton\nEsoccer\nBasketball\nVolleyball\nSnooker\nIce Hockey\nE Games\nFutsal\nHandball\nKabaddi\nGolf\nRugby League\nBoxing\nBeach Volleyball\nMixed Martial Arts\nMotoGP\nChess\nCycling\nMotorbikes\nAthletics\nBasketball 3X3\nSumo\nVirtual sports\nMotor Sports\nBaseball\nRugby Union\nDarts\nAmerican Football\nSoccer\nEsports\nBoat Racing\nWrestling\nAthletic Bilbao v Barcelona\nJuventus v Pisa\nH Baptiste v E Rybakina\nS Hunter v Bencic\nAUSTRALIAN GRAND PRIX - WINNER\nCricket\nFootball\nTennis\nTable Tennis\nEsoccer\nHorse Racing\nGreyhound Racing\nBasketball\nWrestling\nVolleyball\nBadminton\nSnooker\nDarts\nBoxing\nMixed Martial Arts\nAmerican Football\nE Games\nIce Hockey\nFutsal\nPolitics\nMotor Sports\nKabaddi\nGame\n1\nX\n2\nSuper Over2\n-\n-\n-\n-\n-\n-\nICC Mens T20 World Cup / 07/02/2026 11:00:00\n-\n-\n-\n-\n-\n-\nChennai Super Kings XI v Rajasthan Royals XI / 07/03/2026 23:50:00\n-\n-\n-\n-\n-\n-\nJT XI v SNP XI / 08/03/2026 00:05:00\n-\n-\n-\n-\n-\n-\nKolkata Knight Riders T10 v Delhi Capitals T10 / 08/03/2026 00:40:00\n-\n-\n-\n-\n-\n-\nTest A v Test B / 13/02/2026 16:00:00\n-\n-\n-\n-\n-\n-\nAustralia W v India W / 06/03/2026 10:50:00\n1.02\n1.03\n190\n220\n48\n55\nNew Zealand T10 v Australia T10 / 08/03/2026 01:50:00\n-\n-\n-\n-\n-\n-\nNew Zealand W v Zimbabwe W / 08/03/2026 03:30:00\n1.01\n1.02\n-\n-\n85\n90\nKnights v Northern Cape / 08/03/2026 13:30:00\n1.61\n1.65\n-\n-\n2.48\n2.64\nTitans v Western Province / 08/03/2026 13:30:00\n1.63\n1.74\n-\n-\n2.36\n2.6\nAbbottabad Region v Multan Region / 08/03/2026 16:45:00\n1.62\n2.16\n-\n-\n1.87\n2.62\nIndia v New Zealand / 08/03/"
+}

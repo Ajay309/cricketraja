@@ -1,0 +1,30 @@
+{
+  "before": {
+    "url": "http://127.0.0.1:3000/home",
+    "injectedCount": 0,
+    "menuItems": [
+      "Account Statement",
+      "Current Bet",
+      "Casino Results",
+      "Set Button Values",
+      "Rules",
+      "Balance",
+      "Exposure",
+      "T10 XI",
+      "Punjab Kings XI v Mumbai Indians XI",
+      "CSA Provincial One-Day Challenge Div 1",
+      "Titans v Western Province",
+      "ICC Mens T20 World Cup",
+      "ICC Mens T20 World Cup",
+      "India v New Zealand",
+      "T5 XI",
+      "JT XI v TKR XI"
+    ]
+  },
+  "clicked": false,
+  "after": {
+    "url": "http://127.0.0.1:3000/home",
+    "injectedCount": 0,
+    "hasLoginBtn": false
+  }
+}

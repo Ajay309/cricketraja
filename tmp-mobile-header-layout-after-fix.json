@@ -1,0 +1,77 @@
+{
+  "headerClass": "header-top local-mobile-header-layout",
+  "childInfo": [
+    {
+      "cls": "logo-header local-mobile-header-left",
+      "txt": "",
+      "rect": {
+        "x": 6,
+        "y": 4.09375,
+        "w": 189,
+        "h": 28.1875
+      }
+    },
+    {
+      "cls": "user-details local-mobile-header-right",
+      "txt": "RulesDownload Apk Balance: 1,500Exposure: 1,500demo_userProfileWallet / BalanceSettingsSign Out",
+      "rect": {
+        "x": 195,
+        "y": 4,
+        "w": 189,
+        "h": 28.375
+      }
+    },
+    {
+      "cls": "local-mobile-header-row2",
+      "txt": "Newly Launched Matka Market In Our Exchange",
+      "rect": {
+        "x": 6,
+        "y": 36.375,
+        "w": 378,
+        "h": 26
+      }
+    },
+    {
+      "cls": "depowith local-mobile-header-actions",
+      "txt": "",
+      "rect": {
+        "x": 10,
+        "y": 66.375,
+        "w": 378,
+        "h": 0
+      }
+    }
+  ],
+  "logo": {
+    "cls": "logo-header local-mobile-header-left",
+    "txt": "",
+    "x": 6,
+    "y": 4.09375,
+    "w": 189,
+    "h": 28.1875
+  },
+  "right": {
+    "cls": "user-details local-mobile-header-right",
+    "txt": "RulesDownload Apk Balance: 1,500Exposure: 1,500demo_userProfileWallet / BalanceSettingsSign Out",
+    "x": 195,
+    "y": 4,
+    "w": 189,
+    "h": 28.375
+  },
+  "search": {
+    "cls": "search-box-container d-xl-none local-mobile-header-search",
+    "txt": "",
+    "x": 6,
+    "y": 37.375,
+    "w": 24,
+    "h": 24
+  },
+  "news": {
+    "cls": "news local-mobile-header-news",
+    "txt": "Newly Launched Matka Market In Our Exchange",
+    "x": 36,
+    "y": 36.375,
+    "w": 348,
+    "h": 26
+  }
+}

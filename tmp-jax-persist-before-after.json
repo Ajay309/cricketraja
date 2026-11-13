@@ -1,0 +1,67 @@
+{
+  "before": {
+    "len": 1572,
+    "keys": [
+      "token",
+      "logedIn",
+      "rulesLogin",
+      "popUpLogin",
+      "data",
+      "user",
+      "auth",
+      "_persist"
+    ],
+    "shapes": {
+      "token": {
+        "type": "string",
+        "len": 41
+      },
+      "logedIn": {
+        "type": "string",
+        "len": 4
+      },
+      "rulesLogin": {
+        "type": "string",
+        "len": 5
+      },
+      "popUpLogin": {
+        "type": "string",
+        "len": 5
+      },
+      "data": {
+        "type": "string",
+        "len": 379
+      },
+      "user": {
+        "type": "string",
+        "len": 490
+      },
+      "auth": {
+        "type": "string",
+        "len": 357
+      },
+      "_persist": {
+        "type": "string",
+        "len": 32
+      }
+    },
+    "sample": "{\"token\":\"\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\"\",\"logedIn\":\"true\",\"rulesLogin\":\"false\",\"popUpLogin\":\"false\",\"data\":\"{\\\"user_name\\\":\\\"jax\\\",\\\"username\\\":\\\"jax\\\",\\\"uname\\\":\\\"jax\\\",\\\"token\\\":\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\",\\\"auth\\\":\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\",\\\"access_token\\\":\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\",\\\"user_type\\\":1,\\\"ptype\\\":1,\\\"bal\\\":9370,\\\"exp\\\":9370,\\\"exposure\\\":9370,\\\"available_balance\\\":9370,\\\"availableBalance\\\":9370,\\\"bcode\\\":\\\"49174326870\\\",\\\"exposure_limit\\\":\\\"0\\\",\\\"isDemoUser\\\":false}\",\"user\":\"{\\\"rulesLogin\\\":true,\\\"popUpLogin\\\":false,\\\"token\\\":\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\",\\\"logedIn\\\":true,\\\"data\\\":{\\\"user_name\\\":\\\"jax\\\",\\\"username\\\":\\\"jax\\\",\\\"uname\\\":\\\"jax\\\",\\\"token\\\":\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\",\\\"auth\\\":\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\",\\\"access_token\\\":\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\",\\\"user_type\\\":1,\\\"ptype\\\":1,\\\"bal\\\":9370,\\\"exp\\\":9370,\\\"exposure\\\":9370,\\\"available_balance\\\":9370,\\\"availableBalance\\\":9370,\\\"bcode\\\":\\\"49174326870\\\",\\\"exposure_limit\\\":\\\"0\\\",\\\"isDemoUser\\\":false}}\",\"auth\":\"{\\\"user_name\\\":\\\"jax\\\",\\\"username\\\":\\\"jax\\\",\\\"uname\\\":\\\"jax\\\",\\\"token\\\":\\\"tk_3eb2"
+  },
+  "after": {
+    "url": "http://127.0.0.1:4400/game-details/4/469420269",
+    "bodyLen": 0,
+    "rootLen": 0,
+    "len": 1571,
+    "keys": [
+      "token",
+      "logedIn",
+      "rulesLogin",
+      "popUpLogin",
+      "data",
+      "user",
+      "auth",
+      "_persist"
+    ],
+    "sample": "{\"token\":\"\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\"\",\"logedIn\":\"true\",\"rulesLogin\":\"true\",\"popUpLogin\":\"false\",\"data\":\"{\\\"user_name\\\":\\\"jax\\\",\\\"username\\\":\\\"jax\\\",\\\"uname\\\":\\\"jax\\\",\\\"token\\\":\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\",\\\"auth\\\":\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\",\\\"access_token\\\":\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\",\\\"user_type\\\":1,\\\"ptype\\\":1,\\\"bal\\\":9370,\\\"exp\\\":9370,\\\"exposure\\\":9370,\\\"available_balance\\\":9370,\\\"availableBalance\\\":9370,\\\"bcode\\\":\\\"49174326870\\\",\\\"exposure_limit\\\":\\\"0\\\",\\\"isDemoUser\\\":false}\",\"user\":\"{\\\"rulesLogin\\\":true,\\\"popUpLogin\\\":false,\\\"token\\\":\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\",\\\"logedIn\\\":true,\\\"data\\\":{\\\"user_name\\\":\\\"jax\\\",\\\"username\\\":\\\"jax\\\",\\\"uname\\\":\\\"jax\\\",\\\"token\\\":\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\",\\\"auth\\\":\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\",\\\"access_token\\\":\\\"tk_3eb23a72-e243-403f-a940-548fb72eedeb\\\",\\\"user_type\\\":1,\\\"ptype\\\":1,\\\"bal\\\":9370,\\\"exp\\\":9370,\\\"exposure\\\":9370,\\\"available_balance\\\":9370,\\\"availableBalance\\\":9370,\\\"bcode\\\":\\\"49174326870\\\",\\\"exposure_limit\\\":\\\"0\\\",\\\"isDemoUser\\\":false}}\",\"auth\":\"{\\\"user_name\\\":\\\"jax\\\",\\\"username\\\":\\\"jax\\\",\\\"uname\\\":\\\"jax\\\",\\\"token\\\":\\\"tk_3eb23"
+  }
+}

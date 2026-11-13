@@ -1,0 +1,114 @@
+{
+  "state": {
+    "url": "http://127.0.0.1:4400/casino/superover2",
+    "title": "DHONIEXCH",
+    "bodyLen": 889,
+    "bodyChildren": 13,
+    "hasUser": true,
+    "preview": "Rules\nDownload Apk \nBalance: 9,970\nExposure: 0\njax\nHOME\nLOTTERY\nCRICKET\nTENNIS\nFOOTBALL\nTABLE TENNIS\nBACCARAT\n32 CARDS\nTEENPATTI\nPOKER\nLUCKY 7\nCRASH\nRacing Sports\nHorse Racing\nGreyhound Racing\nOthers\nLive Casino\nVirtual Casino\nLive Casino\nSlot Game\nFantasy Game\nAll Sports\nPolitics\nCricket\nFootball\nTennis\nTable Tennis\nBadminton\nEsoccer\nBasketball\nVolleyball\nSnooker\nIce Hockey\nE Games\nFutsal\nHandball\nKabaddi\nGolf\nRugby League\nBoxing\nBeach Volleyball\nMixed Martial Arts\nMotoGP\nChess\nCycling\nMotorbik"
+  },
+  "logs": [
+    {
+      "t": "nav",
+      "u": "http://127.0.0.1:4400/"
+    },
+    {
+      "t": "nav",
+      "u": "http://127.0.0.1:4400/"
+    },
+    {
+      "t": "nav",
+      "u": "http://127.0.0.1:4400/"
+    },
+    {
+      "t": "nav",
+      "u": "http://127.0.0.1:4400/home"
+    },
+    {
+      "t": "nav",
+      "u": "http://127.0.0.1:4400/home"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX1/8mmVj5BNOak5GAzs1EBI64fk6Vkzgpl5LLPvp1K7ieGCrisiptPN7Lv9i6NQJMxvena4SeqzMKO4D3ZnG5sGolizbAYcbBbnC5TZO0JqmyHbID2rXjOeE\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX1/8lLSvRbrVaOrKuqCjm+pcBhIzvV0qJwIXKCdHrOT/ZOXMK0kzcFUT6fOcMy8eOkj89LmB4nGIvXdLoXUVFIOJOZkW3A2qGqJTLC2vKnqg4QH/C72a3s8y\"}"
+    },
+    {
+      "t": "nav",
+      "u": "http://127.0.0.1:4400/casino/superover2"
+    },
+    {
+      "t": "action",
+      "m": "clicked match link"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX1/61tvHq1IUM0Ei2M+V2Lqpst1Ng8o7peDwAzRJGdvwu8WEo4RdPRcU4UUSg5Jj7xxLer69/dJBsEx9nZkj/FyBGMzISAIypsuXPCNDphC8SJTL4kldylqr\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX19rPryX2gVVoxYP3oWJRFTHZ6p4zjYg73iWzuENma8mFQaJuVbKyM44ortLXiiN4wcBDg0BUwvPYLoiERZEZPxs1BWz3PICF5p6YxIQCKxWzZXEZJUGkeWN\"}"
+    },
+    {
+      "t": "action",
+      "m": "no odd on details"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX1/8T3DWESATLdta/Q1k0cczZUY7uuPKqaQ54FuYeA1TjZUTnat3GXJjBARZtDXyA8OvhEk7IJ4CnU70M/NE98L3TrlP40uBc/KoI9+uzQQoWYkJHMjIZzjl\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX19GNiAnLgrAzYO9g08QwPPYjXKFytKwlCr+UwFX29d4fQmzezftN+Hj1toybWHiADaDSSiXFdEk9bYVvtMW4cmvdzC+uETIH35ZH0wJVMv93TbfFuFANr9j\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX18h2QEg70iJvxBBIuJ97JAnwPEz8IVVVbOCFFyGS4TTGlS8piWnK5IPBVjfsCoLBywXl8X5LQeMaMonijs+AyNautQOXj6wQ9GQCHRpFvANvHDI/bw2cgeT\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX19j21WtBsUx7fg8kBDdCictakmSB5QiHOy3m6YPDR2s3LXmh5Drtt6rxBqp4XJTnyeVmgvSgJxryGAlQUypHj28P+s/qlgE7UcjDWUUsbxQmS/2i6EI5eE+\"}"
+    },
+    {
+      "t": "action",
+      "m": "place click fail locator.click: Timeout 7000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('button:has-text(\"Place Bet\"), button:has-text(\"PLACE BET\"), button:has-text(\"Accept\"), button:has-text(\"Submit\")').first()\u001b[22m\n\u001b[2m    - locator resolved to <button class=\"btn btn-success\">Accept</button>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not visible\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    13 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m       - element is not visible\u001b[22m\n\u001b[2m     - retrying click action\u001b[22m\n\u001b[2m       - waiting 500ms\u001b[22m\n"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX18WJ33y656KsEXJuDhlYuEmZGNOAYL/2LOIm1d+IAbOIqX3+6RZJQpOPKYrKFCvV9/UCz9k9JH59IpUznII9vFc1YyYsWXnepqj2giHBa046xmIBP6DzoSr\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX1/38DoHkrlxd2pMnjr8NWq09gJ0vwH1MGyqAmlI0owvvhuux/hgQ0PMkNH5TKq2aKoIoz0O4iwML5cmNTSoswSdtQKMXsDZT4jeJIuzPlVGP1QhTcNQnWg3\"}"
+    },
+    {
+      "t": "resp",
+      "s": 200,
+      "u": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX1+HYvbssBa3fTta5sxu4/7+qmSG8E3EPSF+Y0i15zq31Tvde3f4N/mW4I019k4vxcgSpIOk3CW9N9bJH9zc871g1Y6dlXs1Ve5Sm7Bh7auJFgMMUw525RCy\"}"
+    }
+  ]
+}

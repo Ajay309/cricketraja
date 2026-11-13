@@ -1,0 +1,1019 @@
+[
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+sZkASvgTAJmlakDHsIgx/sVpNwo6VuZ8Cjjyimq3aTL9rZFT+MZfXtdrZvi/gxudcMJFHmfgZBRjaZRkfHHhaaffWJ852CQYsq25CASQa9ZCW3EoCM+Cc\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18gAdBr3dNvFQZbIP38p8qyjNQpysyVP8dEpbFNVMsh1CfDoyKKZDPfGmSSiC/OQVj6doUrxuK8JWsJHpBwBUqmxL7O4FaQdkDs5SJ5KIQVrOskxYVw1kGr\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX197CTmt2cE5jMUpJ4i8BRQzP/j1vrb82AoxZIQOmZWZxBdJivy9wC9r3XAWvKztW6yvaJ9m3ka8Xxftu8Ju2dkgGp7l0QtlW850DQnz5FP3ga702TM2nd5/\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19PK01P0eaPVWCZ0V3+6kH3vZmQJEaAdT5fTK3Jso/2SPr8iqjBMnGcYNURguAlW4JSakqg+CUXOJ2Nsbk1FC1YSQdTiVl/7ZHAMe4mj1h99iyi0qHhsJLw\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+OnTjl3G91KTy8RcmN7v+6hfWjVRR8kkDXEADtSJX4z5ifNaLvBt8BPnAarcOqy8a8YbaAE6bNZPcbmH41Br5kzBXRgIWsyXOTyuY/EYPM6+mjJFf18jgu\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18N/+QB0yId4YNRpz/F0NonAMggAXcfwjWMSUk1ikhJkm13PXHOr1elJza517JHaLf55Dr5hCSw5fgizzN2i9udXce/b2HIqU8CSixl5VzzO8C71vYgb290\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/Ucxh8r/AjAs7wHBwoDyTBkt0Oc/vq6xfyVhaVfrQSLZBbKq1sB+wpESX5II3JluCOG78w0aHMgZmIbe0Rnr3okygX5jwlNDGEIKipfzrJjZlULPIuX9Gh\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+dc3hdiwBFsgulvvcyXAzFTpMuej8I6628S2yP8FC7zOWgqk8WZtuDZ/0UnbJi3XFwkcXfh7UI9t8TxpwiQszdNyvjWvivaV9UTsgtsnhmMyGr2RmEG9Gk\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedetailPrivate",
+    "body": "{\"data\":\"U2FsdGVkX19KEfC8heRDzuBDYmwFykdABk/HvsiJ2qJs1dw+dMksBUDyF7ndScocjlL7EiLMmWdhZjdlegMC1Ud4JcfPbQDGR8Sykx48EMmIxRzns0S3VLbF/MBtGCk64e/eBK1XFohzicK/jKj0I7tCbwbD3UBi7dBFA8QGYED/6ww2s17ilEX+vSX1deFRl5pl3a3XzcSbnXevmacH8AdUsoTeuvqA5ed0PIqlQJFRcDIOk+anNBY9lgBYLqxTtCdk0g1qY1fddyXJ/C6JvRWe2yl/TYV6GLg"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+axZ6cG9Kf40imRuspiDxUYL+2HtOnsybw/0/EbrqEMJ74LGvjSnUM+UKj/lb2BoyF5FNuw1z7gbDdSD/ZZ3vNkf4RgvQNPW3otB9D1GI+j1odb8fX4ImT\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX1/STa2M5teZnz0wtEammL9qmuzj2Keexv5EEgvSMNnmWHHFWGmUC7yj6heV9SVAMtYdrDhPvZepoAO+22XVSd3YQdHMexI7Q7aOoPDhUaKUvV/rTb+kImeJakTxg4jWU+qjbleuf4qEkN1W0pfPR37W6nbvq2RdnQxp1ks/RDWsHglZWhLt4ghqF0VTTSigMDUN3hOnBX57N+khKo4qbMZkIA6+87HmNoH/sB+1WfrgF8fm/MB0UVEroTvSGnlWjGAfQqm6E2zOjmIxHeOY8pUa7wZ"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+u4dkaIfXdqfHo49zmjI+sEutGoxv9jkkVCOC/M5n8sgu/LclCursP4fZ6SxrYWDm3V3AxDZYLgU1ZOnp1fXpgqifAShBmaplfLBHkYWB78/J+pUkS1lBu\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX184un0cGtirQdpQvhLinQZ6do+o+zusRzZ/+Q75iWyNMdVGni27E8zh1sLERF76NTo0u2NmfKJKVWPDGqfS0hpK9bGER7qhSklkF7FsNhGWZkH36MtUbced\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX1+vuBToIiQ22QJYEQ+dgwN2jICLnzrLv8pto5qirbXAuqf8Y9iHOBQVZUyt2YN3aaHM2UhYJlw5Jq8OBBa4SdgOqnAELa8n+6DsVAhB9uORjc3tGvGNm51rqQGzT6Io+fFGv7ZCed+kLw+6jz0GYCTjPg+QaWq828+CanubEO+10ffRTaU9u3KgNEwA1n5Hn/gOwko2VPrgD+bf8Fiq0IcAIOeHwMMhRvphCf0VgxJbMmNy2A7SaeFcW3lDExwITGwEqlX074eqdNSTzoXpq/HMo/0"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+WfToVZb99BVqcHTqO6cXBztwJ83UfG+4Pnsy4lF61omL51ANEaUXpPehDva28WBXor5KA53Q9btM6NfjceNbvOe/qtkIlYSRob+EX/gUD7uo1t2Kumz7a\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19nXRVTOGsrg+70Ib7U7hR07sYbPpGGSqPyRBE4fw/dHHyvL9IZ9soUOJF6qTrVvPJQIoycHuPikxfV9fR6FU8JEMIuS9artJdM+Z2oSTn/yttJssVz8daJ\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19O46mBUsxu2ydOVSsEQkuajh6zdqogEVY9IhMPUwyMN2XPq+owGMa07eYgLY8X7MeMI6hdXdN7lkKvZZ0DRq0g7AEURgyQEbiQeZaoJmstpt5DD3P2do8P\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX18MfcL5omCmAGAB8JxgDHVV3ogcDn9D7j7SBhFxJvtcl8dDqSn5ZpKgD6WiIQdqSRqyO9LZE45UPpo5B7AbqMfophCxPqiac/GfZREOPK+Oho/iS6jlDptbqrEn1T5IIBsMALMwL4hGvOKJkTwmdBbfUgkeO9eGOT3Wi5xYc1VSJ/S/UkJrayrJY7biCltyuHaE1m4eo2IVAJ3WSZ5teEWNHwkfh6pnQ3uTT9+oFSUv3zE55M+OuFRXq8fOHfG6iSSEpu2L79cSVcpuLd7KgVMNBnz"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19OO7spQZ+6fOk6hAcWhzP67trpwXd0J75l1kXNfaoZm1CtlUaMRV9ach2sp1iXxrTJxo7B1NmZvRIXmjVEyrbU24Ut8Y3BDGgoVim4Iaq2rUPOFkq8yPfZ\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX183scOIKexeDlnaWy5ZDRgn8kdGuuhentjEuFtabe0wyuR5zIPr6LMrkkfybVonHh5tpJwGASbhR2mAQzwmcKpdRFlJwnYiS4rDX9aFuzVTIdIUxFNcPwe4\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18PxIOjLfz/GsHJl/yojz6ZeZGlQd6pVGP/ZBIxqP17AnQ9seMAY2CZfdMuVmH1Hs3K93FfhlzOQurKtZDC2SABNYWO4yplMBuAYM2WRW1XBJQCnJccOi5s\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX189pNXNigOkE8Su2Brrp46nBgdjrdpeSOzr3uNKSaTAc2kR5206fb/xVh5JS5GjKFgAf6gkQ+h6rdPPnhXVQql127IVtqEN2/Tt5z414pskkv/Mr1jpEAlr\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX1/O/WOi0ZpnUsthy1DufBOTyrLc01JbA82Ulhp3+PNBA8TW7T4lZ6OauIgeR0s5+wBPaRq6ps/5D3OiqxRjmKgZG5XcTAPwB2mjM1Uo221ZhCljpCwqScoTR/GWdVrIVy2Dg1vqW0a8RDA59vdmPOs2EiuGB7N6k1MEAiYzIoeUo+lonlDVdrL5a9TiLoWK3BXA8IK/IuWfKukxAezctbmYHWX4Uw4sSwGfRrgltYUHbtA0iBV56ReIagz9QaqAm+1BZxGW8b+iLObtyMp71ofJzHB"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+InyZPHAjHGSqzp6X+D7d5ISjz2sNSQ4GSdYAH2m4/xDtBQwM7R7hzdLvn3kLMsk1F1mLPXHl3nL/q46AFo2fpJZbqHrtePXLkfxWNr1Ao4Kv1MOC3rOAi\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19RfXIQrotYXXHgsNsSdpYPT41GzCqh8Ukh+wpVZowXGBJgjL05r4OXs5w4buwGBIW7TNzMgRjzObC8ItZhv2lMW6VySWH83bHrGKEuW7MM1Hh9rKwadTgc\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18+QGp9iLmtu3kUORt1QUdmLnbiTxVUkE2xFAtHxt2SoIEHXZMzcev3U/8aGUA0bIx7yM+SHG58DX+PfgDr9IwX1Yct9lrH6XoupcuhD/EwR+Q+RlFLJkET\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX1/QZLRAyR0Gak506Nfy39k+5nDQz4cefRu3QKg/N9YrpwuulnntZibWfF4C2/nNNLM3dr+Tt3+5ZYg/YGeQ8hkzGnlQupAi2EVoqSCF08ayT6yUQI+eB754ysr4ItGEhvi7uz3N824xl48i/ztgFuCcqF0px5Cm5NiBN2xHFQ0M1iGWhfEAejk1EjvSc36nGGJ/ErdFU3b7c8Ea2ujmi2XIt2OpLQhqgKJjhML2hVf0h2/trZtNcyUUUtjBGZjXcGnJapeaQe7tKlrmFpmAPYrln1s"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/XrBMLpPZY5bmKzlGmPFodJoB4ZLSfxuIfAyUI9UriVd0TAb1/lyfTQaUAdwLl0RHAdT0fcEQAqZcY7yR77oXquqq7z3N9Y2NqV7V0SqwBTo8Jzq8ohQDU\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/nu8PVxY2TVfna7Nj4zouMGV/XMx/zK9vq3ANmm/S0YDlsCZUR2bP+7QntajMGUZlI3vnZI7m7WiZEyjNGw0d2nQRxY/PsUPiXHIW8W+CqaZkM+T8AyNGS\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+JmBrFCtlNv6wmmZoy7kqeyfD8OSgq+/QGnvVhg6fMmrDDTWDNL1YKR5lQ0djl4zAvy8+2x8u+JDii8WcEFoN9gViiZLv2fgVrhP8p8ChPG5/SW1ukpxrP\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX1+W6OurM6wSD/LTjjsoEXvxEd4x2YqB6Xfj2tU2AupXTt1EDV4j+QUa+PMTMeAeegAIcXFV5z+HQyhOfQjJK3+Ggo1E/OtVeP00ZT0jM/cs7kT6Jeu937HRu8+JehOS6rDwzl3q2J6Kfe/6/0aO9xdO1CVAnNAHEcu+xRBwnb+5PdfyP+NBXG9jRnehfW9LrqTZz/ctNzxWmT6DdPE14ABwWeDz0KJNh0gDjikcYYvGyiiV5f/c1285qKCQzr5fY64et+9K7GmakJt7LRzA3fWG6hr"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/iCUFsomxygZIiZB4ROrBPjlOxs4JH1vHrLNlDI3TlWsNZq2SZ1MxKpvPajDtE/FEoiVndYh7cuO9ZXwrqw2Y2XDgIrC+uQ44fP9PIDQ7wI6/xOL6jDtEo\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+9ugWv8MB7TjtFPzab6VnjHpr1JzjjQWzk/cLvLdLErH4eFMMJSpjkmRwxnK2kX8uzmnoLuI/E9KfLfDUFSicrHr9E+SaiBxQpD1dmMRO0JOQBduYWXfjy\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/KdI5qQ0c3KSsuCB9ldlEVTG1KXSJfmd7zVazCUa0bHc4H4R59q7+ROlf0e+U+vn09IiiOSptXEqV1rlSrv6oQ19C1XBVsf665X65iZ8kD+ZZR3O+26dS6\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/JSrhMGpbD1Cyx7oIXeSNNUWRGxUYpLMuCDK/rNyvzepwAec4VjevT0N8g1cwyCiXTxJ3H1ncpYDZMKwaYE55Ex/Dt+EK2q6xL3jgIp2kdeYwNiGrsBPyN\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX19ZnrTYRx4MA5Kt4Eexw8Y0tehZUlACSy4LYLinwt6w0ybuW+4Xl4Bv87cmxbdT0atG8NNVkuRn0i0JwvXmGXWwpEUCduFahnKk64E/LMyQ2SF4hgiqxkXfY8Vr67eL5aER1fCV8dsFmFKqUBjjXj3jJTyUoKw0HlfbtrzX2E/rXTTkWcbz3SXh0EjVxQjxc9tcO9SOfw4sjg2hIN+5xaBuDKKT9xlGLnoOkkk39fcV3Sz5to33m1d7VCGfU15vkAbQjgeq+WunSqDEMaZYKxSxm+p"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+yXyQX82N7XYz3rryuKc5l+HKmyNtZ5RMf/O1QAOYOu3aIR1XeLRg5Jbs0HoF2J9Y2HGUtBHdSZ0kNE6xux90MNBB1pDMkF4cJ+3fnN8e8MFgMVWS9jI6n\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19Wxxw0G/EvcicjbTFm2Je0bZ0ePaoo/LXm0t83cONFDf5GXQXuxGf2bPFVbAyQROpLccl/uQyirHZBu/EPrzM+zWmLg9T3kpUVNQzewao3RpCm2lXgCqOB\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1++7/nO0mycmP+Xe5ZFatIUOzbMxRinV7PxgqE5RroZrTzuSNx4kblTM1Ov4qBbNns1UVV8wOIKSN56vM8+9EuzS2HGvdGCzGD02jAg4c3b5HJygB+8NRzC\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX18oICHq/eE+uoCT2+LX7imK17DeOTO/R9fgpptb7qxhZzL9mClSoytx60MjFnA15VY7lvieSg2Pxw98TAUYo1XNMKGQNwGODjJF2OKTJyjeLX3pYz7sLg8ncVOBeN7LR1z7+yce5a6lNSD44dG2LOBaVYvQX5CLX8xBQA8yWJSzNhT3UKxPa/ba5/O0Mrt+OYOcp32yRfSIyMxR/Lbyg2lca91IyoyFY0P6QZ8rdl9jNhkOTbe9lmLIx3Vslv/K7t3RfIuVft+14ux7S6jZ2Ux5HMg"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19CpztH0gN5+XYTGqVjRrZa0Nw0R4WJu9X/rgHyPphAm+Mnj7zhBk5lpgHyGYmhJH1jrzJERH9+x1ZAPd9QfV6wAn3mArlTHLWGmqotAJPwV/lMU0WULy3m\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/lstIt61TcEvoetbpxaRYXkGYRgck3vA3B+ZdvZvNwhB7MctN7MOha1TNNAdhFdte2CsAUWMtJHKobeiS6FkyJ7ZsbUEFhHhierfI53f/2g1YYC9Kk1kOc\"}"
+  },
+  {
+    "t": "console-error",
+    "m": "Failed to load resource: the server responded with a status of 502 (Bad Gateway)"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/wcpYD9fD9m6YlMUtJd7E3f7s/7VSZWuuMThGfyJCw3U1jqbUB/d47zNRN2LMOx30jcd2NL1C2MWW3W+HRzkWhiwgnPn6cGog1YLVzIYbN8h2oT2V+BIPa\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX19f6UtWYoQcXrqiz4ACPLuTl9B5kVoTzMP2OSSjgvMC9fZkqdC9z3MpFwh+8cFJ+QBeyyyi0AGrVn1cB57wKH2DIEYSnvyKhFCYSmh+ts9vvbEN9lQYYH1HHLruHB3hCdbWWVVmZdvsVLENzJ7l8K73vpSBYEwdJfTFwlMBUxfNGQ2iHUaDG6OTDFKayYt5TesqQvbttSAOFpPzfGqstawPGLDx3dJrIuYPyLNpHKIY0GtA/j5M9pnDDlOQZ3hy/bU+XYUzS8fyFwBPumYkZyEqx0A"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/CjBXDNh7QDtmKCZTZVOW3UiysaML/R7PEBl/RZ3yWig04lJ/qycDZGcl6qVZJjh0IE6HDcBsoln0G/VY+Xq0RTd+jzQzYELzrBrUQjojX071phyfxcUGS\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+EiJVXs4vji7EZxEJWL2wl0t0+XSjaPoL6OLdianhXcr0/jAAAlgCrEXs2ddJFTZnTeRTf4/xy1yZUwja+02RAv2rGB75f7mNISYaaUkIpswcQwy5FlWHe\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18yFu+156ZkA55l0ty4JnP8LAiF16jAArhYl3y6K2mZLv1NPZMRPE/9hkvNeWAkxcOohdOtOY+0X19g+hvErZMwO5DuIB6buPk18VWqXw/fiiQ1D8gOYLyk\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/keibngrNfx9j0JAHn/weaMrbX0eFb75Cs8ZxdwCbVEUbaYlxQdTu45N4bvX00pPXVwlMpJg57G28uJBAVbtE1FhQB0YP8z6jWOYM4D1YPM80FyeIi5RKr\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX1+dlQu2KKUXXWBr+pDgp/B8rM5pAX1jnN6q2F++n4vfpo/Og0vrPojvhKSE0cY04pCHm4NllxnYz4NyUMwr60JAGWs5Ma38+N5lpPzHTwkoYHGju8JpNoDpqz+W3veYacu+qscnpqtkDGTLZ81apN95VRHY24TdpRPrraKbN8GVhz1OAudFnLCJ1DDcKSQZzSNZt4YVd3PJxFrLlQ1TLXbriWozzlD2lnmsJa0UPBDmqhoWVubuNPScMRLeqNDowGPaWZcSB3qDKY8LyTEGs4ih2PO"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18skEYlrzjQPvfwdiTNBem8Fu6pKc0gQLN+zkUKQDGbMwNf7jneYWU9hlGICBNNadGhjAYQQazmnZZmNaLWhM0nnFdvw54oJD35QcJYXHrCfjG3brDe5TSN\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/TA78i3ZU61ujYQ0kQaonpvCgh36n9Dg7NREbQNVw/ttHXtRD2G1F0bh1be1IVvuPljygiudxSCqwbwgyv2aezvSUu1kiAN6l9Ow84rVA0Q2ML1HLr5fU8\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19LZ0xWz5zmHN6GblyUaQROEXIawuWj6WolF7m6tbM01ZlxEZQFvIZgN1TYX3kjv+j7lXLw/4OG0gFyPDm9ArLx1OsHZcA/pq4g83BuM6ezQWjG/hWceU6X\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/4nhsiSFp3CJhArd5vt449a+Gr1hZtqgx+KtYTBDKIgC3N+Imdr6yN2DdseEfhiflLiXMOn54oMazWBiU10+/f4dkJCXnEAreNDqpsqx7UinJWgDyc96+U\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX18FxyMFmJD6sLWyfMNBotSdHIdLX9SPCO+GpB9nmR2FBgumAYV3BuxAqWrSZAmGUr51HhEFOK09y+bZoE7RW0wpG7Elg7oeyCCjELwrDKJC+hINcjdJRcDFaU5DSoUn41P1EKWiKLSF+9cYoqj1te/fWEjtnU5L3YUIMYz+V6agZ3oCE0m3wsZt6qFyHMuN7Dy2Mg/FHtJFlQvyD/fEasulfYCje/+YRDxz8cP0A6ZIUWRmOhghiO5S+/c8i8W5j/lyixf46P59V1AT2xrcF1OK7OM"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18nz2OYvXxo/a9eF9TSz6ch20EuMSQd8hCPkWprl0wtJM+CtmYcaxcSmhlyXrS6PYYNOOab/Y9AX4NrXk19qi4yz3H6Xd4TxfXZAjqXPfBfM7SlvoSE5Xt2\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/CYQayyuiYl/Cn4OQtoa9RKQer97GnLx3m0IzgIqQXTpEJNz7ZkNeOpldwDcv5QF/PAFhYz9bPlObsX6BA8oeC4bDrpmPabCtufMWvOiHwXFca+4fbCC4T\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+Nd3b5pIHLnBcwt7R/mIs66pM2joX4lGVhaZ3GzibU1b6t1dBgIxY2xW5582BviTe6lIDknvZ2Wkzmk2tUK4PRJ+05+drmAuiLfJ6+QFqvodJxEZRrbSWn\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX18b3PwJYa7bRTDiGyOZf65krJzpRROVhfvaTccyO8kfhrHMvnjR88ffNCrqpJ6edVP0BuiB1/F4Y3dHaC9FCZVOodxWw+GFC6eZW6XZoY3apFbFEdXJd+Surr+PF8325bFW4ek9oa51bgc+U816XiryBBwe4DQzlcc79NQo55bzhXHLdUtic3LRhcwT3ww7b4pEZ572Mz3VlknXeppaQvIRKHHWYQ82hCZGr8BzYLHTwD0qhZmsUeM0luSHCqDWbJdPblzf4VP+merP3sb4su04wx+"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18VXpnLavp3Wt4DuttgcA9vbmMq6Be6S1j8HMgEIH9AKlZ636mIWgQ0DtAGRrsydGxRxwJtPWtUcOcUnfQ+7MW21LZXN74iSNFM9rbcugXwTUaJTXlwvjsy\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+LCd2vY5yFb8lOjJJUutUqBmSsEIt0frTV6ru0TH1cwE1HuGG49QnMXnT/kHSNtGHksQNnxJjC6FuD61yUumzy1tp91yrO8gy73osYI80HJQJFhgwhK3Y2\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18YjJRyX+5Tr/kPZmngyArHfyrnWX5LNE9sMIopHCUBpsZbiEYYLeeKooQJZdjXN5xFd6eQ6YXDtUdLhaUFBoyc0jUj6yuO/HSsG9qXeYynTSQS0VnZsePZ\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX18bmPXEl0BN2iWA77jUUWTFz4Gw35xsYA3XJSvB4dJTEtcZDzq0gfhuXkSad1DCGB4iIMLGZjhWRMVRvHutDvlFCDLEqEKY78kKqfFDEG1WELU11te6AljrUXqitAp9NJRVmGc6JRf1Q5p45lioG5losfH60x6jsienpmoAacWldux1Xf4Wxp0pXUAsjdVAaIATq/3So6qLcGTf3j51ILG0wvj/EBw2Snpl50r7nCeV0Rb+ArZCtPh98st6iCbHAEMvPQNFuRE41bLsaLMqkyPG9N4"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19epp4jS8pS/xUagk+hgjcbsYoEvsRRtJ7For4Mnahmanw8QRi0Dfa5shVw6+ijCOm1NkRKMaKUrRG3vqcTHIYQ6JIxQOoN9i4eHj1m3Q8vpvGdGh/A/EiI\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1//qKqLjH7BntxwJ/V2uu9j2oER9ClQ/rq8y3EKTAaDAGkck7wOCip6KgWtWbIkTf2Cdtai5MT6W6EeHj8kNIDLDcL7dNAexw3u/5qTuw78YNjKwH+gq22J\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/Tm0JzLQCBnged0Dj27UwtHj1Wp3QQIIKgQz7TS9Y9giZ0Bci7v/KExlAc/lXAK2/d3I7FcXGJawktRh0KdHDza+Usc3L9jpFzJ2saDO/spNMxYmvYsdCY\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19fHkRWCGiEVy87+yP1X04uVFkTGJNLTOp8hzgov8OiWW3iIIFmc5G+c52oACJzv4qOzIVs2QyIILpQvYMEFkbPceHrptDgcd7xaFJlhbSHWmXf+oEianTM\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX198dwbsca/bmHQOfExoCDXMcD0tFPOuPfQQ/SPmYWlcjwIbdY6QpPcjrHxmjpGGtzQXoRzO+ChOhdF/vNP/kRmvyN8EtkPtrcKNHXDlBPQrB8VxZoKp+EAAV4Yi0/uo1RJWQwaooWeLPZlIfcAQBKM090MRaC+Cy5gf6Q1rw5m88DUq47iBcdumvSNPeloicKiimMv3hqVuzcBdSax/Ut3IM9lLoEEUVIZn2+vfY+u5LK6cjDc8RViIRMrexYfz33ShutU2j5Z2Q9GaW7+A2HUcEwk"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18YLEBMENGeo7HYIJ3p9F2qbvVKkBvhC8+A1NNP1aXKIjLyG/9foRGbVPPO+1tbloWeyZSMUBrp+zfFrs26STLSD63YG+hVCDNuJhUzUfQaqido38792hC2\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+qSutNl/tOanf/yI4r9sAwxbPPAfczuFm1Xs51O6hgfHocH3RZOGse2XaREjcLkcl0LvrsfRpO6jGaRvV+JkVWciqUuBtr7lBDSKEwuSP/8vdV7H6JopBm\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18BuleG2ty3Y7yW3AeKZ+cU6c+NLipZTzXDvB0ndEpPMPoVjtA/GT5x4zZJ/nC/DIdrErT34pT5NnfwfcvaHW923vrp1Ux4od7LVzxnTlbrABVaMIyuMzwZ\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX19i3nWrg7RHZuyy9NsE94ImfiOaHW4xMhz8OD3K3ZR8SFPRzvHYbiMjHC9oRxJacoYFQU4kF5FxDatzjjIaz2lYW/gyzoGeILKq3e8nTTKeq9AGB1zgCNAi2nGOGkk+xK4kNrr3mM5eic3O6U1PfHzgZc2+WADvVUlgSW5YUW8CSlmg1XIW08KK2rWMXB7DVfpMertqRYDM39XA+qR6M46+VAN8h3vL77/CqWbkAtnquprlq2L6OAduNqz5tF1HjShxc6PeLnaohfcKCx6/a2NjmIa"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/I0B9gFzeqbyxhDqKPuxgNQkWTF0Q679ziPCOOJlQLdBtng+gOaT1ej1L6CgNiUa7OcgW3j1eqM2ccpLbcxAgnaraJjRE3Ru6aih+zQMJJQVX/GuA1cVbc\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19NWl3GwZmgqoZsLJbrLpqLqhF7hJwjfcAIupavlbu5kv6jJ22lJYwZGHOTiItRlw/mzi7BsxXvzIn/aCv4Rd6K1G1WChNgUIu0+ufud15j6eR/wwDkvIBw\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+Y9vETI4ZovLlH5Jhz48ZDC19FsypzBl52fdewEPwcFVHoXQ6xNYb57Bp4yP+0AU5CvtJg0+xvn7skw2kOQH281/k0yKR2KrFuS5Mgltpf8k604FmQYT/m\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX18njtMADhPVKEZ9uwpsTFCXi09No0FQHNjsBkJVU/09eEMuEq4kZsmZRFIosgT7THkThJq+ApIDdzc7xkhR4Ng5hqdeeqk3f0v7SLbQRmZQ9gmHXM+niEcxDDYN3wzlnBVRsgxWXhq2n/gPPkacFAOSNp7PbCVtct1hc6ha7e2Xah2Nxu8qNi6W3WMJ+jwwIUz7y+wtJq7eNhZd6sbQ2f5ocnCNnJr0D8eIp5X5HTWp5YXnc95pnzeAOhDFXBXv3NPZMhMPzEu2tmoHA8SNhSiR5oX"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19UGnVYB7zftcJ0Cft0/kE05WFfkO3a0HNbVtnkuAb0HueOaNIcoK2mqoMksa460vfGIPHqPAHtDiFwN2FpLsLIBPB8yxImCC/uRMOk968eBZdyKeHE6eem\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/d10ZeJ3aPZbxxmmJ5iqtWUZXdT5g/Vfa8R+irZsiNiI2bIgVsaGsaZJ8SiQ+N6sXbQucdwXifgaMVXTknO/jHVTSNhYYf8hLsRtOu8jl3lgqYMEwY9jLB\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/BVjllTjQ+gHkyjhFHHhEkNHbp63MFp9Asy08QQXif55zgh+mvLgh+nqBd9aIPQWOkRYxCk+69qEXIZ9PMcfNhvodz6qsjiZKWGtE6G5FnHaWA9H/yXZQh\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX1+XyyPbXuxMF7jKRgxisxL7GqBuZKk9SBHPUrQcf2vA5P5U/hvOudpxqvRc5Qy5oyk+VYIGs4boRXwz6Wpt4s9AomW81B5gipT2QUn+SZ8R2A0MkMFgdYFbJvDt2Fl8yqanqQjWeEMsEict2dkEjOsdDbvKWllCZC4d+Nw9onRiZqcrFdAR8WYhxlytzMS84v4mD/uoJgmfze1jb/XTXNzuSeQP83LqOBmz3d2SbHXPFiIr21PZm9t7oHIdsUF/kSiU4J+P54THCXrqkrX6UrfRNL+"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+yKghqrELRK9u2YjrQnOw9N/ErbX31baJJJrSMqKyd03TAzW0KdiCijbA8xnwwTb5sd0+zRK4bMKq6V2wWVoMjn8hynqzNDySKaAavKCIy70c81+cxRZev\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18HaiSrBsqxVKjpgiMxMHACTGDeb7efw8zRGWzGl90HSLLdi4PxfBeZ/8ESDrQfY0mqAs6D5M2XbkKeCQqk7zqmfVSSCv6HJ/hlHhYIw21JgvF75xnXYOlv\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/UyNPl+fBtxbyxp0svJNVxNyNkGUqTGdJBRN30NfBCxL41HwxNkyP4hq0X2CQNgxlyN8SH1bTLn/QThQCpYT1hbYnlLUxGxwF8/+1mdzE6Bz9zOK4w8MAn\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18SwZVKdUk4h4bfRXWD3SXYzCmnIF/A/MBWeZ2ocUeLV3J5KzQg/Ku4O0tYFnrTUj3P3iX00vlpm/ltcji9dKq5R7Nsnw54DhnK1xTXJ6gMNQM/uwW+rChy\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/y6SR6QLUVOrq/Dv+hRu0d3nzN9+giw3TW5nD5X95A6C4wDTl646FeN9OvUxFz7pX1fHBPkUnWYPedqb97riR6QOBAKNyYoIDr/EcLSkkW1lIThQLQLGiR\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX1/V1X3OUCFatek0HwcOS+a2ANUgZYBJ8rCPB8ATyZuFOG6BeMOGFPTes9X6XDxg5XxIqbjiN1pIn/zEdR/UuOl57aEAGP+6vwMBiNmPdTgpbKe1dgGv7kfikqx3ul5o8Jo36Ep798ATdLsd4N1vx4dd4so5USck1iBE8cJ2jPUG0vW3b2g8m9/pobhb/OY9ZhvZWPf7cAVs57cRJ1deuxxWtwgXNV8Y8I48Is698o/yhsbK2KTvDFpSVe+sZKUvY+cSKm75J1ujyufvd6CHUGbT7uR"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX184+pO7ZCXtpkDxJAYwa3EzQqSnsdfFUKOH7UvtlqzON/wYoAM/2drFCfj2dUNV4PijSR6tqjTasvu0NMfCKbjZkmjlMPDwnbX+nZe+ASk9NrAywTzwlz2x\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+rPGHyZxS2x0E0S9eyqRcsUJZi9gBk8Aan6KBlA+K+AMuMOFNuIrnjqmjx2rR0tACigQLdj6qU9jutxNz6EprVNBc1rWp8sZV8RU47wOjwl+VZjCrjcNIb\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/JVuBz98I6oGiR+k5+v/ILDAUgBpYd3SN6jraXwsfU8Byj1dwt/N1J3WiTahi7bFwFEv4MQg0lJ8RCTATSgJnTzhANcijKzYfmD71H4k4ZIwKxZMI268w5\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX18p3RiR/OZwYp4IgSqGgzlOcKx3u9OOx7w9UfpG7A82+Av6L+KOtJN9mvFCyjCkrL70oo9Ygs0RrempVRUdrOLE/Fj+TX64+fMhbM+mCU0DluTowPqgHK8chjwLovD+55uoyixMcNsv03dbP72XcilCCQkWcF+Yobd6uAaA4zF8XXfOhHkTEXaWWogG0QasEmpQpMTCW1D2qjzzJyZsMqOXIaKiwaavViPaHnI0H2g78DCxgU7vPurKYhhZyKIP7PhdolFEGdF1dWjaTczFDTaPUId"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19mLFVLcqkYVows+KsWzIiKCyU8mNWofNha/hWTHQuwxNwnnc1ojhKULu7fQtqfbuJHIz8ZTBIKk8EHK1PaiilCCUDNip1u1SSQtIOKGDn9guhYx26Q4FhU\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+K2Q/1BPXSdfMLmkc3fXIcOEQPJx8+VA7tiaIxiA04//nzV4FtzyrxqVAKxEUZHlX6dr+Sas84RMZxIJwlx4OdLl6nizdgHkZSTavFAnaKGuf5muSmi+WJ\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18Kheq7+t9+iHMELXxH5WYl2S5LR8Iu/n+ENzMY5TuxtF27g9Ez2IpkPlImM5HSif40ord4ruNwCz2p/Ie2CS6ZP/ciy6OTMkD4XDx/W09hLRwDGndiSuOV\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX19aA2bneZurBnHKSfjuWDBEUF3hLeo8oi+yZML71fvFIiWOkqcBet6czMC7UFX7HU2xy6GnF9zD0lcWyaVnP1d1cxcDl72voYklt8a2Xq3zYtylnkQfS4If7MkwFdan+BI/M2mpI/NwAjrv1pyCl9hwNEgfXdRwaXLrFju13jEqEtG0zuQgB4yKJSHa6yT32xSB59eAi9ks+4kQliS/sSu+KDmdYKxqqrWkJZLPcjmKsKQ3ez9Vhn71xm5C4/cbduCnEozmCsXgHiwpyhR39AKZmlg"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/zhA5PuBkhGlDCXfy5ILWAt5bVEUGlP4xn1OFocvtGJJxwvQmETp5mOpw2lRO5on51PGbzLRpbGfjte93sZrGfB6SDBBVIM3jE+pEMwubL6qJypREpcYk7\"}"
+  },
+  {
+    "t": "action",
+    "m": "place button text: Place Bet"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+2fRW0JJWAv8BIbj5+jTaZQTdknVV3jUi7I7H1OT4rsFkTc2r7blPq2pcQCeUGvP7YfroJR77YHpcbf4MXJqLGzrTaVrRcJ8IhYgmgj0uws/ZpogQ/RJz4\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+/JgQdjfRqegH0mDPewOFV7l8f6k1Df4fAqcmh7eZj7OpJENQGJebRMVj93JDf//e6OfmBaw/tAUabM5SfBDNR0zd4NGESlAvnmO/mVI6I9g8fVfzQrDAT\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX1/ii0WK7W008bVYefHThUd13puY45VSsgD5wSz/H0922XzrgajOmQ6yfiBDUmxqzjHjnbb3Eoxg41SSiPTsqWZNLadBVU9Ayv3cYm8hu28tDH/+Q2/d/8U4g4gSp0vskIzQC/+H5DbiRWX0bLn7oKk1WbV8oJB0iigx+X78VNubrmg9kMUtsxj77TeNSFumQtWGJYojPN5MNB++tv7dhuVQToNInuHGArBBaoRd8ey2AftlE0akRPN+gVO5YpruU65PeGoMk3xoqGs46eJLVuL1yLb"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19kBd7pReras0IGK9u6GECta+vzapIcBHGY0aBUX5FcW2yCQmQs3wZ1hN77pPp0I1fkL6Vz77aoRq4igCzDoGt5ALHH7644rfMm8APhaaWvf6EiCt1VI6ko\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX190xbtsH7dBpdBy2c9z79KGb0Hd9udy+kRJEjF1+86qyO80bcvipAmm2IGiq0SAYsGnHg7YfDEyls+532joUjSVqqiMqilL5jv1GtSRj+zY1ijH4I5t7BIA\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1/FwuN44gpoGS34hxBjaBxsRl7JKWrzGfsH65x4hPgqSRh0KRp/qTpSHgy2evcbC2QYQyqlFuwAK2HavxQUng/Tnj/A0o42AcJ2ZBl4tPGgvM1kM8MNYoiP\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19mAzAU1JitTGtyfh2Ov+0Vh6Zw+vKcxFs3/728Xvgxp/kK3sTBg9RqiG4eFTRGbjrHH1jFEdzHLHncxEqwoYKzc5tH+qCBLMUJj3sv08tMWwrsq/AfKN9C\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX1/Z7iWtDS4MDqxzOSUbs/j9VElIQZL92NugWFq/QO6+pcSlXDMXWWWo9oKkTYg8Nn3W3xwnKSxi+vuAHEH+6nf4hfxndblY6Vo7PdmQcEyjG0ru+c+WFfIpJbbc6NTTHiECu/dvqu86gfX0ffubECW3Ai16WgZcqV118lYTH01qFXTKW0NXURhc5sjeDdohF18Y2NWaCCovUKW/q6yYIhmaXtDNzBlSwfziajJDfdewKFzo95U2HpVYd7002gq5bl14IT8u3SEJHaYCxv9dEDG9JKg"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+H7I1qfYYc4Tlvuhdpx9rAsANhlxdL0KwLzmQcU3regFbUnGqclsjt2h69UUCs2a7OsYhWUaoUh7fl8KiItfBbvQRn8bNFHh7iilkbfE4Zhk3S4kvsX7sD\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX1+ndghLnknxEYzi/EOolaRS/lwh7xkhCN2i1Guh/OSc98L4sX3QPwjLEf7reuI2fcsUx2mOnQFQzwjihb0V9r2c2Sh9vh8QzY4xexiTu50yg8BsGRqWm6XU\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX185DU1IK+7SxV6SpqQAo7IlFlkwFqh5jbPlKU/VMetvruuPfr4n36vaidmkB/r6vfXJmiAYOJr4JNEW5r7hqG7/zgzxZMGNJeWTaIwYqTQ7k405m2aEMKTl\"}"
+  },
+  {
+    "t": "place-click-failed",
+    "m": "locator.click: Timeout 8000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('button:has-text(\"Place Bet\"):visible, button:has-text(\"PLACE BET\"):visible, button:has-text(\"Submit\"):visible').first()\u001b[22m\n\u001b[2m    - locator resolved to <button disabled class=\"btn btn-success\">Place Bet</button>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not enabled\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m    - waiting 20ms\u001b[22m\n\u001b[2m    2 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m      - element is not enabled\u001b[22m\n\u001b[2m    - retrying click action\u001b[22m\n\u001b[2m      - waiting 100ms\u001b[22m\n\u001b[2m    15 × waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m       - element is not enabled\u001b[22m\n\u001b[2m     - retrying click action\u001b[22m\n\u001b[2m       - waiting 500ms\u001b[22m\n"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078",
+    "body": "{\"data\":\"U2FsdGVkX1/VHQ+0gS5iJyGRR048ibE9k2h+h2A1TMJs7urE3cAOC8O2DOIgf4K7GcEl/Efn/1z1vyyE7hE267buKInUi3cYnNuUWbRVmkuU+h5qIFszI0GgbDDAhYQkOZLGoycEoZwVbx0z7V5Jif4097Bc+D4VejgJ5xqdo95DrhjzCc2FrI8v6uL3YgBb3WX6vDT/DgAf1undrT3bE5DYy0TDXyGKtlT4ST6BEOecyw2ljO06i9Y6qXLT+KTzMQZ2JWUTEq8ym8Zz4FOhRARi5KJgrYDr7+f"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18V3Pr+GjMUEojUuV8Qjf7QWH2fxP46E+LxrEDr0pIum61xUeJsydw5s7XbVXj4y27EJs66ySexzpW/ETGb2RSn2L3XQGDgOVtulCzZn0gcxr2d8XsVQixH\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX18B73hHOZ6ISYHKroOc88BisMq5SLbkX/TPWqLn3FHOAXtoJJltgfOs1nMqVxZ4D9NA5gJ8/a5KYgxu5NEidp+159o5RyVUDD4/R2jcFYbpPaXpra2dRsBs\"}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata",
+    "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata",
+    "body": "{\"data\":\"U2FsdGVkX19PW+h4Wmprj+Nz6TAUhy1aTWCkU0omSAqemw3i3069rHzQ616RwIQyPMWcqw4rV+oqy7SK7Qowj9Lt4oUXEcbHiThXD8oS9/nuB63mQanMMJpdUThtgPxV\"}"
+  },
+  {
+    "t": "final",
+    "url": "http://127.0.0.1:4400/game-details/1/518500078",
+    "title": "DHONIEXCH",
+    "bodyLen": 5805,
+    "hasRulesModal": false,
+    "userHead": "RulesDownload Apk Balance: 1,500Exposure: 0demo_userNewly Launched Matka Market In Our Exchange",
+    "betPanel": true
+  }
+]

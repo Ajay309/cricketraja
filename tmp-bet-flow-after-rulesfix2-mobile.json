@@ -1,0 +1,209 @@
+[
+  {
+    "t": "action",
+    "m": "clicked demo login"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "header",
+    "text": "RulesDownload Apk Balance: 1,500Exposure: 0demo_userNewly Launched Matka Market In Our Exchange",
+    "userBalanceCount": 1,
+    "userNameCount": 1,
+    "href": "http://127.0.0.1:4400/home"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedetailPrivate"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "state",
+    "m": "after game link: http://127.0.0.1:4400/game-details/1/518500078"
+  },
+  {
+    "t": "odd-click",
+    "clicked": true,
+    "text": "5.1",
+    "cls": "market-odd",
+    "y": 236,
+    "count": 589
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "place-btn",
+    "visible": false,
+    "text": "Submit"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/gamedataPrivate?etid=1&gmid=518500078"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/local-userdata"
+  },
+  {
+    "t": "resp",
+    "s": 200,
+    "u": "http://127.0.0.1:4400/api/front/userdata"
+  },
+  {
+    "t": "final",
+    "url": "http://127.0.0.1:4400/game-details/1/518500078",
+    "title": "DHONIEXCH",
+    "bodyLen": 5791,
+    "bodyPreview": "Balance: 1,500\nExposure: 0\nNewly Launched Matka Market In Our Exchange\nMatka\nATHLETIC BILBAO V BARCELONA\n07/03/2026 23:10:00\nODDS\nMATCHED BET (0)\nMATCH_ODDS\nMax: 10L\nBack\nLay\nAthletic Bilbao\n5\n552.94\n5.1\n17.16\n5.2\n226.54\n5.3\n426.2\n5.4\n832.51\n5.5\n541.36\nBarcelo",
+    "hasRulesModal": false,
+    "headerText": "RulesDownload Apk Balance: 1,500Exposure: 0demo_userNewly Launched Matka Market In Our Exchange"
+  }
+]

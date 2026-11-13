@@ -1,0 +1,58 @@
+{
+  "stats": {
+    "total": 238,
+    "broken": 0,
+    "sampleBroken": [],
+    "sampleSrc": [
+      "http://127.0.0.1:3000/admin/assets/images/diamondexch-logo.png?v=20260307-99",
+      "http://127.0.0.1:3000/static/front/img/ic_fancy.png",
+      "http://127.0.0.1:3000/static/front/img/ic_bm.png",
+      "http://127.0.0.1:3000/static/front/img/ic_fancy.png",
+      "http://127.0.0.1:3000/static/front/img/ic_bm.png",
+      "http://127.0.0.1:3000/static/front/img/ic_vir.png",
+      "http://127.0.0.1:3000/static/front/img/ic_fancy.png",
+      "http://127.0.0.1:3000/static/front/img/game-icon.svg",
+      "http://127.0.0.1:3000/static/front/img/ic_fancy.png",
+      "http://127.0.0.1:3000/static/front/img/ic_fancy.png",
+      "http://127.0.0.1:3000/static/front/img/ic_vir.png",
+      "http://127.0.0.1:3000/static/front/img/ic_bm.png",
+      "http://127.0.0.1:3000/static/front/img/ic_fancy.png",
+      "http://127.0.0.1:3000/static/front/img/game-icon.svg",
+      "http://127.0.0.1:3000/static/front/img/ic_fancy.png",
+      "http://127.0.0.1:3000/static/front/img/ic_fancy.png",
+      "http://127.0.0.1:3000/static/front/img/ic_fancy.png",
+      "http://127.0.0.1:3000/static/front/img/ic_fancy.png",
+      "http://127.0.0.1:3000/static/front/img/ic_bm.png",
+      "http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg"
+    ]
+  },
+  "counts": {
+    "totalFailed": 176,
+    "prefixedProxy": 0,
+    "prefixedHttps": 0,
+    "prefixedDefault": 0,
+    "ipify": 1
+  },
+  "sampleFailed": [
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/pgsoft-2818a7add6e10b2ec5f938d7ae0efb04.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/mac88-1b72a33d0f799ac4dc75d01e87c51f6b.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/mac88-14e1e9fff78a3efce3d110b293db50e7.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/pgs-gaming-5b18a68d6cd1d3467f54464c81b6cb31.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/mac88-9970d3ec6f0d6d239f30a7c532a7fc9c.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/ws168-119d4403e799bd6ff24b75c151d0f236.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/mac88-542a3cd134328c99cca94106889e140e.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/epicwin-214d26f0e0a998fd8731445913b03b6b.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/mac88-c57c0ced1fd67c58daa47d3b6004d6cc.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/mac88-e29b63a8bb6376e3566c826386036baa.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/jili-6bb74b0a57a66850b79ab5c93864cac3.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/9game-8404a0b2d74ae068a04e47a0614910d8.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/innout-c81286ce4034dcf5b71d44c106f968db.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/mt-aed7abe18429721b5e026f7925bfcf15.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/mt-0cab09bc174ceac95fba7dce41e8dff9.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/mt-b3297cfce91603114c2abf0981780645.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/mt-90b423c1bfa086ad4d9b0cb74529fda8.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/2j-6d47a04fcf8502d4e0b6967d5c3c6145.svg",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/2j-755654fdf8f3b48fafa504b19925f044.png",
+    "https://dataobj.ecoassetsservice.com/casino-icons/lc/mini-2adc3b75f14c5d427e69ca6f8ad8bb67.png"
+  ]
+}

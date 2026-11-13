@@ -1,0 +1,101 @@
+:root {
+  --primary-color: #0088cc;
+  --primary-dark: #2c3e50;
+  --primary-light: #116257;
+  --background-color: #ffffff;
+  --bg-primary: var(--primary-color);
+  --bg-primary90: rgba(17, 98, 87, 0.9);
+  --text-primary: #ffffff;
+  --bg-secondary: var(--primary-dark);
+  --bg-secondary70: rgba(138, 78, 0, 0.7);
+  --bg-secondary85: rgba(138, 78, 0, 0.85);
+  --text-secondary: #ffffff;
+  --bg-news: ;
+  --bs-primary: var(--primary-color);
+  --bs-primary-rgb: 17, 98, 87;
+  --bs-link-color: var(--primary-color);
+  --bs-link-hover-color: var(--primary-dark);
+  --bs-body-bg: var(--background-color);
+  --bs-body-color: #273a47;
+}
+
+body {
+  background-color: var(--background-color);
+  color: #273a47;
+}
+
+a {
+  color: #0d6efd;
+}
+
+a:hover {
+  color: var(--primary-dark);
+}
+
+.btn-primary,
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: #0088cc;
+  border-color: #0088cc;
+  color: #ffffff;
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-dark);
+  border-color: var(--primary-dark);
+  color: #ffffff;
+}
+
+.btn-outline-primary {
+  color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  color: #ffffff;
+}
+
+.bg-primary {
+  background-color: var(--primary-color) !important;
+}
+
+.text-primary {
+  color: var(--primary-color) !important;
+}
+
+.border-primary {
+  border-color: var(--primary-color) !important;
+}
+
+.nav-pills .nav-link.active,
+.nav-tabs .nav-link.active {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  color: #ffffff;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: var(--primary-color);
+  color: #ffffff;
+}
+
+.page-link {
+  color: var(--primary-color);
+}
+
+.page-link:hover {
+  color: var(--primary-dark);
+}
+
+.page-item.active .page-link {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.table thead th {
+  background-color: var(--primary-dark);
+  color: #ffffff;
+}

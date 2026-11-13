@@ -1,0 +1,16 @@
+{
+  "name": "allpanelex-local-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local offline mirror server with dynamic backend for allpanelex snapshot",
+  "scripts": {
+    "mirror": "node scripts/mirror-site.js",
+    "localize": "node scripts/localize-urls.js",
+    "audit": "node scripts/audit-connect.js",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "playwright-core": "^1.58.2"
+  }
+}

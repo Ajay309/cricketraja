@@ -1,0 +1,184 @@
+[
+  {
+    "width": 320,
+    "data": {
+      "headerClass": "header-top local-mobile-header-layout",
+      "logo": {
+        "x": 6,
+        "y": 7,
+        "w": 170,
+        "h": 22,
+        "cls": "logo-header local-mobile-header-left"
+      },
+      "right": {
+        "x": 176,
+        "y": 4,
+        "w": 138,
+        "h": 27,
+        "cls": "user-details local-mobile-header-right"
+      },
+      "search": {
+        "x": 6,
+        "y": 36,
+        "w": 24,
+        "h": 24,
+        "cls": "search-box-container d-xl-none local-mobile-header-search"
+      },
+      "news": {
+        "x": 36,
+        "y": 35,
+        "w": 278,
+        "h": 26,
+        "cls": "news local-mobile-header-news"
+      },
+      "row2": {
+        "x": 6,
+        "y": 35,
+        "w": 308,
+        "h": 26,
+        "cls": "local-mobile-header-row2"
+      },
+      "checks": {
+        "topRowAligned": false,
+        "secondRowAligned": true,
+        "searchLeftOfNews": true,
+        "secondRowBelowTop": true
+      }
+    }
+  },
+  {
+    "width": 375,
+    "data": {
+      "headerClass": "header-top local-mobile-header-layout",
+      "logo": {
+        "x": 6,
+        "y": 6,
+        "w": 217,
+        "h": 25,
+        "cls": "logo-header local-mobile-header-left"
+      },
+      "right": {
+        "x": 223,
+        "y": 4,
+        "w": 146,
+        "h": 29,
+        "cls": "user-details local-mobile-header-right"
+      },
+      "search": {
+        "x": 6,
+        "y": 38,
+        "w": 24,
+        "h": 24,
+        "cls": "search-box-container d-xl-none local-mobile-header-search"
+      },
+      "news": {
+        "x": 36,
+        "y": 37,
+        "w": 333,
+        "h": 26,
+        "cls": "news local-mobile-header-news"
+      },
+      "row2": {
+        "x": 6,
+        "y": 37,
+        "w": 363,
+        "h": 26,
+        "cls": "local-mobile-header-row2"
+      },
+      "checks": {
+        "topRowAligned": true,
+        "secondRowAligned": true,
+        "searchLeftOfNews": true,
+        "secondRowBelowTop": true
+      }
+    }
+  },
+  {
+    "width": 425,
+    "data": {
+      "headerClass": "header-top local-mobile-header-layout",
+      "logo": {
+        "x": 6,
+        "y": 6,
+        "w": 267,
+        "h": 25,
+        "cls": "logo-header local-mobile-header-left"
+      },
+      "right": {
+        "x": 273,
+        "y": 4,
+        "w": 146,
+        "h": 29,
+        "cls": "user-details local-mobile-header-right"
+      },
+      "search": {
+        "x": 6,
+        "y": 38,
+        "w": 24,
+        "h": 24,
+        "cls": "search-box-container d-xl-none local-mobile-header-search"
+      },
+      "news": {
+        "x": 36,
+        "y": 37,
+        "w": 383,
+        "h": 26,
+        "cls": "news local-mobile-header-news"
+      },
+      "row2": {
+        "x": 6,
+        "y": 37,
+        "w": 413,
+        "h": 26,
+        "cls": "local-mobile-header-row2"
+      },
+      "checks": {
+        "topRowAligned": true,
+        "secondRowAligned": true,
+        "searchLeftOfNews": true,
+        "secondRowBelowTop": true
+      }
+    }
+  },
+  {
+    "width": 768,
+    "data": {
+      "headerClass": "header-top",
+      "logo": {
+        "x": 5,
+        "y": 18,
+        "w": 146,
+        "h": 26,
+        "cls": "logo-header"
+      },
+      "right": {
+        "x": 503,
+        "y": 5,
+        "w": 260,
+        "h": 51,
+        "cls": "user-details"
+      },
+      "search": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "cls": "search-box-container d-none d-xl-block"
+      },
+      "news": {
+        "x": 31,
+        "y": 60,
+        "w": 728,
+        "h": 26,
+        "cls": "news"
+      },
+      "row2": null,
+      "checks": {
+        "topRowAligned": false,
+        "secondRowAligned": false,
+        "searchLeftOfNews": true,
+        "secondRowBelowTop": true
+      }
+    }
+  }
+]

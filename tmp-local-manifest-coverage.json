@@ -1,0 +1,26 @@
+[
+  {
+    "mode": "our",
+    "cards": 35,
+    "localCount": 7,
+    "missing": 0
+  },
+  {
+    "mode": "live",
+    "cards": 261,
+    "localCount": 28,
+    "missing": 0
+  },
+  {
+    "mode": "slots",
+    "cards": 522,
+    "localCount": 164,
+    "missing": 0
+  },
+  {
+    "mode": "fantasy",
+    "cards": 168,
+    "localCount": 0,
+    "missing": 0
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "mobile": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "navs": [
+      "http://127.0.0.1:3000/home",
+      "http://127.0.0.1:3000/home",
+      "http://127.0.0.1:3000/",
+      "http://127.0.0.1:3000/home",
+      "http://127.0.0.1:3000/home"
+    ],
+    "out": [
+      {
+        "label": "Our Casino",
+        "before": "http://127.0.0.1:3000/home",
+        "after": "http://127.0.0.1:3000/home",
+        "count": 35,
+        "clicked": {
+          "ok": true,
+          "href": "/casino-list"
+        }
+      },
+      {
+        "label": "Live Casino",
+        "before": "http://127.0.0.1:3000/home",
+        "after": "http://127.0.0.1:3000/home",
+        "count": 261,
+        "clicked": {
+          "ok": true,
+          "href": "/casino-list/lc/lc"
+        }
+      },
+      {
+        "label": "Slots",
+        "before": "http://127.0.0.1:3000/home",
+        "after": "http://127.0.0.1:3000/home",
+        "count": 522,
+        "clicked": {
+          "ok": true,
+          "href": "/slot-list"
+        }
+      },
+      {
+        "label": "Fantasy",
+        "before": "http://127.0.0.1:3000/home",
+        "after": "http://127.0.0.1:3000/home",
+        "count": 168,
+        "clicked": {
+          "ok": true,
+          "href": "/fantasy-list"
+        }
+      }
+    ]
+  },
+  "desktop": {
+    "viewport": {
+      "width": 1365,
+      "height": 900
+    },
+    "navs": [
+      "http://127.0.0.1:3000/home",
+      "http://127.0.0.1:3000/home",
+      "http://127.0.0.1:3000/",
+      "http://127.0.0.1:3000/home",
+      "http://127.0.0.1:3000/home"
+    ],
+    "out": [
+      {
+        "label": "Our Casino",
+        "before": "http://127.0.0.1:3000/home",
+        "after": "http://127.0.0.1:3000/home",
+        "count": 35,
+        "clicked": {
+          "ok": true,
+          "href": "/casino-list"
+        }
+      },
+      {
+        "label": "Live Casino",
+        "before": "http://127.0.0.1:3000/home",
+        "after": "http://127.0.0.1:3000/home",
+        "count": 261,
+        "clicked": {
+          "ok": true,
+          "href": "/casino-list/lc/lc"
+        }
+      },
+      {
+        "label": "Slots",
+        "before": "http://127.0.0.1:3000/home",
+        "after": "http://127.0.0.1:3000/home",
+        "count": 522,
+        "clicked": {
+          "ok": true,
+          "href": "/slot-list"
+        }
+      },
+      {
+        "label": "Fantasy",
+        "before": "http://127.0.0.1:3000/home",
+        "after": "http://127.0.0.1:3000/home",
+        "count": 168,
+        "clicked": {
+          "ok": true,
+          "href": "/fantasy-list"
+        }
+      }
+    ]
+  }
+}

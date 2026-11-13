@@ -1,0 +1,663 @@
+{
+  "out": [
+    {
+      "txt": "MAC EXCITE LOBBY",
+      "found": false
+    },
+    {
+      "txt": "CASINO WAR",
+      "found": false
+    },
+    {
+      "txt": "AK47 TEENPATTI",
+      "found": false
+    },
+    {
+      "txt": "TEENPATTI ONE DAY",
+      "found": false
+    }
+  ],
+  "bgNodesCount": 80,
+  "bgNodes": [
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-001.gif\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-001.gif\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-002.gif\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-002.gif\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-003.gif\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-003.gif\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-004.gif\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-004.gif\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-005.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-005.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-006.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-006.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-007.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-007.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-008.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-008.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-009.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-009.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-010.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-010.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-011.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-011.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-012.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-012.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-013.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-013.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-014.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-014.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-015.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-015.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-016.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-016.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-017.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-017.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-018.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-018.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-019.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-019.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-020.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-020.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-021.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-021.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-022.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-022.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-023.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-023.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-024.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-024.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-025.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-025.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-026.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-026.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-027.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-027.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-028.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-028.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-029.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-029.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-030.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-030.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-031.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-031.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-032.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-032.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-033.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-033.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-034.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-034.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-035.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-035.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-036.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-036.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-037.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-037.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-038.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-038.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-039.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-039.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-040.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-040.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-041.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-041.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-042.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-042.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-043.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-043.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-044.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-044.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-045.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-045.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-046.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-046.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-047.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-047.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-048.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-048.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-049.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-049.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-050.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-050.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-051.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-051.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-052.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-052.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-053.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-053.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-054.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-054.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-055.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-055.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-056.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-056.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-057.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-057.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-058.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-058.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-059.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-059.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-060.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-060.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-061.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-061.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-062.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-062.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-063.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-063.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-064.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-064.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-065.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-065.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-066.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-066.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-067.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-067.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-068.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-068.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-069.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-069.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-070.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-070.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-071.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-071.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-072.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-072.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-073.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-073.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-074.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-074.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-075.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-075.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-076.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-076.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-077.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-077.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-078.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-078.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-079.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-079.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "casino-list-item-banner",
+      "id": "",
+      "text": "",
+      "bg": "url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/lc/ref-080.jpg\"), url(\"http://localhost:4400/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
+      "inline": "background-image: url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-080.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\"); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+    }
+  ]
+}

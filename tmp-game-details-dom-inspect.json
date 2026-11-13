@@ -1,0 +1,1426 @@
+{
+  "url": "http://127.0.0.1:4400/game-details/4/674444460",
+  "num": [
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "1.41"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-volume",
+      "txt": "513.81"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "1.42"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-volume",
+      "txt": "33452.49"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "1.43"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-volume",
+      "txt": "39288.18"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "1.44"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-volume",
+      "txt": "4832.03"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "1.45"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-volume",
+      "txt": "14722.24"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "1.46"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-volume",
+      "txt": "20998.08"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "3.15"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-volume",
+      "txt": "1237.3"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "3.2"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-volume",
+      "txt": "4265.68"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "3.25"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-volume",
+      "txt": "2410.89"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "3.3"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-volume",
+      "txt": "2450.56"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "3.35"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-volume",
+      "txt": "2397.59"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "3.420"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "3.4"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-volume",
+      "txt": "20"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "43100000"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "43"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-volume",
+      "txt": "100000"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "47100000"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "47"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-volume",
+      "txt": "100000"
+    }
+  ],
+  "odds": [
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box no-border d-none d-md-block",
+      "txt": ""
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box no-border d-none d-md-block",
+      "txt": ""
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back",
+      "txt": "Back"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay",
+      "txt": "Lay"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box",
+      "txt": ""
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box no-border",
+      "txt": ""
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "1.41513.81"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "1.41"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "1.4233452.49"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "1.42"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "1.4339288.18"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "1.43"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "1.444832.03"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "1.44"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "1.4514722.24"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "1.45"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "1.4620998.08"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "1.46"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "3.151237.3"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "3.15"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "3.24265.68"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "3.2"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "3.252410.89"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "3.25"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "3.32450.56"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "3.3"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "3.352397.59"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "3.35"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "3.420"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "3.4"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box lay   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  lay1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   lay2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box   back2 ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box  back1  ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    },
+    {
+      "tag": "DIV",
+      "cls": "market-odd-box back   ",
+      "txt": "-"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "market-odd",
+      "txt": "-"
+    }
+  ],
+  "btns": [
+    {
+      "text": "Racing Sports",
+      "cls": "accordion-button",
+      "visible": true
+    },
+    {
+      "text": "Others",
+      "cls": "accordion-button",
+      "visible": true
+    },
+    {
+      "text": "All Sports",
+      "cls": "accordion-button",
+      "visible": true
+    },
+    {
+      "text": "",
+      "cls": "btn p-0",
+      "visible": true
+    },
+    {
+      "text": "",
+      "cls": "btn-close",
+      "visible": false
+    },
+    {
+      "text": "Accept",
+      "cls": "btn btn-success",
+      "visible": false
+    },
+    {
+      "text": "Cancel",
+      "cls": "btn btn-danger ms-1",
+      "visible": false
+    }
+  ],
+  "inps": [
+    {
+      "type": "search",
+      "name": "",
+      "cls": "form-control",
+      "ph": "Search here",
+      "val": "",
+      "visible": true
+    },
+    {
+      "type": "search",
+      "name": "",
+      "cls": "form-control",
+      "ph": "Search here",
+      "val": "",
+      "visible": false
+    },
+    {
+      "type": "search",
+      "name": "",
+      "cls": "form-control",
+      "ph": "Search here",
+      "val": "",
+      "visible": false
+    }
+  ],
+  "body": "Rules\nDownload Apk \nBalance: 9,970\nExposure: 0\njax\nHOME\nLOTTERY\nCRICKET\nTENNIS\nFOOTBALL\nTABLE TENNIS\nBACCARAT\n32 CARDS\nTEENPATTI\nPOKER\nLUCKY 7\nCRASH\nRacing Sports\nHorse Racing\nGreyhound Racing\nOthers\nLive Casino\nVirtual Casino\nLive Casino\nSlot Game\nFantasy Game\nAll Sports\nPolitics\nCricket\nFootball\nTennis\nTable Tennis\nBadminton\nEsoccer\nBasketball\nVolleyball\nSnooker\nIce Hockey\nE Games\nFutsal\nHandball\nKabaddi\nGolf\nRugby League\nBoxing\nBeach Volleyball\nMixed Martial Arts\nMotoGP\nChess\nCycling\nMotorbikes\nAthletics\nBasketball 3X3\nSumo\nVirtual sports\nMotor Sports\nBaseball\nRugby Union\nDarts\nAmerican Football\nSoccer\nEsports\nBoat Racing\nWrestling\nICC MENS T20 WORLD CUP\n07/02/2026 11:00:00\nTOURNAMENT_WINNER\nMax: 1\nBack\nLay\nIndia\n1.41\n513.81\n1.42\n33452.49\n1.43\n39288.18\n1.44\n4832.03\n1.45\n14722.24\n1.46\n20998.08\nAustralia\n-\n-\n-\n-\n-\n-\nSouth Africa\n-\n-\n-\n-\n-\n-\nEngland\n-\n-\n-\n-\n-\n-\nNew Zealand\n3.15\n1237.3\n3.2\n4265.68\n3.25\n2410.89\n3.3\n2450.56\n3.35\n2397.59\n3.4\n20\nPakistan\n-\n-\n-\n-\n-\n-\nWest Indies\n-\n-\n-\n-\n-\n-\n"
+}

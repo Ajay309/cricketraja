@@ -1,0 +1,158 @@
+{
+  "apiHits": [
+    {
+      "status": 200,
+      "url": "http://localhost:4400/api/front/casino/alllist"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:4400/api/front/casino/tablelist"
+    },
+    {
+      "status": 200,
+      "url": "http://localhost:4400/api/front/tablist"
+    }
+  ],
+  "cards": [
+    {
+      "src": "/casino/casino-icons/lc/ref-001.gif",
+      "text": "BaccaratLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-002.gif",
+      "text": "Casino WarLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-003.gif",
+      "text": "Sic BoLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-004.gif",
+      "text": "Salon Privé Blackjack JLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-005.jpg",
+      "text": "Speed VIP Blackjack PLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-006.jpg",
+      "text": "Gonzo's Treasure MapLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-007.jpg",
+      "text": "WINGO5VCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-008.jpg",
+      "text": "Banker Dice Bull-BullLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-009.jpg",
+      "text": "Blackjack VIP 36LCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-010.jpg",
+      "text": "Emperor Dragon TigerLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-011.jpg",
+      "text": "Free Bet BlackJack CREED BLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-012.jpg",
+      "text": "Golden Treasure LightningLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-013.jpg",
+      "text": "Speed Baccarat DLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-014.jpg",
+      "text": "Turbo Auto RouletteLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-015.jpg",
+      "text": "5D Lottery 3VCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-016.jpg",
+      "text": "go-bananasVCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-017.jpg",
+      "text": "BlackJack Armenian ALCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-018.jpg",
+      "text": "LankeshVCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-019.jpg",
+      "text": "Salon Privé Blackjack CLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-020.jpg",
+      "text": "Ghost BustersFISHINGPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-021.jpg",
+      "text": "Teenpatti Joker 20-20LCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-022.jpg",
+      "text": "French Roulette ClassicLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-023.jpg",
+      "text": "DiceSLOTPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-024.jpg",
+      "text": "Speed Baccarat ELCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-025.jpg",
+      "text": "mini-rouletteXGAMEPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-026.jpg",
+      "text": "RouletteLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-027.jpg",
+      "text": "Super E-SabongLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-028.jpg",
+      "text": "BlackJack Atrium ALCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-029.jpg",
+      "text": "Royal Bull-fightLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-030.jpg",
+      "text": "Center Card VRVCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-031.jpg",
+      "text": "Blackjack VIP 41LCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-032.jpg",
+      "text": "Roulette TurkishLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-033.jpg",
+      "text": "Poker KingLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-034.jpg",
+      "text": "BIG TWOLCPlay"
+    },
+    {
+      "src": "/casino/casino-icons/lc/ref-035.jpg",
+      "text": "Speed Blackjack Brazilian ALCPlay"
+    }
+  ]
+}

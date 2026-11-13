@@ -1,0 +1,479 @@
+{
+  "meta": {
+    "createdAt": "3/6/2026, 1:57:38 AM",
+    "updatedAt": "3/6/2026, 9:10:17 PM"
+  },
+  "users": {
+    "rakesh": {
+      "id": "u_owner_1",
+      "username": "rakesh",
+      "password": "Rakesh4266@",
+      "displayName": "Rakesh",
+      "userType": 1,
+      "code": "35519254813",
+      "mobile": "",
+      "currency": "INR",
+      "isDemoUser": false,
+      "balance": 0,
+      "exposure": 0,
+      "exposureLimit": 1000,
+      "active": true,
+      "createdAt": "3/6/2026, 1:57:38 AM"
+    },
+    "jax": {
+      "id": "u_96a6bb5c-c0a9-478e-84cf-a72d95b66c97",
+      "username": "jax",
+      "password": "jaxx",
+      "displayName": "jax",
+      "userType": 1,
+      "code": "49174326870",
+      "mobile": "",
+      "currency": "INR",
+      "isDemoUser": false,
+      "balance": 10000,
+      "exposure": 0,
+      "exposureLimit": 1000,
+      "active": true,
+      "createdAt": "3/6/2026, 2:05:54 AM"
+    },
+    "session_test_user": {
+      "id": "u_57084db4-f5e5-424e-a629-9b9f88e9bc0a",
+      "username": "session_test_user",
+      "password": "x",
+      "displayName": "session_test_user",
+      "userType": 1,
+      "code": "86259755200",
+      "mobile": "",
+      "currency": "INR",
+      "isDemoUser": false,
+      "balance": 0,
+      "exposure": 0,
+      "exposureLimit": 1000,
+      "active": true,
+      "createdAt": "3/6/2026, 9:10:17 PM"
+    }
+  },
+  "sessions": {
+    "tk_18966474-db99-48f3-be87-bf5da70c16b9": {
+      "username": "rakesh",
+      "createdAt": "3/6/2026, 1:58:47 AM"
+    },
+    "tk_6eed9137-dbb8-4547-a676-b36959f9ecec": {
+      "username": "rakesh",
+      "createdAt": "3/6/2026, 2:04:26 AM"
+    },
+    "tk_51638beb-248f-4fff-a26e-37272015793b": {
+      "username": "rakesh",
+      "createdAt": "3/6/2026, 2:04:37 AM"
+    },
+    "tk_76274aac-4fde-4de0-9570-ac187ef09b92": {
+      "username": "jax",
+      "createdAt": "3/6/2026, 2:06:15 AM"
+    },
+    "tk_82010830-3b5e-4f10-8a9d-e9156e142b88": {
+      "username": "jax",
+      "createdAt": "3/6/2026, 1:32:01 PM"
+    },
+    "tk_b9c2f2ca-b5fc-4ec2-a590-9d103e8b26ba": {
+      "username": "jax",
+      "createdAt": "3/6/2026, 1:48:44 PM"
+    },
+    "tk_d23505e9-9d5f-49e0-9df0-edbe9dcb8a45": {
+      "username": "jax",
+      "createdAt": "3/6/2026, 2:09:39 PM"
+    },
+    "tk_71360160-2507-4e0d-a60d-8f46ccd8b8ee": {
+      "username": "jax",
+      "createdAt": "3/6/2026, 3:29:03 PM"
+    },
+    "tk_7ac8dcd6-dda1-449d-9440-cb7c5efa8351": {
+      "username": "rakesh",
+      "createdAt": "3/6/2026, 3:46:18 PM"
+    },
+    "tk_17a4e446-e791-4838-b799-90095a7f2b9e": {
+      "username": "jax",
+      "createdAt": "3/6/2026, 3:56:50 PM"
+    },
+    "tk_924634eb-e504-457f-b599-92fb9affdb2a": {
+      "username": "jax",
+      "createdAt": "3/6/2026, 5:10:48 PM"
+    },
+    "tk_54aae891-e027-43bd-9994-6b2e097e2c7e": {
+      "username": "session_test_user",
+      "createdAt": "3/6/2026, 9:10:17 PM"
+    }
+  },
+  "bets": {
+    "rakesh": [],
+    "jax": [],
+    "session_test_user": []
+  },
+  "statements": {
+    "rakesh": [
+      {
+        "gmid": 0,
+        "mid": "0",
+        "amt": 0,
+        "rem": "User creation",
+        "edt": "3/6/2026, 1:57:38 AM",
+        "rpopup": false,
+        "dserver": "a",
+        "gtype": ""
+      }
+    ],
+    "jax": [
+      {
+        "gmid": 0,
+        "mid": "0",
+        "amt": 10000,
+        "rem": "User creation",
+        "edt": "3/6/2026, 2:05:54 AM",
+        "rpopup": false,
+        "dserver": "a",
+        "gtype": ""
+      }
+    ],
+    "session_test_user": [
+      {
+        "gmid": 0,
+        "mid": "0",
+        "amt": 0,
+        "rem": "User creation",
+        "edt": "3/6/2026, 9:10:17 PM",
+        "rpopup": false,
+        "dserver": "a",
+        "gtype": ""
+      }
+    ]
+  },
+  "subscriptions": [],
+  "buttonSettings": {
+    "game": {
+      "password": ""
+    },
+    "casino": {
+      "password": ""
+    }
+  },
+  "userButtons": {
+    "D": [
+      {
+        "buttontext": "100",
+        "buttonval": 100,
+        "bval": 100,
+        "btxt": "100"
+      },
+      {
+        "buttontext": "200",
+        "buttonval": 200,
+        "bval": 200,
+        "btxt": "200"
+      },
+      {
+        "buttontext": "500",
+        "buttonval": 500,
+        "bval": 500,
+        "btxt": "500"
+      },
+      {
+        "buttontext": "1000",
+        "buttonval": 1000,
+        "bval": 1000,
+        "btxt": "1000"
+      },
+      {
+        "buttontext": "2000",
+        "buttonval": 2000,
+        "bval": 2000,
+        "btxt": "2000"
+      }
+    ],
+    "W": [
+      {
+        "buttontext": "100",
+        "buttonval": 100,
+        "bval": 100,
+        "btxt": "100"
+      },
+      {
+        "buttontext": "500",
+        "buttonval": 500,
+        "bval": 500,
+        "btxt": "500"
+      },
+      {
+        "buttontext": "1000",
+        "buttonval": 1000,
+        "bval": 1000,
+        "btxt": "1000"
+      },
+      {
+        "buttontext": "2000",
+        "buttonval": 2000,
+        "bval": 2000,
+        "btxt": "2000"
+      },
+      {
+        "buttontext": "5000",
+        "buttonval": 5000,
+        "bval": 5000,
+        "btxt": "5000"
+      }
+    ]
+  },
+  "paymentSettings": {
+    "deposit": {
+      "amount": 100,
+      "upiId": "",
+      "upiHolderName": "",
+      "qrImage": "/local/payment-qr.svg",
+      "note": "Pay exact amount, then submit 12-digit UTR for balance update."
+    },
+    "withdraw": {
+      "minAmount": 500,
+      "maxAmount": 100000,
+      "processingTime": "5-30 minutes",
+      "note": "Withdrawals are processed to your saved bank/UPI details."
+    }
+  },
+  "paymentUtrs": [],
+  "withdraw": {
+    "paymentTypes": [
+      {
+        "wid": 1,
+        "wtype": "Bank"
+      },
+      {
+        "wid": 2,
+        "wtype": "UPI"
+      }
+    ],
+    "types": [
+      {
+        "wid": 1,
+        "wtype": "Standard"
+      },
+      {
+        "wid": 2,
+        "wtype": "Fast"
+      }
+    ],
+    "forms": {
+      "1": [
+        {
+          "label": "Bank Name",
+          "type": "text",
+          "value": ""
+        },
+        {
+          "label": "Account Holder Name",
+          "type": "text",
+          "value": ""
+        },
+        {
+          "label": "Account Number",
+          "type": "text",
+          "value": ""
+        },
+        {
+          "label": "IFSC Code",
+          "type": "text",
+          "value": ""
+        },
+        {
+          "label": "Phone Number",
+          "type": "text",
+          "value": ""
+        }
+      ],
+      "2": [
+        {
+          "label": "UPI ID",
+          "type": "text",
+          "value": ""
+        }
+      ]
+    },
+    "details": [
+      {
+        "wsid": 2,
+        "wid": 201,
+        "login": "admin",
+        "username": "admin",
+        "created_at": "3/6/2026, 2:03:06 AM",
+        "detail": [
+          {
+            "label": "UPI ID",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "wsid": 1,
+        "wid": 101,
+        "login": "admin",
+        "username": "admin",
+        "created_at": "3/6/2026, 2:03:06 AM",
+        "detail": [
+          {
+            "label": "Bank Name",
+            "value": "State Bank of India"
+          },
+          {
+            "label": "Account Holder Name",
+            "value": "Account Holder"
+          },
+          {
+            "label": "Account Number",
+            "value": "XXXXXX1234"
+          },
+          {
+            "label": "IFSC Code",
+            "value": "SBIN0000001"
+          },
+          {
+            "label": "Phone Number",
+            "value": "9999999999"
+          }
+        ]
+      }
+    ],
+    "nextDetailId": 1000
+  },
+  "supago": {
+    "paymentMethods": [
+      {
+        "pmuniqueid": "pm_upi_1",
+        "pmmid": "pm_upi",
+        "paymenttype": "upi",
+        "ptype": 0,
+        "isfront": 0,
+        "pmticon": "",
+        "mainjson": "{\"name\":\"UPI\",\"desc\":\"Pay instantly using UPI\",\"remark\":\"Use any UPI app\"}",
+        "accjson": "{\"upi\":{\"name\":\"UPI ID\",\"upiId\":\"\"}}"
+      },
+      {
+        "pmuniqueid": "pm_bank_1",
+        "pmmid": "pm_bank",
+        "paymenttype": "bank",
+        "ptype": 0,
+        "isfront": 0,
+        "pmticon": "",
+        "mainjson": "{\"name\":\"Bank Transfer\",\"desc\":\"Transfer via IMPS/NEFT\",\"remark\":\"Account details below\"}",
+        "accjson": "{\"bank\":{\"name\":\"Account\",\"accountName\":\"Account Holder\",\"accountNo\":\"1234567890\",\"ifsc\":\"SBIN0000001\"}}"
+      }
+    ],
+    "withdrawMethods": [
+      {
+        "pmmid": "pmw_upi",
+        "paymenttype": "upi",
+        "mainjson": "{\"name\":\"UPI Withdraw\",\"desc\":\"Withdraw to UPI\",\"remark\":\"UPI required\"}",
+        "accjson": "[{\"key\":\"UPI ID\",\"type\":\"text\",\"value\":\"\",\"caps\":false}]"
+      },
+      {
+        "pmmid": "pmw_bank",
+        "paymenttype": "bank",
+        "mainjson": "{\"name\":\"Bank Withdraw\",\"desc\":\"Withdraw to bank account\",\"remark\":\"Bank details required\"}",
+        "accjson": "[{\"key\":\"Account Name\",\"type\":\"text\",\"value\":\"\",\"caps\":true},{\"key\":\"Account Number\",\"type\":\"text\",\"value\":\"\",\"caps\":false},{\"key\":\"IFSC\",\"type\":\"text\",\"value\":\"\",\"caps\":true}]"
+      }
+    ],
+    "withdrawDetails": [
+      {
+        "pmmid": "pmw_upi",
+        "pmuniqueid": "wd_1",
+        "paymenttype": "upi",
+        "accjson": "[{\"key\":\"UPI ID\",\"value\":\"\"}]",
+        "cryptorate": 0
+      }
+    ],
+    "nextWithdrawDetailId": 2
+  },
+  "adminPanel": {
+    "nextUserId": 330901,
+    "nextTransactionId": 1000,
+    "nextUtrId": 1,
+    "usernameToId": {
+      "rakesh": "330885",
+      "jax": "330900",
+      "session_test_user": "330901"
+    },
+    "userProfiles": {
+      "330885": {
+        "user_id": "330885",
+        "username": "rakesh",
+        "user_name": "Rakesh",
+        "user_type": "Hyper Super Master",
+        "master_id": "0",
+        "credit_limit": 1000,
+        "lock_betting": false,
+        "closed": false,
+        "created_at": "3/6/2026, 1:57:38 AM"
+      },
+      "330900": {
+        "user_id": "330900",
+        "username": "jax",
+        "user_name": "jax",
+        "user_type": "User",
+        "master_id": "330885",
+        "credit_limit": 1000,
+        "lock_betting": false,
+        "closed": false,
+        "created_at": "3/6/2026, 2:05:54 AM"
+      },
+      "330901": {
+        "user_id": "330901",
+        "username": "session_test_user",
+        "user_name": "session_test_user",
+        "user_type": "User",
+        "master_id": "330885",
+        "credit_limit": 1000,
+        "lock_betting": false,
+        "closed": false,
+        "created_at": "3/6/2026, 9:10:17 PM"
+      }
+    },
+    "transactions": [],
+    "utrNumbers": [],
+    "chips": [
+      {
+        "chip_id": "1",
+        "chip_name": "100",
+        "chip_value": 100
+      },
+      {
+        "chip_id": "2",
+        "chip_name": "200",
+        "chip_value": 200
+      },
+      {
+        "chip_id": "3",
+        "chip_name": "500",
+        "chip_value": 500
+      },
+      {
+        "chip_id": "4",
+        "chip_name": "1000",
+        "chip_value": 1000
+      },
+      {
+        "chip_id": "5",
+        "chip_name": "2000",
+        "chip_value": 2000
+      }
+    ],
+    "news": [],
+    "numbers": [],
+    "blockMarket": {},
+    "themeId": 1,
+    "navigationToggle": "sidebar-collapse"
+  },
+  "providerCallbacks": {
+    "processed": {},
+    "rows": []
+  },
+  "auth": {
+    "type": 0,
+    "enabled": false,
+    "secret": ""
+  }
+}

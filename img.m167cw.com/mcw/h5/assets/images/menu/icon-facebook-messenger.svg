@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>leftmenu/contactus/solid/icon-messenger</title>
+    <defs>
+        <linearGradient x1="50%" y1="1.33055874e-13%" x2="50%" y2="104.53891%" id="linearGradient-1">
+            <stop stop-color="#C9A33D" stop-opacity="0.7" offset="0%"></stop>
+            <stop stop-color="#C9A33D" stop-opacity="0.995478029" offset="100%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+            <stop stop-color="#C9A33D" stop-opacity="0.995478029" offset="100%"></stop>
+        </linearGradient>
+        <path d="M15.5,3 C22.5422713,3 28,8.15854043 28,15.1254223 L27.9963655,15.4361506 C27.8367297,22.2450945 22.4371628,27.2507978 15.5,27.2507978 L15.0279967,27.2430516 C13.9323863,27.2069829 12.8776929,27.0455149 11.8807796,26.7704234 L11.7467675,26.7435558 C11.5668148,26.7201453 11.3832921,26.7462828 11.2143192,26.8207202 L8.73438145,27.9148282 L8.60147686,27.9625139 C8.5124363,27.9876667 8.42285409,27.99975 8.33473019,28 L8.22102562,27.9937316 C7.75037437,27.9404504 7.34767891,27.5527361 7.33100836,27.0295012 L7.26308734,24.806129 L7.25195036,24.6900075 C7.21619188,24.4608185 7.10067419,24.2517123 6.9260603,24.094333 L6.67783508,23.8658224 C4.39272456,21.7010142 3,18.6441399 3,15.1254223 L3.00363455,14.8146921 C3.16327164,8.0057033 8.56288336,3 15.5,3 Z M23.0050531,12.3310993 C23.359658,11.7727718 22.6705572,11.1414601 22.1448607,11.5413503 L18.2012225,14.5343621 C17.9346008,14.7355494 17.5674335,14.7380806 17.2982806,14.5368934 L14.3782859,12.346193 C13.5030468,11.6897563 12.2505156,11.921131 11.6670229,12.8467236 L7.99497506,18.671732 C7.64037012,19.2301063 8.32947088,19.8613711 8.85512056,19.461481 L12.8013369,16.4659847 C13.0679117,16.2647506 13.4351258,16.2622662 13.7042318,16.4634535 L16.6242734,18.654107 C17.4995125,19.3105905 18.7520437,19.079169 19.3355364,18.1536232 Z" id="path-2"></path>
+        <filter x="-16.0%" y="-8.0%" width="132.0%" height="132.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="leftmenu/contactus/solid/icon-messenger" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Combined-Shape">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+        </g>
+    </g>
+</svg>

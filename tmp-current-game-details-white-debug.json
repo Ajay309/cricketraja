@@ -1,0 +1,101 @@
+{
+  "state": {
+    "url": "http://127.0.0.1:4400/",
+    "title": "DHONIEXCH",
+    "bodyLen": 192,
+    "bodyPreview": "Login \nLogin\nLogin with demo ID\nThis site is protected by reCAPTCHA and the GooglePrivacy Policy andTerms of Service apply.\n\n Download APK\n\nTerms and Conditions\nResponsible Gaming\n24X7 Support",
+    "rootChildren": 2,
+    "rootHtmlLen": 2045
+  },
+  "logs": [
+    {
+      "t": "console",
+      "type": "verbose",
+      "text": "[DOM] Input elements should have autocomplete attributes (suggested: \"current-password\"): (More info: https://goo.gl/9p2vKq) %o"
+    },
+    {
+      "t": "resp",
+      "status": 200,
+      "url": "http://127.0.0.1:4400/api/front/local-userdata",
+      "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "status": 200,
+      "url": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX18xA2n9pKNjOLNXluyGFUvWjeCO6g4rb7O330QEAjos7t7miLLqgJUjLZHyAZTB80SIUiobC05BUNiM/xBWYPRXwsVNW3N0oFVaOv+tlyaN1JJc9aeAn3bk\"}"
+    },
+    {
+      "t": "resp",
+      "status": 200,
+      "url": "http://127.0.0.1:4400/api/front/local-userdata",
+      "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "status": 200,
+      "url": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX1+9xY1VD2xw1OJaCKah0/T/38xnPXPFRD6gEuIuioev7hEHAQaFV9l1UuA3SAdjEXcq66u0Rp7ELmUejuiGrz9WQbSNQQH6RghwK0n35FrXBJheBSN+zg2W\"}"
+    },
+    {
+      "t": "resp",
+      "status": 200,
+      "url": "http://127.0.0.1:4400/api/front/local-userdata",
+      "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "status": 200,
+      "url": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX18EfNSuFuA3E+xPGnDMDLgInz8/MZKza8vkrx2kTnBhtWQ6EAhdCNL+0HxeMGINEBSCJxixnTqe6j7weisvvX54qeLT+aILmYx43xg9rqyJvX/N+LFRqWpP\"}"
+    },
+    {
+      "t": "resp",
+      "status": 200,
+      "url": "http://127.0.0.1:4400/api/front/local-userdata",
+      "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "status": 200,
+      "url": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX1/GCmaXimFjiHj7JXEZv/Q3u6wDd6Oz6bt+gZTDnA969aSl2n1CsTvo/mQeLsD0bcibQI+uDiV3j3umGVB1Pop7IuWPg/8Ag59y7m3DIsTYZBW89u6SL0CM\"}"
+    },
+    {
+      "t": "resp",
+      "status": 200,
+      "url": "http://127.0.0.1:4400/api/front/local-userdata",
+      "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "status": 200,
+      "url": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX1/BHoUGRX4wB/q6SdQEBcCVW//vKUTPXwDAHqLmkfNq8VTynqCiw87c7pGOalav7lPoPOGx+1Rg74s/mbSTOHfTNtfNYVmEck7iG8u5sgBh8+A5hTwpTFgt\"}"
+    },
+    {
+      "t": "resp",
+      "status": 200,
+      "url": "http://127.0.0.1:4400/api/front/local-userdata",
+      "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "status": 200,
+      "url": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX1/aDECiTyspVx95GFKgeDmnW8O76aHR2aM8m5lmuK1rHglBWi9C2HJfS5lPOP3/sAGBnRlma1P+nKySpGC9iYKf35pDSN5iUYe0gnBylFRtUNQsUBnOgjQ/\"}"
+    },
+    {
+      "t": "resp",
+      "status": 200,
+      "url": "http://127.0.0.1:4400/api/front/local-userdata",
+      "body": "{\"success\":false,\"msg\":\"Please login again.\",\"status\":300,\"data\":{}}"
+    },
+    {
+      "t": "resp",
+      "status": 200,
+      "url": "http://127.0.0.1:4400/api/front/userdata",
+      "body": "{\"data\":\"U2FsdGVkX198TpTvkgI/+jOfTxQRn/JwVDoD6j3wXBqhAPUzcBR5NwjsAJVI+LMybZGQT5fL2Nqg81Bx64CLcpYlOpZXIxAXGGgAoXUs+8aoWAf6EPNuGfWb1ZBhSnpZ\"}"
+    }
+  ]
+}

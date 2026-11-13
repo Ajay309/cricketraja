@@ -1,0 +1,238 @@
+<html lang="en">
+
+<head>
+  <base href="/" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width,  user-scalable=no" id="myViewport" />
+  <meta name="csrf-token" content="HljdN1tbl0aANLN73sOfeBjeAmacWilrti5KHlPX" />
+   <meta property="og:title" content="viratexchange | viratexchange Official | viratexchange Book | viratexchange ID" />
+  <meta property="og:description" content="Your trusted platform for casino, betting, and fun games online." />
+  <meta property="og:image" content="http://139.84.174.126:3000/preview.png" />
+  <meta property="og:url" content="http://139.84.174.126:3000/" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <title>viratexchange</title>
+  <link rel="stylesheet" href="/css/all.css" />
+  <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" />
+  <link href="/css/theme.css" rel="stylesheet" />
+  <link href="/css/custom.css" rel="stylesheet" />
+  <link href="/css/footer.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/css/owl.carousel.css" />
+  <link rel="stylesheet" type="text/css" href="/css/owl.theme.default.css" />
+  <link rel="stylesheet" href="/css/flipclock.css" />
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
+  
+  <link href="/assets/fonts/titillium-web.css" rel="stylesheet">
+  <script src="/assets/vendor/owlcarousel/owl.carousel.min.js"></script>
+  <link rel="stylesheet" href="/assets/vendor/owlcarousel/owl.carousel.min.css" />
+  <link rel="stylesheet"
+    href="/assets/vendor/owlcarousel/owl.theme.default.css" />
+  <link type="text/css" rel="stylesheet" href="/css/style.css?v=34" id="user-styles" />
+  <link type="text/css" rel="stylesheet" href="/css/responsive.css?v=34" id="user-styles2" />
+  <link type="text/css" rel="stylesheet" href="/css/admin-style.css?v=32" id="admin-styles" />
+  <script>
+  (function () {
+    const userStyles = document.getElementById('user-styles');
+    const userStyles2 = document.getElementById('user-styles2');
+    const adminStyles = document.getElementById('admin-styles');
+    const viewportMeta = document.getElementById('myViewport');
+
+    const applyCssMode = () => {
+      const isAdminRoute = /(^|\/)(admin|alladmin)(\/|$)/i.test(window.location.pathname || '');
+      if (userStyles) userStyles.disabled = isAdminRoute;
+      if (userStyles2) userStyles2.disabled = isAdminRoute;
+      if (adminStyles) adminStyles.disabled = !isAdminRoute;
+      if (viewportMeta) viewportMeta.setAttribute('content', 'width=device-width, initial-scale=1');
+    };
+
+    const patchHistoryMethod = (methodName) => {
+      const original = history[methodName];
+      if (typeof original !== 'function') return;
+      history[methodName] = function () {
+        const result = original.apply(this, arguments);
+        requestAnimationFrame(applyCssMode);
+        return result;
+      };
+    };
+
+    applyCssMode();
+    patchHistoryMethod('pushState');
+    patchHistoryMethod('replaceState');
+    window.addEventListener('popstate', applyCssMode);
+    window.addEventListener('hashchange', applyCssMode);
+  })();
+</script>
+<script src="/url-rewrite.js?v=cs-final-1"></script>
+<script defer src="/static/js/bundle.vx20260223.js?v=virat-live-20260302-walletfix-3"></script>  <script data-remove-exposure-ui>
+(function () {
+  if (window.__viratExposureUiDisabled) return;
+  window.__viratExposureUiDisabled = true;
+
+  function isAdminPath() {
+    try {
+      var p = String(location.pathname || "").toLowerCase();
+      return p.indexOf("/admin") === 0 || p.indexOf("/alladmin") === 0;
+    } catch (_err) {
+      return false;
+    }
+  }
+
+  if (isAdminPath()) return;
+
+  function normalizeText(value) {
+    return String(value || "").replace(/\s+/g, " ").trim();
+  }
+
+  function isNumericText(value) {
+    var v = normalizeText(value);
+    return /^[-+]?\d+(?:\.\d+)?$/.test(v);
+  }
+
+  function shouldHideLabel(value) {
+    var v = normalizeText(value).toLowerCase();
+    return v === "exp" || v === "exposure" || v === "exposure limit";
+  }
+
+  function hideElement(el) {
+    if (!el || el.nodeType !== 1 || el.dataset.exposureHidden === "1") return;
+    el.dataset.exposureHidden = "1";
+    el.style.setProperty("display", "none", "important");
+  }
+
+  function normalizePersistRoot() {
+    try {
+      var persistRaw = localStorage.getItem("persist:root");
+      if (!persistRaw) return;
+      var root = JSON.parse(persistRaw);
+      if (!root || typeof root !== "object") return;
+      var data = {};
+      try {
+        data = JSON.parse(root.data || "{}");
+      } catch (_err) {
+        data = {};
+      }
+      var changed = false;
+      if (Number(data.exp || 0) !== 0) {
+        data.exp = 0;
+        changed = true;
+      }
+      if (String(data.exposure_limit || "0") !== "0") {
+        data.exposure_limit = "0";
+        changed = true;
+      }
+      if (changed) {
+        root.data = JSON.stringify(data);
+        localStorage.setItem("persist:root", JSON.stringify(root));
+      }
+    } catch (_err) {}
+  }
+
+  function stripExposureUI() {
+    var labels = document.querySelectorAll("span,div,p,strong,b,small,label,li,a,td,th");
+    for (var i = 0; i < labels.length; i += 1) {
+      var node = labels[i];
+      if (!shouldHideLabel(node.textContent)) continue;
+
+      var holder = node;
+      for (var depth = 0; depth < 4 && holder && holder.parentElement; depth += 1) {
+        var text = normalizeText(holder.textContent);
+        if (
+          /(exp|exposure)/i.test(text) &&
+          /[-+]?\d+(?:\.\d+)?/.test(text)
+        ) {
+          break;
+        }
+        holder = holder.parentElement;
+      }
+      hideElement(holder || node);
+
+      var next = (holder || node).nextElementSibling;
+      if (next && isNumericText(next.textContent)) hideElement(next);
+      var prev = (holder || node).previousElementSibling;
+      if (prev && isNumericText(prev.textContent)) hideElement(prev);
+    }
+  }
+
+  var rafQueued = false;
+  function scheduleStrip() {
+    if (rafQueued) return;
+    rafQueued = true;
+    requestAnimationFrame(function () {
+      rafQueued = false;
+      normalizePersistRoot();
+      stripExposureUI();
+    });
+  }
+
+  normalizePersistRoot();
+  stripExposureUI();
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", scheduleStrip, { once: true });
+  }
+  window.addEventListener("load", scheduleStrip);
+  window.addEventListener("storage", scheduleStrip);
+  setInterval(normalizePersistRoot, 1500);
+
+  var observer = new MutationObserver(scheduleStrip);
+  observer.observe(document.documentElement, {
+    childList: true,
+    subtree: true,
+    characterData: true
+  });
+})();
+</script>
+  </head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+  <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  <script type="text/javascript" async>
+    $(document).ready(function () {
+      ///setTimeout(function () { $(".popop_boxman").show(); }, 5000);
+      var fixmeTop = 100
+      if ($('#sidebar-right').offset()) {
+        fixmeTop = $('#sidebar-right').offset().top
+      }
+
+      window.onscroll = function () {
+        myFunction(fixmeTop)
+      }
+    })
+
+    function myFunction(fixmeTop) {
+      var currentScroll = $(window).scrollTop()
+      if (window.location.href.includes('admin/casino')) {
+        if (currentScroll >= fixmeTop) {
+          $('#sidebar-right').addClass('stickycasino')
+        } else {
+          $('#sidebar-right').removeClass('stickycasino')
+        }
+      } else {
+        if (currentScroll >= fixmeTop) {
+          $('#sidebar-right').addClass('sticky')
+        } else {
+          $('#sidebar-right').removeClass('sticky')
+        }
+      }
+    }
+  </script>
+</body>
+
+</html>
+
+
+
+
+

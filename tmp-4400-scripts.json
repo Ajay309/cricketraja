@@ -1,0 +1,16 @@
+[
+  "http://127.0.0.1:4400/local/local-bootstrap.js?v=20260307-12",
+  "http://127.0.0.1:4400/code.jquery.com/jquery-3.5.1.min.js",
+  "http://127.0.0.1:4400/versionobj.ecoassetsservice.com/v93/static/front/js/flipclock.js",
+  "http://127.0.0.1:4400/cdn.jsdelivr.net/npm/sweetalert2@11",
+  "http://127.0.0.1:4400/www.gstatic.com/firebasejs/11.5.0/firebase-app-compat.js",
+  "http://127.0.0.1:4400/www.gstatic.com/firebasejs/11.5.0/firebase-messaging-compat.js",
+  "http://127.0.0.1:4400/cdn.jsdelivr.net/npm/@thumbmarkjs/thumbmarkjs/dist/thumbmark.umd.js",
+  "[inline]",
+  "[inline]",
+  "[inline]",
+  "[inline]",
+  "[inline]",
+  "http://127.0.0.1:4400/versionobj.ecoassetsservice.com/v93/static/front/js/custom.js",
+  "http://127.0.0.1:4400/versionobj.ecoassetsservice.com/v93/static/front/js/sw.js"
+]

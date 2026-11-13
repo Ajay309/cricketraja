@@ -1,0 +1,12 @@
+{
+  "before": {
+    "token": "demo-local-token",
+    "bal": 1500,
+    "exp": 1500
+  },
+  "after": {
+    "bal": 1400,
+    "exp": 1400,
+    "header": "RulesDownload Apk Balance: 1,400Exposure: 1,400demo_userNewly Launched Matka Market In Our Exchange"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "header": {
+    "cls": "header-top local-mobile-header-layout",
+    "x": 0,
+    "y": 0,
+    "w": 320,
+    "h": 68.1875,
+    "txt": "RulesDownload Apk Balance: 1,500Exposure: 1,500demo_userProfileWallet / BalanceSettingsSign OutNewly"
+  },
+  "logo": {
+    "cls": "logo-header local-mobile-header-left",
+    "x": 6,
+    "y": 5.984375,
+    "w": 170,
+    "h": 22.203125,
+    "txt": ""
+  },
+  "right": {
+    "cls": "user-details local-mobile-header-right",
+    "x": 176,
+    "y": 4,
+    "w": 138,
+    "h": 26.1875,
+    "txt": "RulesDownload Apk Balance: 1,500Exposure: 1,500demo_userProfileWallet / BalanceSettingsSign Out"
+  },
+  "search": {
+    "cls": "search-box-container d-xl-none local-mobile-header-search",
+    "x": 6,
+    "y": 35.1875,
+    "w": 24,
+    "h": 24,
+    "txt": ""
+  },
+  "news": {
+    "cls": "news local-mobile-header-news",
+    "x": 36,
+    "y": 34.1875,
+    "w": 278,
+    "h": 26,
+    "txt": "Newly Launched Matka Market In Our Exchange"
+  }
+}

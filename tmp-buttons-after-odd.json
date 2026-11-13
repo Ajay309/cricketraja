@@ -1,0 +1,79 @@
+[
+  {
+    "idx": 0,
+    "text": "Racing Sports",
+    "cls": "accordion-button",
+    "parentCls": "accordion-item",
+    "parentText": "Racing SportsHorse RacingGreyhound Racing"
+  },
+  {
+    "idx": 1,
+    "text": "Others",
+    "cls": "accordion-button",
+    "parentCls": "accordion-item",
+    "parentText": "OthersLive CasinoVirtual CasinoLive CasinoSlot GameFantasy Game"
+  },
+  {
+    "idx": 2,
+    "text": "All Sports",
+    "cls": "accordion-button",
+    "parentCls": "accordion-item",
+    "parentText": "All SportsPoliticsCricketWomens Test MatchesAustralia W v India WT5 XISLZ XI v BT XICSA Provincial One-Day Challenge Div 1Titans v Western ProvinceICC Mens T20 World Cup ICC Mens T20 World CupIndia v New ZealandWomens On"
+  },
+  {
+    "idx": 4,
+    "text": "All",
+    "cls": "active",
+    "parentCls": "tabs",
+    "parentText": "AllCasino 261Virtual 49Slot 522Crash 168Fishing 19"
+  },
+  {
+    "idx": 5,
+    "text": "Casino 261",
+    "cls": "",
+    "parentCls": "tabs",
+    "parentText": "AllCasino 261Virtual 49Slot 522Crash 168Fishing 19"
+  },
+  {
+    "idx": 6,
+    "text": "Virtual 49",
+    "cls": "",
+    "parentCls": "tabs",
+    "parentText": "AllCasino 261Virtual 49Slot 522Crash 168Fishing 19"
+  },
+  {
+    "idx": 7,
+    "text": "Slot 522",
+    "cls": "",
+    "parentCls": "tabs",
+    "parentText": "AllCasino 261Virtual 49Slot 522Crash 168Fishing 19"
+  },
+  {
+    "idx": 8,
+    "text": "Crash 168",
+    "cls": "",
+    "parentCls": "tabs",
+    "parentText": "AllCasino 261Virtual 49Slot 522Crash 168Fishing 19"
+  },
+  {
+    "idx": 9,
+    "text": "Fishing 19",
+    "cls": "",
+    "parentCls": "tabs",
+    "parentText": "AllCasino 261Virtual 49Slot 522Crash 168Fishing 19"
+  },
+  {
+    "idx": 11,
+    "text": "Accept",
+    "cls": "btn btn-success",
+    "parentCls": "",
+    "parentText": "AcceptCancel"
+  },
+  {
+    "idx": 12,
+    "text": "Cancel",
+    "cls": "btn btn-danger ms-1",
+    "parentCls": "",
+    "parentText": "AcceptCancel"
+  }
+]

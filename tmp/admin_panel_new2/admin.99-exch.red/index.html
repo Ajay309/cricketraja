@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Welcome to My99exch</title>
+        <link rel="icon" href="/admin/assets/images/DHONIEXCH-logo.svg">
+    <link href="https://admin.99-exch.red/assets/app/pnotify.css" rel="stylesheet"> <!-- for alert notification css -->
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <!-- Javascripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://admin.99-exch.red/assets/app/pnotify.js"></script> <!-- for alert notification js -->
+    <style>
+        /* Importing fonts from Google */
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+        /* Reseting */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        html,
+        body {
+            margin: 0;
+            padding: 0;background-color: linear-gradient(to bottom, #ff7e5f, #feb47b);
+            height: 100%;
+        }
+
+        body {background-color: #ffc107;
+            /* background-image: url(./assets/images/bnr.jpg); */
+            display: flex;
+            justify-content: center;
+            height: 100vh;
+            /* position: fixed; */
+        }
+
+        .wrapper {
+            max-width: 340px;
+            min-height: 100px;
+            max-height: 500px;
+            margin: 80px auto;
+            padding: 40px 30px 30px 30px;background-color: #000;
+            border-radius: 15px;box-shadow: 0px 0px 10px #5b5b5b, 1px 1px 5px #5b5b5b;
+            border-width: 1px;
+            border-style: solid;border-color: #000;
+        }
+
+        .wrapper1 {
+            width: 400px;
+            max-width: 570px;
+            min-height: 50px;
+            max-height: 50px;
+            margin: 80px -70px;
+            padding: 0px 0px 0px 0px;background-color: #F5E6D3;
+            border-radius: 50px;box-shadow: 13px 13px 20px #5b5b5b, -13px -13px 20px #5b5b5b;
+            border-width: 1px;
+            border-style: solid;border-color: #000;
+        }
+
+        .logo {
+            width: 200px;
+            margin: auto;
+        }
+
+        .logo1 {
+            width: 95px;
+            margin: 100px, 100px;
+        }
+
+        .logo2 {
+            width: 95px;
+            margin: 200px, 200px;
+        }
+
+        .footerimg {
+            max-width: 10%;
+            max-height: 10%;
+        }
+
+        .logo img {
+            width: 100%;
+            height: 45px;
+            /* object-fit: cover; */
+            border-radius: 0%;
+            /* box-shadow: 0px 0px 0px #5f5f5f,
+                     0px 0px 0px 0px #F5E6D3, */
+            /* 8px 8px 15px #a7aaa7,
+                     -8px -8px 15px #fff; */
+        }
+
+        .logo1 img {
+            width: 70%;
+            height: 80px;
+            object-fit: cover;
+            border-radius: 50%;box-shadow: 0px 0px 3px #5f5f5f,
+                0px 0px 0px 5px #F5E6D3,
+                /* 8px 8px 15px #a7aaa7,
+                     -8px -8px 15px #fff; */
+        }
+
+        .logo2 img {
+            width: 100%;
+            height: 90px;
+            object-fit: cover;
+            border-radius: 50%;box-shadow: 0px 0px 3px #5f5f5f,
+                0px 0px 0px 5px #F5E6D3,
+                8px 8px 15px #a7aaa7,
+                -8px -8px 15px #fff;
+        }
+
+        .wrapper .name {
+            font-weight: 600;
+            font-size: 1.4rem;
+            letter-spacing: 1.3px;
+            padding-left: 10px;color: #555;
+        }
+
+        .form-control {background-color: black !important;
+            background-clip: none !important;
+        }
+
+        #login_username::placeholder {color: white;
+            /* Set the color you want */
+        }
+
+        #login_password::placeholder {color: white;
+            /* Set the color you want */
+        }
+
+        .form-control input[type=text]:focus {background-color: black;color: white;
+            /* Optional: Set text color to white for better visibility */
+            outline: none;
+            /* Optional: Remove the default focus border */
+        }
+
+        .wrapper .form-field input {
+            width: 100%;
+            display: block;border: none;outline: none;
+            /* background: none; */
+            font-size: 1.2rem;color: white;
+            padding: 10px 15px 10px 10px;
+            /* border: 1px solid red; */
+        }
+
+        .wrapper .form-field {
+            padding-left: 10px;
+            margin-bottom: 20px;
+            border-radius: 20px;box-shadow: inset 1px 1px 1px #fff, inset -1px -1px 1px #fff;
+        }
+
+        .wrapper .form-field .fas {color: #555;
+        }
+
+        .wrapper .btn {box-shadow: none;
+            width: 100%;
+            height: 40px;background-color: #f6a21e;color: #000;
+            border-radius: 25px;
+            /* box-shadow: 3px 3px 3px #b1b1b1,
+                     -3px -3px 3px #fff; */
+            letter-spacing: 1.3px;
+        }
+
+        .wrapper .btn:hover {background-color: #6B3E1E;
+        }
+
+        .wrapper a {
+            text-decoration: none;
+            font-size: 0.8rem;color: #6B3E1E;
+        }
+
+        .wrapper a:hover {color: #6B3E1E;
+        }
+
+        @media(max-width: 380px) {
+            .wrapper {
+                margin: 4rem 1rem;
+                padding: 25px 15px 15px 15px;
+                height: fit-content;
+                overflow: hidden;
+            }
+
+            .wrapper1 {
+                margin: 30px 20px;
+                padding: 40px 15px 15px 15px;
+            }
+        }
+
+        .alert {
+            position: relative;
+            padding: 0.5rem 1rem;
+            margin-bottom: 1rem;border: 1px solid transparent;
+            border-radius: 0.25rem;
+        }
+
+        .alert-danger,
+        .alert-success {
+            width: 100% !important;
+            margin-left: 0% !important;
+        }
+
+        .strike {
+            display: block;
+            text-align: center;
+            overflow: hidden;
+            white-space: nowrap;
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+
+        .strike>span {
+            position: relative;
+            display: inline-block;
+        }
+
+        .strike>span:before,
+        .strike>span:after {
+            content: "";
+            position: absolute;
+            top: 50%;
+            width: 9999px;
+            height: 1px;background: grey;
+        }
+
+        .strike>span:before {
+            right: 100%;
+            margin-right: 15px;
+        }
+
+        .strike>span:after {
+            left: 100%;
+            margin-left: 15px;
+        }
+
+        input:focus {
+            border-left: 3px solid #ffb80c !important;
+            border-bottom: 1px solid #1c1c1c !important;
+        }
+
+        .contact_support_div {
+            margin: 14px auto;
+            border-radius: 8px;border: 1px solid #757575;
+            width: 87%;
+            padding: 0;
+            position: relative;background: #ffffff61;border: 1px solid #757575;
+        }
+
+        .contact_title {
+            font-weight: 700;color: #000;
+            font-size: 18px;
+            padding: 6px;
+            border-bottom: 1px solid #757575;
+        }
+
+        .contact-body {
+            padding: 6px;
+        }
+
+        @media (pointer:fine) {
+            .contact_support_div {
+                width: 350px !important
+            }
+        }
+    </style>
+    <script type="text/javascript"></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="logo">
+                            <img style="margin-top:16px;height:70px;" src="https://admin.99-exch.red/assets/images/logo.webp" alt="">
+                    </div>
+        <form class="p-3 mt-3" autocomplete="off" id="form_data" name="form_data" method="post">
+            <div id="login" class="form">
+                                                <div class="form-group d-flex align-items-center form-field">
+                    <span class="far fa-user" style="color: white;margin-right: 8px;"></span>
+                    <input type="text" name="login_username" id="login_username"
+                        style="box-shadow: inset 1px 1px 1px #fff, inset -1px -1px 1px #fff;" value=""
+                        placeholder="Username" required="1" class="form-control user_input">
+                </div>
+                <div class="form-group d-flex align-items-center form-field">
+                    <span class="fas fa-key" style="color: white;margin-right: 8px;"></span>
+                    <input type="password" name="login_password" id="login_password"
+                        style="box-shadow: inset 1px 1px 1px #fff, inset -1px -1px 1px #fff;" value=""
+                        placeholder="Password" required="1" class="form-control pass_input">
+                </div>
+                <!-- <div> <input type="checkbox" name="remember" id="remember" checked=""> Remember Me</div>-->
+                <div class="login_ftrmy">
+                    <div class="button-groups"> <button type="submit" class="btn btn-success mt-3"
+                            style="border-color:#f6a21e;">Login</button>
+                    </div>
+                    <!-- <button class="btn mt-3"><a href="https://admin.99-exch.red/sign-up"
+                                 style="font-size: 1rem;color: #000000;">Sign Up</a></button>
+                           <a href="https://admin.99-exch.red/sign-up" class="btn btn-success">Sign Up</a> -->
+                </div>
+        </form>
+        <!-- <div class="text-center fs-6" style="color: white;">
+                  <a href="https://admin.99-exch.red/forgot-password">Forget password?</a> or <a
+                     href="https://api.whatsapp.com/send?phone=" target="_blank"><img
+                           src="https://admin.99-exch.red/assets/images/wp_support.png" alt="Paris" class="center"
+                           style="width: 17px;height: 18px;">Get Help</a>
+               </div> -->
+        <!-- <div class="strike"> <span>or</span></div> -->
+        <script type="text/javascript">
+            $("#form_data").submit(function(e) {
+                e.preventDefault();
+                var login_username = $("#login_username").val().trim();
+                var login_password = $("#login_password").val().trim();
+                $.ajax({
+                    method: "POST",
+                    url: `https://admin.99-exch.red/login`,
+                    data: {
+                        login_username: login_username,
+                        login_password: login_password,
+                    },
+                    dataType: "json",
+                    success: function(data) {
+                        if (data.success) {
+                            //  new PNotify({
+                            //      title: "Success",
+                            //      text: data.message,
+                            //      styling: "bootstrap3",
+                            //      type: "success",
+                            //      delay: 3000,
+                            //  });
+                            window.location.href = "https://admin.99-exch.red/dashboard";
+                            // setTimeout(function() {
+                            //    window.location.href = "https://admin.99-exch.red/admin/dashboard";
+                            //    //  window.location.reload(1);
+                            // }, 2000);
+                        } else {
+                            new PNotify({
+                                title: "Error",
+                                text: data.message,
+                                styling: "bootstrap3",
+                                type: "error",
+                                delay: 3000,
+                            });
+                        }
+                    }
+                });
+            })
+            document.onkeydown = function(e) {
+                //   if(event.keyCode == 123) {
+                //       return false;
+                //   }
+                //   if(e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)){
+                //       return false;
+                //   }
+                //   if(e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)){
+                //       return false;
+                //   }
+                //  if(e.ctrlKey && e.shiftKey && e.keyCode == 'C'.charCodeAt(0)){
+                //       return false;
+                //   }
+                //   if(e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)){
+                //       return false;
+                //   }
+            }
+        </script>
+    </div>
+</body>
+
+</html>

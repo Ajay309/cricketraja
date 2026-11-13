@@ -1,0 +1,24 @@
+{
+  "before": {
+    "listCount": 1,
+    "cardCount": 261,
+    "uniqueCount": 261,
+    "duplicateCount": 0,
+    "missingBg": 261
+  },
+  "scrolled": {
+    "listCount": 1,
+    "cardCount": 261,
+    "uniqueCount": 261,
+    "duplicateCount": 0,
+    "missingBg": 261
+  },
+  "gameUrl": "http://127.0.0.1:3000/casino/superover2?gid=mac-excite-lobby-749e6234&local_fallback=1",
+  "afterBack": {
+    "listCount": 1,
+    "cardCount": 261,
+    "uniqueCount": 261,
+    "duplicateCount": 0,
+    "missingBg": 261
+  }
+}

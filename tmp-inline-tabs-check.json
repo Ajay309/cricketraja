@@ -1,0 +1,242 @@
+{
+  "mobile": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "out": [
+      {
+        "tag": "initial",
+        "url": "http://127.0.0.1:3000/home",
+        "count": 261,
+        "names": [
+          "MAC Excite Lobby",
+          "Casino War",
+          "AK47 Teenpatti",
+          "Teenpatti One Day",
+          "Baccarat",
+          "Sic Bo"
+        ],
+        "active": [
+          "Sports",
+          "Live Casino",
+          "Cricket"
+        ]
+      },
+      {
+        "tag": "Our Casino",
+        "url": "http://127.0.0.1:3000/home",
+        "count": 35,
+        "names": [
+          "Evolution Poker",
+          "Blackjack VIP 30",
+          "VR Trio",
+          "Speed Baccarat",
+          "BlackJack Creed F",
+          "Slave Card"
+        ],
+        "active": [
+          "Sports",
+          "Our Casino",
+          "Cricket"
+        ]
+      },
+      {
+        "tag": "Live Casino",
+        "url": "http://127.0.0.1:3000/home",
+        "count": 261,
+        "names": [
+          "MAC Excite Lobby",
+          "Casino War",
+          "AK47 Teenpatti",
+          "Teenpatti One Day",
+          "Baccarat",
+          "Sic Bo"
+        ],
+        "active": [
+          "Sports",
+          "Live Casino",
+          "Cricket"
+        ]
+      },
+      {
+        "tag": "Slots",
+        "url": "http://127.0.0.1:3000/home",
+        "count": 522,
+        "names": [
+          "Mines",
+          "Fortune Monkey",
+          "God Gambit: Poseidon",
+          "Da Fu Xing",
+          "Rave Party Fever",
+          "Magic Lamp"
+        ],
+        "active": [
+          "Sports",
+          "Slots",
+          "Cricket"
+        ]
+      },
+      {
+        "tag": "Fantasy",
+        "url": "http://127.0.0.1:3000/home",
+        "count": 168,
+        "names": [
+          "Chicken Road 2.0",
+          "DivineConquest",
+          "Cricket Road",
+          "Fish Boom",
+          "Coinflip",
+          "RockyRush"
+        ],
+        "active": [
+          "Sports",
+          "Fantasy",
+          "Cricket"
+        ]
+      }
+    ],
+    "logs": [
+      {
+        "t": "req",
+        "m": "GET",
+        "u": "http://127.0.0.1:3000/api/provider/home-games"
+      },
+      {
+        "t": "res",
+        "s": 200,
+        "u": "http://127.0.0.1:3000/api/provider/home-games"
+      },
+      {
+        "t": "req",
+        "m": "GET",
+        "u": "http://127.0.0.1:3000/api/provider/home-games"
+      },
+      {
+        "t": "res",
+        "s": 200,
+        "u": "http://127.0.0.1:3000/api/provider/home-games"
+      }
+    ]
+  },
+  "desktop": {
+    "viewport": {
+      "width": 1365,
+      "height": 900
+    },
+    "out": [
+      {
+        "tag": "initial",
+        "url": "http://127.0.0.1:3000/home",
+        "count": 261,
+        "names": [
+          "MAC Excite Lobby",
+          "Casino War",
+          "AK47 Teenpatti",
+          "Teenpatti One Day",
+          "Baccarat",
+          "Sic Bo"
+        ],
+        "active": [
+          "Sports",
+          "Live Casino",
+          "Cricket"
+        ]
+      },
+      {
+        "tag": "Our Casino",
+        "url": "http://127.0.0.1:3000/home",
+        "count": 35,
+        "names": [
+          "Evolution Poker",
+          "Blackjack VIP 30",
+          "VR Trio",
+          "Speed Baccarat",
+          "BlackJack Creed F",
+          "Slave Card"
+        ],
+        "active": [
+          "Sports",
+          "Our Casino",
+          "Cricket"
+        ]
+      },
+      {
+        "tag": "Live Casino",
+        "url": "http://127.0.0.1:3000/home",
+        "count": 261,
+        "names": [
+          "MAC Excite Lobby",
+          "Casino War",
+          "AK47 Teenpatti",
+          "Teenpatti One Day",
+          "Baccarat",
+          "Sic Bo"
+        ],
+        "active": [
+          "Sports",
+          "Live Casino",
+          "Cricket"
+        ]
+      },
+      {
+        "tag": "Slots",
+        "url": "http://127.0.0.1:3000/home",
+        "count": 522,
+        "names": [
+          "Mines",
+          "Fortune Monkey",
+          "God Gambit: Poseidon",
+          "Da Fu Xing",
+          "Rave Party Fever",
+          "Magic Lamp"
+        ],
+        "active": [
+          "Sports",
+          "Slots",
+          "Cricket"
+        ]
+      },
+      {
+        "tag": "Fantasy",
+        "url": "http://127.0.0.1:3000/home",
+        "count": 168,
+        "names": [
+          "Chicken Road 2.0",
+          "DivineConquest",
+          "Cricket Road",
+          "Fish Boom",
+          "Coinflip",
+          "RockyRush"
+        ],
+        "active": [
+          "Sports",
+          "Fantasy",
+          "Cricket"
+        ]
+      }
+    ],
+    "logs": [
+      {
+        "t": "req",
+        "m": "GET",
+        "u": "http://127.0.0.1:3000/api/provider/home-games"
+      },
+      {
+        "t": "res",
+        "s": 200,
+        "u": "http://127.0.0.1:3000/api/provider/home-games"
+      },
+      {
+        "t": "req",
+        "m": "GET",
+        "u": "http://127.0.0.1:3000/api/provider/home-games"
+      },
+      {
+        "t": "res",
+        "s": 200,
+        "u": "http://127.0.0.1:3000/api/provider/home-games"
+      }
+    ]
+  }
+}
