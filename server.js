@@ -7,13 +7,20 @@ if (fs.existsSync(envPath) && typeof process.loadEnvFile === "function") {
 }
 if (!process.env.NODE_ENV) process.env.NODE_ENV = "production";
 
+// local: backend/app.js | Vercel build: backend/app.cjs
+const backendDir = path.join(__dirname, "backend");
+const appFile = ["app.js", "app.cjs"].find((f) =>
+  fs.existsSync(path.join(backendDir, f))
+);
+
 let loaded = {};
-for (const p of ["backend/app.cjs", "backend/app.js"]) {
-  try {
-    const m = require(path.join(__dirname, p));
-    if (m && Object.getOwnPropertyNames(m).length) { loaded = m; break; }
-  } catch (e) { /* next path try karo */ }
+let loadError = null;
+try {
+  loaded = require(path.join(backendDir, appFile));
+} catch (e) {
+  loadError = e;
 }
+
 function findApi(m, depth = 0) {
   if (!m || depth > 3) return null;
   if (typeof m.createAppServer === "function") return m;
@@ -30,22 +37,21 @@ function findApi(m, depth = 0) {
 
 const api = findApi(loaded);
 
+// Local: node server.js
 if (require.main === module && api) api.startServer();
 
+// Vercel: request handler
 let server;
 module.exports = (req, res) => {
   if (!api) {
-    const d = {};
-    try {
-      d.type = typeof loaded;
-      d.names = Object.getOwnPropertyNames(loaded);
-      d.defaultType = typeof loaded.default;
-      d.defaultNames = loaded.default ? Object.getOwnPropertyNames(loaded.default) : null;
-      d.protoNames = Object.getOwnPropertyNames(Object.getPrototypeOf(loaded) || {});
-    } catch (e) { d.err = String(e); }
     res.statusCode = 200;
     res.setHeader("content-type", "application/json");
-    res.end(JSON.stringify(d, null, 2));
+    res.end(JSON.stringify({
+      appFile,
+      loadError: loadError ? String(loadError.stack).split("\n").slice(0, 10) : null,
+      keys: Object.getOwnPropertyNames(loaded),
+      defaultKeys: loaded.default ? Object.getOwnPropertyNames(loaded.default) : null
+    }, null, 2));
     return;
   }
   if (!server) server = api.createAppServer();
