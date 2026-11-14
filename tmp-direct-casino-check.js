@@ -2,7 +2,7 @@ const { chromium } = require('playwright-core');
 (async () => {
   const browser = await chromium.launch({ headless: true, executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe', args: ['--no-sandbox','--disable-dev-shm-usage'] });
   const page = await browser.newPage({ viewport: { width: 1365, height: 900 } });
-  await page.goto('http://127.0.0.1:3000/casino/superover2?gid=mac-excite-lobby-749e6234', { waitUntil: 'domcontentloaded', timeout: 120000 });
+  await page.goto('https://cricketraja.vercel.app/casino/superover2?gid=mac-excite-lobby-749e6234', { waitUntil: 'domcontentloaded', timeout: 120000 });
   await page.waitForTimeout(6000);
   const out = await page.evaluate(() => ({
     url: location.href,

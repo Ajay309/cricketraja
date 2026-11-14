@@ -1,6 +1,6 @@
 {
   "before": {
-    "url": "http://127.0.0.1:3000/home",
+    "url": "https://cricketraja.vercel.app/home",
     "injectedCount": 0,
     "menuItems": [
       "Account Statement",
@@ -23,7 +23,7 @@
   },
   "clicked": false,
   "after": {
-    "url": "http://127.0.0.1:3000/home",
+    "url": "https://cricketraja.vercel.app/home",
     "injectedCount": 0,
     "hasLoginBtn": false
   }

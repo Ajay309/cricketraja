@@ -22,7 +22,7 @@ const fs = require('fs');
     }
   });
 
-  await page.goto('http://127.0.0.1:3000/home', { waitUntil: 'domcontentloaded', timeout: 120000 });
+  await page.goto('https://cricketraja.vercel.app/home', { waitUntil: 'domcontentloaded', timeout: 120000 });
   await page.waitForTimeout(1500);
 
   const demoBtn = page.locator('button:has-text("Login with demo ID"), a:has-text("Login with demo ID")').first();

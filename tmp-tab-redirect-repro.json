@@ -5,17 +5,17 @@
       "height": 844
     },
     "navs": [
-      "http://127.0.0.1:3000/home",
-      "http://127.0.0.1:3000/home",
-      "http://127.0.0.1:3000/",
-      "http://127.0.0.1:3000/home",
-      "http://127.0.0.1:3000/home"
+      "https://cricketraja.vercel.app/home",
+      "https://cricketraja.vercel.app/home",
+      "https://cricketraja.vercel.app/",
+      "https://cricketraja.vercel.app/home",
+      "https://cricketraja.vercel.app/home"
     ],
     "out": [
       {
         "label": "Our Casino",
-        "before": "http://127.0.0.1:3000/home",
-        "after": "http://127.0.0.1:3000/home",
+        "before": "https://cricketraja.vercel.app/home",
+        "after": "https://cricketraja.vercel.app/home",
         "count": 35,
         "clicked": {
           "ok": true,
@@ -24,8 +24,8 @@
       },
       {
         "label": "Live Casino",
-        "before": "http://127.0.0.1:3000/home",
-        "after": "http://127.0.0.1:3000/home",
+        "before": "https://cricketraja.vercel.app/home",
+        "after": "https://cricketraja.vercel.app/home",
         "count": 261,
         "clicked": {
           "ok": true,
@@ -34,8 +34,8 @@
       },
       {
         "label": "Slots",
-        "before": "http://127.0.0.1:3000/home",
-        "after": "http://127.0.0.1:3000/home",
+        "before": "https://cricketraja.vercel.app/home",
+        "after": "https://cricketraja.vercel.app/home",
         "count": 522,
         "clicked": {
           "ok": true,
@@ -44,8 +44,8 @@
       },
       {
         "label": "Fantasy",
-        "before": "http://127.0.0.1:3000/home",
-        "after": "http://127.0.0.1:3000/home",
+        "before": "https://cricketraja.vercel.app/home",
+        "after": "https://cricketraja.vercel.app/home",
         "count": 168,
         "clicked": {
           "ok": true,
@@ -60,17 +60,17 @@
       "height": 900
     },
     "navs": [
-      "http://127.0.0.1:3000/home",
-      "http://127.0.0.1:3000/home",
-      "http://127.0.0.1:3000/",
-      "http://127.0.0.1:3000/home",
-      "http://127.0.0.1:3000/home"
+      "https://cricketraja.vercel.app/home",
+      "https://cricketraja.vercel.app/home",
+      "https://cricketraja.vercel.app/",
+      "https://cricketraja.vercel.app/home",
+      "https://cricketraja.vercel.app/home"
     ],
     "out": [
       {
         "label": "Our Casino",
-        "before": "http://127.0.0.1:3000/home",
-        "after": "http://127.0.0.1:3000/home",
+        "before": "https://cricketraja.vercel.app/home",
+        "after": "https://cricketraja.vercel.app/home",
         "count": 35,
         "clicked": {
           "ok": true,
@@ -79,8 +79,8 @@
       },
       {
         "label": "Live Casino",
-        "before": "http://127.0.0.1:3000/home",
-        "after": "http://127.0.0.1:3000/home",
+        "before": "https://cricketraja.vercel.app/home",
+        "after": "https://cricketraja.vercel.app/home",
         "count": 261,
         "clicked": {
           "ok": true,
@@ -89,8 +89,8 @@
       },
       {
         "label": "Slots",
-        "before": "http://127.0.0.1:3000/home",
-        "after": "http://127.0.0.1:3000/home",
+        "before": "https://cricketraja.vercel.app/home",
+        "after": "https://cricketraja.vercel.app/home",
         "count": 522,
         "clicked": {
           "ok": true,
@@ -99,8 +99,8 @@
       },
       {
         "label": "Fantasy",
-        "before": "http://127.0.0.1:3000/home",
-        "after": "http://127.0.0.1:3000/home",
+        "before": "https://cricketraja.vercel.app/home",
+        "after": "https://cricketraja.vercel.app/home",
         "count": 168,
         "clicked": {
           "ok": true,

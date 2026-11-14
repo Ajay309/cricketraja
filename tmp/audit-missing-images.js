@@ -40,7 +40,7 @@ const { startServer } = require('../backend/app');
   });
 
   try {
-    await page.goto('http://127.0.0.1:3000/#/', { waitUntil: 'networkidle', timeout: 60000 });
+    await page.goto('https://cricketraja.vercel.app/#/', { waitUntil: 'networkidle', timeout: 60000 });
     await page.waitForTimeout(6000);
 
     // Attempt clicking a few nav items to trigger game tiles.

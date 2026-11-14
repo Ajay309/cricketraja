@@ -35,7 +35,7 @@ const fs = require('fs');
     return { listCount: lists.length, cardCount: cards.length, uniqueCount: seen.size, duplicateCount: dup, missingBg };
   }
 
-  await page.goto('http://127.0.0.1:3000/home', { waitUntil: 'domcontentloaded', timeout: 120000 });
+  await page.goto('https://cricketraja.vercel.app/home', { waitUntil: 'domcontentloaded', timeout: 120000 });
   await page.waitForTimeout(1200);
   const demoBtn = page.locator('button:has-text("Login with demo ID"), a:has-text("Login with demo ID")').first();
   if (await demoBtn.count()) {
@@ -55,7 +55,7 @@ const fs = require('fs');
   }
   const gameUrl = page.url();
 
-  await page.goto('http://127.0.0.1:3000/home', { waitUntil: 'domcontentloaded', timeout: 120000 });
+  await page.goto('https://cricketraja.vercel.app/home', { waitUntil: 'domcontentloaded', timeout: 120000 });
   await page.waitForTimeout(3000);
   const afterBack = await page.evaluate(collectHomeStats);
 

@@ -68,7 +68,7 @@ function buildSnapshotSet() {
 }
 
 async function checkEndpoints(endpoints) {
-  const loginRes = await fetch("http://127.0.0.1:3000/api/front/local-login", {
+  const loginRes = await fetch("https://cricketraja.vercel.app/api/front/local-login", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ username: "jashxn", password: "jashan983jk" })

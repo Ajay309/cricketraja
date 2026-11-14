@@ -23,13 +23,13 @@ async function run() {
   try {
     await sleep(2000);
 
-    const root = await req("http://127.0.0.1:3000/admin", { redirect: "manual" });
+    const root = await req("https://cricketraja.vercel.app/admin", { redirect: "manual" });
     console.log("ADMIN_ROOT", JSON.stringify(root));
 
-    const dash = await req("http://127.0.0.1:3000/admin/dashboard");
+    const dash = await req("https://cricketraja.vercel.app/admin/dashboard");
     console.log("ADMIN_DASH", JSON.stringify(dash));
 
-    const api = await req("http://127.0.0.1:3000/admin/admin/dashboard/getDashboardData");
+    const api = await req("https://cricketraja.vercel.app/admin/admin/dashboard/getDashboardData");
     console.log("ADMIN_API", JSON.stringify(api));
   } finally {
     server.kill("SIGTERM");

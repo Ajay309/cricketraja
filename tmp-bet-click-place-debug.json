@@ -1,6 +1,6 @@
 {
   "state": {
-    "url": "http://127.0.0.1:3000/home",
+    "url": "https://cricketraja.vercel.app/home",
     "bodyLen": 7266,
     "hasUserDetails": true,
     "userVisible": true,
@@ -10,25 +10,25 @@
     {
       "t": "resp",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/userdata",
+      "u": "https://cricketraja.vercel.app/api/front/userdata",
       "body": "{\"data\":\"U2FsdGVkX1/65Y5LXJPpJL4uN94uf3dEvYezUb6rJZjBRWpZMCGcwYIaFRR4QR7lq3fGEJaM73tJ+VVJ1lc3qZalzVbpI2dHtMwg+B7FlJ/0DIIWfWdGTw6u5WMm4Von\"}"
     },
     {
       "t": "resp",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/userdata",
+      "u": "https://cricketraja.vercel.app/api/front/userdata",
       "body": ""
     },
     {
       "t": "resp",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/userdata",
+      "u": "https://cricketraja.vercel.app/api/front/userdata",
       "body": "{\"data\":\"U2FsdGVkX1++my6PpNtwlp1Z3wD0VClvguIOag4zCZ+VXpji+V6R9fnFMwxbrB7jkPgC1uwVr8raNyRFVDstI+kFxkA+cZItT9GL9HUgMUQeUaLdc+1Y/Az+q+zkrohm\"}"
     },
     {
       "t": "resp",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/userdata",
+      "u": "https://cricketraja.vercel.app/api/front/userdata",
       "body": "{\"data\":\"U2FsdGVkX1/2RTLqkSDBVQTvXZDNSQmwUTdI+Xty5oMUeehxsJx6Pl4oqpxvnu7zQTSzP6o3bgCmCU/4/YXPcPSQakmjjgUFBjCq9IdsMxXRAO81ZjcMaoTGfujif8pd\"}"
     },
     {
@@ -46,31 +46,31 @@
     {
       "t": "resp",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/userdata",
+      "u": "https://cricketraja.vercel.app/api/front/userdata",
       "body": "{\"data\":\"U2FsdGVkX18L/lNfVY/D0gZHK3P7os639oYTi1mYekcA27mQGTrLr7zSTzSt7OJ3vPuOSnp7idreqA8YAMAEuJi9YpFkO53etfvyMyqYYSzEMHCTmaNTjV7SJDKnrLgM\"}"
     },
     {
       "t": "resp",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/userdata",
+      "u": "https://cricketraja.vercel.app/api/front/userdata",
       "body": "{\"data\":\"U2FsdGVkX1/pWWqLrPAZVAjuHR6v39tlQpJ5ejnUCO1O7YQXnkt0b8etlVPmqT34OVcKTX1QVbKyvoNWl8LOrQpU86NxeCkLTE/tunV+t4BqnS9aGZdwhtoi85BJc+Le\"}"
     },
     {
       "t": "resp",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/userdata",
+      "u": "https://cricketraja.vercel.app/api/front/userdata",
       "body": "{\"data\":\"U2FsdGVkX19UdZJ71vUYhFadiASiigdKCxChWZ02w9bga0raXchDxpljDSp4rSDVPv3UAzma1jNTrtsTxdMD53DBp1rbjjYdF/oW7sO6wcXW5cBpcsQX+13lPjo1aC5G\"}"
     },
     {
       "t": "resp",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/userdata",
+      "u": "https://cricketraja.vercel.app/api/front/userdata",
       "body": "{\"data\":\"U2FsdGVkX1+XngRxFCVt4wgivBgzNY4mkRcDFEtCXrrXc1nFOzj4wSwQuleQSh+ONPdZFUefboRjRl0c4uD5a+dw0Q7NJ1+RwTfbbNWKUhUeoxGP+34IaQL+kjza8vWk\"}"
     },
     {
       "t": "resp",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/userdata",
+      "u": "https://cricketraja.vercel.app/api/front/userdata",
       "body": "{\"data\":\"U2FsdGVkX1/bo7MMfvc9Nsdf5O0qC9g+uTV+u31B8zWyVrmGS/nV0Z2UAEtiqmPFvuZRPcEmNJlFJzLXdW2IhRN/zV/TFjriUTa7kd97XBzL5XCBmOMNj8D5kCBqo9g2\"}"
     }
   ]

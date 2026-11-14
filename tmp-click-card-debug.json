@@ -1,147 +1,147 @@
 {
-  "startUrl": "http://127.0.0.1:3000/home",
+  "startUrl": "https://cricketraja.vercel.app/home",
   "firstHref": "/casino/superover2?gid=mac-excite-lobby-749e6234",
-  "endUrl": "http://127.0.0.1:3000/casino/superover2?gid=mac-excite-lobby-749e6234&local_fallback=1",
+  "endUrl": "https://cricketraja.vercel.app/casino/superover2?gid=mac-excite-lobby-749e6234&local_fallback=1",
   "before": [
     {
       "i": 0,
       "href": "/casino/superover2?gid=mac-excite-lobby-749e6234",
       "name": "MAC Excite Lobby",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-001.gif\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-001.gif\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-001.gif\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 1,
       "href": "/casino/superover2?gid=casino-war-542a3cd1",
       "name": "Casino War",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-002.gif\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-002.gif\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-002.gif\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 2,
       "href": "/casino/superover2?gid=ak47-teenpatti-14e1e9ff",
       "name": "AK47 Teenpatti",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-003.gif\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-003.gif\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-003.gif\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 3,
       "href": "/casino/superover2?gid=teenpatti-one-day-b187b5c1",
       "name": "Teenpatti One Day",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-004.gif\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-004.gif\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-004.gif\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 4,
       "href": "/casino/superover2?gid=baccarat-4911bff8",
       "name": "Baccarat",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-005.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-005.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-005.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 5,
       "href": "/casino/superover2?gid=sic-bo-1d2b93b9",
       "name": "Sic Bo",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-006.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-006.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-006.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 6,
       "href": "/casino/superover2?gid=andar-bahar-c57c0ced",
       "name": "Andar Bahar",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-007.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-007.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-007.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 7,
       "href": "/casino/superover2?gid=teenpatti-joker-20-20-77e1e1f8",
       "name": "Teenpatti Joker 20-20",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-008.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-008.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-008.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 8,
       "href": "/casino/superover2?gid=32-cards-9970d3ec",
       "name": "32 Cards",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-009.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-009.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-009.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 9,
       "href": "/casino/superover2?gid=lucky-7-83926ba3",
       "name": "Lucky 7",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-010.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-010.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-010.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 10,
       "href": "/casino/superover2?gid=roulette-e7ce60df",
       "name": "Roulette",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-011.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-011.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-011.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 11,
       "href": "/casino/superover2?gid=lucky-5-65a47c67",
       "name": "Lucky 5",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-012.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-012.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-012.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 12,
       "href": "/casino/superover2?gid=dragon-tiger-lion-e29b63a8",
       "name": "Dragon Tiger Lion",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-013.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-013.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-013.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 13,
       "href": "/casino/superover2?gid=speed-auto-roulette-e12a9ed6",
       "name": "Speed Auto Roulette",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-014.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-014.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-014.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 14,
       "href": "/casino/superover2?gid=turbo-auto-roulette-9a75be5b",
       "name": "Turbo Auto Roulette",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-015.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-015.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-015.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 15,
       "href": "/casino/superover2?gid=speed-auto-roulette-126c3e8b",
       "name": "Speed Auto Roulette",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-016.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-016.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-016.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 16,
       "href": "/casino/superover2?gid=turbo-auto-roulette-7df6270b",
       "name": "Turbo Auto Roulette",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-017.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-017.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-017.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 17,
       "href": "/casino/superover2?gid=hilo-gold-rush-119d4403",
       "name": "Hilo Gold Rush",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-018.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-018.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-018.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 18,
       "href": "/casino/superover2?gid=lucky-drop-gong-xi-fa-chai-9078081e",
       "name": "Lucky Drop-Gong Xi Fa Chai",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-019.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-019.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-019.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     },
     {
       "i": 19,
       "href": "/casino/superover2?gid=poker-king-a9b13010",
       "name": "Poker King",
       "styleBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-020.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
-      "csBg": "url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/lc/ref-020.jpg\"), url(\"http://127.0.0.1:3000/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
+      "csBg": "url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/lc/ref-020.jpg\"), url(\"https://cricketraja.vercel.app/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")"
     }
   ],
   "after": [],
@@ -149,102 +149,102 @@
     {
       "t": "req",
       "m": "POST",
-      "u": "http://127.0.0.1:3000/api/front/casino/alllist"
+      "u": "https://cricketraja.vercel.app/api/front/casino/alllist"
     },
     {
       "t": "req",
       "m": "POST",
-      "u": "http://127.0.0.1:3000/api/front/casino/tablelist"
+      "u": "https://cricketraja.vercel.app/api/front/casino/tablelist"
     },
     {
       "t": "res",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/casino/alllist"
+      "u": "https://cricketraja.vercel.app/api/front/casino/alllist"
     },
     {
       "t": "res",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/casino/tablelist"
+      "u": "https://cricketraja.vercel.app/api/front/casino/tablelist"
     },
     {
       "t": "req",
       "m": "GET",
-      "u": "http://127.0.0.1:3000/provider-game?gid=mac-excite-lobby-749e6234&member=demo_user"
+      "u": "https://cricketraja.vercel.app/provider-game?gid=mac-excite-lobby-749e6234&member=demo_user"
     },
     {
       "t": "res",
       "s": 302,
-      "u": "http://127.0.0.1:3000/provider-game?gid=mac-excite-lobby-749e6234&member=demo_user"
+      "u": "https://cricketraja.vercel.app/provider-game?gid=mac-excite-lobby-749e6234&member=demo_user"
     },
     {
       "t": "req",
       "m": "GET",
-      "u": "http://127.0.0.1:3000/casino/superover2?gid=mac-excite-lobby-749e6234&local_fallback=1"
+      "u": "https://cricketraja.vercel.app/casino/superover2?gid=mac-excite-lobby-749e6234&local_fallback=1"
     },
     {
       "t": "res",
       "s": 200,
-      "u": "http://127.0.0.1:3000/casino/superover2?gid=mac-excite-lobby-749e6234&local_fallback=1"
+      "u": "https://cricketraja.vercel.app/casino/superover2?gid=mac-excite-lobby-749e6234&local_fallback=1"
     },
     {
       "t": "req",
       "m": "POST",
-      "u": "http://127.0.0.1:3000/api/front/casino/alllist"
+      "u": "https://cricketraja.vercel.app/api/front/casino/alllist"
     },
     {
       "t": "req",
       "m": "POST",
-      "u": "http://127.0.0.1:3000/api/front/casino/check"
+      "u": "https://cricketraja.vercel.app/api/front/casino/check"
     },
     {
       "t": "req",
       "m": "POST",
-      "u": "http://127.0.0.1:3000/api/front/casino/launchother?gid=mac-excite-lobby-749e6234"
+      "u": "https://cricketraja.vercel.app/api/front/casino/launchother?gid=mac-excite-lobby-749e6234"
     },
     {
       "t": "req",
       "m": "POST",
-      "u": "http://127.0.0.1:3000/api/front/casino/lastresultsnew"
+      "u": "https://cricketraja.vercel.app/api/front/casino/lastresultsnew"
     },
     {
       "t": "res",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/casino/alllist"
+      "u": "https://cricketraja.vercel.app/api/front/casino/alllist"
     },
     {
       "t": "res",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/casino/check"
+      "u": "https://cricketraja.vercel.app/api/front/casino/check"
     },
     {
       "t": "res",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/casino/lastresultsnew"
+      "u": "https://cricketraja.vercel.app/api/front/casino/lastresultsnew"
     },
     {
       "t": "res",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/casino/launchother?gid=mac-excite-lobby-749e6234"
+      "u": "https://cricketraja.vercel.app/api/front/casino/launchother?gid=mac-excite-lobby-749e6234"
     },
     {
       "t": "req",
       "m": "POST",
-      "u": "http://127.0.0.1:3000/api/front/casino/data2?gtype=superover2"
+      "u": "https://cricketraja.vercel.app/api/front/casino/data2?gtype=superover2"
     },
     {
       "t": "res",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/casino/data2?gtype=superover2"
+      "u": "https://cricketraja.vercel.app/api/front/casino/data2?gtype=superover2"
     },
     {
       "t": "req",
       "m": "POST",
-      "u": "http://127.0.0.1:3000/api/front/casino/data2?gtype=superover2"
+      "u": "https://cricketraja.vercel.app/api/front/casino/data2?gtype=superover2"
     },
     {
       "t": "res",
       "s": 200,
-      "u": "http://127.0.0.1:3000/api/front/casino/data2?gtype=superover2"
+      "u": "https://cricketraja.vercel.app/api/front/casino/data2?gtype=superover2"
     }
   ]
 }

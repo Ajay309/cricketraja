@@ -14,7 +14,7 @@
     console.log('PAGEERROR', err.message);
     if (err.stack) console.log(err.stack);
   });
-  await page.goto('http://127.0.0.1:3000/admin.99-exch.red/dashboard', { waitUntil: 'domcontentloaded', timeout: 60000 });
+  await page.goto('https://cricketraja.vercel.app/admin.99-exch.red/dashboard', { waitUntil: 'domcontentloaded', timeout: 60000 });
   await page.waitForTimeout(7000);
   await browser.close();
 })();

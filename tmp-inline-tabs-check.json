@@ -7,7 +7,7 @@
     "out": [
       {
         "tag": "initial",
-        "url": "http://127.0.0.1:3000/home",
+        "url": "https://cricketraja.vercel.app/home",
         "count": 261,
         "names": [
           "MAC Excite Lobby",
@@ -25,7 +25,7 @@
       },
       {
         "tag": "Our Casino",
-        "url": "http://127.0.0.1:3000/home",
+        "url": "https://cricketraja.vercel.app/home",
         "count": 35,
         "names": [
           "Evolution Poker",
@@ -43,7 +43,7 @@
       },
       {
         "tag": "Live Casino",
-        "url": "http://127.0.0.1:3000/home",
+        "url": "https://cricketraja.vercel.app/home",
         "count": 261,
         "names": [
           "MAC Excite Lobby",
@@ -61,7 +61,7 @@
       },
       {
         "tag": "Slots",
-        "url": "http://127.0.0.1:3000/home",
+        "url": "https://cricketraja.vercel.app/home",
         "count": 522,
         "names": [
           "Mines",
@@ -79,7 +79,7 @@
       },
       {
         "tag": "Fantasy",
-        "url": "http://127.0.0.1:3000/home",
+        "url": "https://cricketraja.vercel.app/home",
         "count": 168,
         "names": [
           "Chicken Road 2.0",
@@ -100,22 +100,22 @@
       {
         "t": "req",
         "m": "GET",
-        "u": "http://127.0.0.1:3000/api/provider/home-games"
+        "u": "https://cricketraja.vercel.app/api/provider/home-games"
       },
       {
         "t": "res",
         "s": 200,
-        "u": "http://127.0.0.1:3000/api/provider/home-games"
+        "u": "https://cricketraja.vercel.app/api/provider/home-games"
       },
       {
         "t": "req",
         "m": "GET",
-        "u": "http://127.0.0.1:3000/api/provider/home-games"
+        "u": "https://cricketraja.vercel.app/api/provider/home-games"
       },
       {
         "t": "res",
         "s": 200,
-        "u": "http://127.0.0.1:3000/api/provider/home-games"
+        "u": "https://cricketraja.vercel.app/api/provider/home-games"
       }
     ]
   },
@@ -127,7 +127,7 @@
     "out": [
       {
         "tag": "initial",
-        "url": "http://127.0.0.1:3000/home",
+        "url": "https://cricketraja.vercel.app/home",
         "count": 261,
         "names": [
           "MAC Excite Lobby",
@@ -145,7 +145,7 @@
       },
       {
         "tag": "Our Casino",
-        "url": "http://127.0.0.1:3000/home",
+        "url": "https://cricketraja.vercel.app/home",
         "count": 35,
         "names": [
           "Evolution Poker",
@@ -163,7 +163,7 @@
       },
       {
         "tag": "Live Casino",
-        "url": "http://127.0.0.1:3000/home",
+        "url": "https://cricketraja.vercel.app/home",
         "count": 261,
         "names": [
           "MAC Excite Lobby",
@@ -181,7 +181,7 @@
       },
       {
         "tag": "Slots",
-        "url": "http://127.0.0.1:3000/home",
+        "url": "https://cricketraja.vercel.app/home",
         "count": 522,
         "names": [
           "Mines",
@@ -199,7 +199,7 @@
       },
       {
         "tag": "Fantasy",
-        "url": "http://127.0.0.1:3000/home",
+        "url": "https://cricketraja.vercel.app/home",
         "count": 168,
         "names": [
           "Chicken Road 2.0",
@@ -220,22 +220,22 @@
       {
         "t": "req",
         "m": "GET",
-        "u": "http://127.0.0.1:3000/api/provider/home-games"
+        "u": "https://cricketraja.vercel.app/api/provider/home-games"
       },
       {
         "t": "res",
         "s": 200,
-        "u": "http://127.0.0.1:3000/api/provider/home-games"
+        "u": "https://cricketraja.vercel.app/api/provider/home-games"
       },
       {
         "t": "req",
         "m": "GET",
-        "u": "http://127.0.0.1:3000/api/provider/home-games"
+        "u": "https://cricketraja.vercel.app/api/provider/home-games"
       },
       {
         "t": "res",
         "s": 200,
-        "u": "http://127.0.0.1:3000/api/provider/home-games"
+        "u": "https://cricketraja.vercel.app/api/provider/home-games"
       }
     ]
   }

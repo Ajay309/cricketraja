@@ -1,35 +1,35 @@
 [
   {
     "tag": "initial",
-    "url": "http://127.0.0.1:3000/home",
+    "url": "https://cricketraja.vercel.app/home",
     "count": 261,
     "firstBg": "url(\"/dataobj.ecoassetsservice.com/casino-icons/lc/ref-001.gif\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
     "firstName": "MAC Excite Lobby"
   },
   {
     "tag": "our",
-    "url": "http://127.0.0.1:3000/home",
+    "url": "https://cricketraja.vercel.app/home",
     "count": 35,
     "firstBg": "url(\"/local/game-images/our/image_257x257_1.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
     "firstName": "POINT RUMMY"
   },
   {
     "tag": "live",
-    "url": "http://127.0.0.1:3000/home",
+    "url": "https://cricketraja.vercel.app/home",
     "count": 261,
     "firstBg": "url(\"/local/game-images/live/image_335x179_1.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
     "firstName": "MAC Excite Lobby"
   },
   {
     "tag": "slots",
-    "url": "http://127.0.0.1:3000/home",
+    "url": "https://cricketraja.vercel.app/home",
     "count": 522,
     "firstBg": "url(\"/local/game-images/slots/image_335x251_1.jpg\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
     "firstName": "Lucky Doggy"
   },
   {
     "tag": "fantasy",
-    "url": "http://127.0.0.1:3000/home",
+    "url": "https://cricketraja.vercel.app/home",
     "count": 168,
     "firstBg": "url(\"/sitethemedata.com/casino_icons/innout-562b299961b0ec40f252a832453c67b0.png\"), url(\"/dataobj.ecoassetsservice.com/casino-icons/default.jpg\")",
     "firstName": "Chicken Road 2.0"

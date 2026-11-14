@@ -19,7 +19,7 @@ async function run() {
   const server = spawn("node", ["server.js"], { cwd: process.cwd(), stdio: "ignore" });
   try {
     await sleep(2000);
-    const base = "http://127.0.0.1:3000/admin.99-exch.red";
+    const base = "https://cricketraja.vercel.app/admin.99-exch.red";
     const checks = [
       req(`${base}/dashboard`),
       req(`${base}/admin/dashboard/getDashboardData`),

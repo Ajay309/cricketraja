@@ -14,7 +14,7 @@ async function runCase(name, contextOptions) {
   page.on('console', (msg) => logs.push({ type: msg.type(), text: msg.text() }));
   page.on('pageerror', (err) => logs.push({ type: 'pageerror', text: err.message }));
 
-  const response = await page.goto('http://127.0.0.1:3000/', {
+  const response = await page.goto('https://cricketraja.vercel.app/', {
     waitUntil: 'domcontentloaded',
     timeout: 60000
   });
