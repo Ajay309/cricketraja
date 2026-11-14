@@ -1,32 +1,37 @@
 const fs = require("node:fs");
 const path = require("node:path");
 
+const envPath = path.join(__dirname, ".env");
+if (fs.existsSync(envPath)) {
+  if (typeof process.loadEnvFile !== "function") {
+    throw new Error("Loading the local .env file requires Node.js 20.6 or newer.");
+  }
+  process.loadEnvFile(envPath);
+}
+
+if (!process.env.NODE_ENV) {
+  process.env.NODE_ENV = "production";
+}
+
+const loaded = require("./backend/app");
+// Vercel bundle mein exports .default ke andar aate hain, local mein seedhe
+const appModule =
+  typeof loaded.createAppServer === "function"
+    ? loaded
+    : loaded.default && typeof loaded.default.createAppServer === "function"
+      ? loaded.default
+      : loaded.default || loaded;
+
+// Local: `node server.js`
+if (require.main === module) {
+  appModule.startServer();
+}
+
+// Vercel: listen() nahi, sirf request handler
+let server;
 module.exports = (req, res) => {
-  const out = { node: process.version };
-  const dir = path.join(__dirname, "backend");
-  try {
-    const p = path.join(dir, "app.cjs");
-    const src = fs.readFileSync(p, "utf8");
-    out.appCjsSize = src.length;
-    out.head = src.slice(0, 500);
-    out.tail = src.slice(-400);
-    out.hasCreateAppServer = src.includes("createAppServer");
-  } catch (e) {
-    out.readError = String(e);
+  if (!server) {
+    server = appModule.createAppServer();
   }
-  try {
-    const m = require("./backend/app");
-    out.type = typeof m;
-    out.keys = Object.keys(m || {});
-  } catch (e) {
-    out.requireError = String(e && e.stack ? e.stack : e).split("\n").slice(0, 6);
-  }
-  try {
-    out.rootPkg = JSON.parse(fs.readFileSync(path.join(__dirname, "package.json"), "utf8"));
-  } catch (e) {
-    out.rootPkg = "not found";
-  }
-  res.statusCode = 200;
-  res.setHeader("content-type", "application/json");
-  res.end(JSON.stringify(out, null, 2));
+  server.emit("request", req, res);
 };
