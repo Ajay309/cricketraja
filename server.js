@@ -7,8 +7,13 @@ if (fs.existsSync(envPath) && typeof process.loadEnvFile === "function") {
 }
 if (!process.env.NODE_ENV) process.env.NODE_ENV = "production";
 
-const loaded = require("./backend/app");
-
+let loaded = {};
+for (const p of ["backend/app.cjs", "backend/app.js"]) {
+  try {
+    const m = require(path.join(__dirname, p));
+    if (m && Object.getOwnPropertyNames(m).length) { loaded = m; break; }
+  } catch (e) { /* next path try karo */ }
+}
 function findApi(m, depth = 0) {
   if (!m || depth > 3) return null;
   if (typeof m.createAppServer === "function") return m;
