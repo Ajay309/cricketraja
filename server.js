@@ -1,42 +1,22 @@
 const fs = require("node:fs");
 const path = require("node:path");
 
-const envPath = path.join(__dirname, ".env");
-if (fs.existsSync(envPath)) {
-  if (typeof process.loadEnvFile !== "function") {
-    throw new Error("Loading the local .env file requires Node.js 20.6 or newer.");
-  }
-  process.loadEnvFile(envPath);
-}
-
-if (!process.env.NODE_ENV) {
-  process.env.NODE_ENV = "production";
-}
-
-const appModule = require("./backend/app");
-
 module.exports = (req, res) => {
+  const out = { cwd: process.cwd(), node: process.version };
+  try {
+    const dir = path.join(__dirname, "backend");
+    out.backendFiles = fs.readdirSync(dir).filter((f) => /^app/i.test(f));
+    const appPath = path.join(dir, "app.js");
+    out.appJsExists = fs.existsSync(appPath);
+    out.appJsSize = out.appJsExists ? fs.statSync(appPath).size : null;
+    out.resolved = require.resolve("./backend/app");
+    const m = require("./backend/app");
+    out.type = typeof m;
+    out.keys = Object.keys(m || {});
+  } catch (e) {
+    out.error = String(e && e.stack ? e.stack : e).split("\n").slice(0, 8);
+  }
   res.statusCode = 200;
   res.setHeader("content-type", "application/json");
-  res.end(JSON.stringify({
-    resolved: require.resolve("./backend/app"),
-    type: typeof appModule,
-    keys: Object.keys(appModule || {}),
-    cwd: process.cwd(),
-    node: process.version
-  }, null, 2));
-};
-
-// Local: `node server.cjs` -> normal listen()
-if (require.main === module) {
-  appModule.startServer();
-}
-
-// Vercel: listen() nahi, sirf request handler export
-let server;
-module.exports = (req, res) => {
-  if (!server) {
-    server = appModule.createAppServer();
-  }
-  server.emit("request", req, res);
+  res.end(JSON.stringify(out, null, 2));
 };
