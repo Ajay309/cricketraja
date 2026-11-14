@@ -5,6 +5,32 @@ const { LOCAL_DB_FILE } = require("./config");
 const { toNumber, pickFirstValue } = require("./http-utils");
 const mock = require("./mock-content");
 
+const SESSION_SECRET = String(process.env.SESSION_SECRET || "");
+
+function signSessionToken(username) {
+  const body = Buffer.from(JSON.stringify({ u: username, t: Date.now() })).toString("base64url");
+  const sig = crypto.createHmac("sha256", SESSION_SECRET).update(body).digest("base64url");
+  return `tk_${body}.${sig}`;
+}
+
+function verifySessionToken(token) {
+  if (!SESSION_SECRET) return "";
+  const raw = String(token || "");
+  if (!raw.startsWith("tk_")) return "";
+  const [body, sig] = raw.slice(3).split(".");
+  if (!body || !sig) return "";
+  const expected = crypto.createHmac("sha256", SESSION_SECRET).update(body).digest("base64url");
+  const a = Buffer.from(sig);
+  const b = Buffer.from(expected);
+  if (a.length !== b.length || !crypto.timingSafeEqual(a, b)) return "";
+  try {
+    const data = JSON.parse(Buffer.from(body, "base64url").toString("utf8"));
+    return String((data && data.u) || "").trim().toLowerCase();
+  } catch {
+    return "";
+  }
+}
+
 const OWNER_DEFAULT_USERNAME = "admin";
 const OWNER_DEFAULT_PASSWORD = "admin00";
 const OWNER_DEFAULT_DISPLAY_NAME = "Admin";
@@ -2237,8 +2263,7 @@ class LocalDatabase {
         delete this.state.sessions[existingToken];
       }
     }
-    const token = makeId("tk");
-    this.state.sessions[token] = {
+const token = process.env.VERCEL && SESSION_SECRET ? signSessionToken(normalizedUsername) : makeId("tk");    this.state.sessions[token] = {
       username: normalizedUsername || String(username || "").trim(),
       createdAt: formatDateTime()
     };
@@ -2246,15 +2271,16 @@ class LocalDatabase {
     return token;
   }
 
-  getUserFromToken(token) {
+    getUserFromToken(token) {
     if (!token) {
       return null;
     }
     const session = this.state.sessions[String(token)] || null;
-    if (!session) {
-      return null;
+    if (session) {
+      return this.findUserByUsername(session.username);
     }
-    return this.findUserByUsername(session.username);
+    const signedUser = verifySessionToken(token);
+    return signedUser ? this.findUserByUsername(signedUser) : null;
   }
 
   resolveUser(payload = {}, token = "", options = {}) {
