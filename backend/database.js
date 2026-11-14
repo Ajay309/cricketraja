@@ -873,7 +873,17 @@ function buildDefaultState() {
 }
 
 class LocalDatabase {
-  constructor(filePath = LOCAL_DB_FILE) {
+    constructor(filePath = LOCAL_DB_FILE) {
+    if (process.env.VERCEL) {
+      // Vercel pe sirf /tmp writable hai, isliye wahan DB rakho
+      const tmpPath = path.join(require("os").tmpdir(), "local-db.json");
+      try {
+        if (!fs.existsSync(tmpPath) && fs.existsSync(filePath)) {
+          fs.copyFileSync(filePath, tmpPath); // repo wali DB se seed
+        }
+      } catch { }
+      filePath = tmpPath;
+    }
     this.filePath = filePath;
     this.state = buildDefaultState();
     this.loginHintIndex = new Map();
@@ -1203,7 +1213,9 @@ class LocalDatabase {
           fs.unlinkSync(tmpFile);
         } catch { }
       }
-      this.lastFlushAt = Date.now();
+           this.lastFlushAt = Date.now();
+    } catch (err) {
+      console.error("[DB] flush failed:", err && err.message);
     } finally {
       this.isFlushing = false;
       if (this.savePending) {

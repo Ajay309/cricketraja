@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "server.js": {
+      "includeFiles": "{admin.99-exch.red,backend/data}/**"
+    }
+  }
+}
